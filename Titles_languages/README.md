@@ -11,4 +11,4 @@
 | Czech | 10144 |
 | German | 12503 |
 | Norwegian | 4124 |
-
+| Vietnamese | 1071 |
