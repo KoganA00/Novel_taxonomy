@@ -9,4 +9,5 @@
 | Bulgarian | 734 |
 | Chinese | 8242 |
 | Czech | 10144 |
+| German | 12503 |
 
