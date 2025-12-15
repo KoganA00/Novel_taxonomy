@@ -15,5 +15,6 @@
 | Norwegian | 4124 |
 | Russian | 6429 |
 | Spanish | 8522 |
+| Swahili | 1517 |
 | Thai | 5585 |
 | Vietnamese | 1071 |
