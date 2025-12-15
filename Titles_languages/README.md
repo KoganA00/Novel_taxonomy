@@ -11,6 +11,7 @@
 | Czech | 10144 |
 | English | 11052 |
 | German | 12503 |
+| Malayalam | 10041 |
 | Norwegian | 4124 |
 | Thai | 5585 |
 | Vietnamese | 1071 |
