@@ -9,6 +9,7 @@
 | Bulgarian | 734 |
 | Chinese | 8242 |
 | Czech | 10144 |
+| English | 11052 |
 | German | 12503 |
 | Norwegian | 4124 |
 | Vietnamese | 1071 |
