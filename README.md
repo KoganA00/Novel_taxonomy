@@ -31,5 +31,6 @@ Folder `Titles_languages` contains titles of texts for languages used in the pap
 | Swahili | 1 517 |
 | Thai | 5 585 |
 | Turkish | 1 308 |
+| Udmurt | 1 740 |
 | Ukrainian | 10 052|
 | Vietnamese | 1 071 |
