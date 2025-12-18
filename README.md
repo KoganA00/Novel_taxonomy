@@ -30,8 +30,8 @@ Folder `Titles_languages` contains titles of texts for languages used in the pap
 | Spanish | 8 522 |
 | Swahili | 1 517 |
 | Thai | 5 585 |
-| Tuvan | 5 337|
 | Turkish | 1 308 |
+| Tuvan | 5 337|
 | Udmurt | 1 740 |
 | Ukrainian | 10 052|
 | Vietnamese | 1 071 |
