@@ -23,6 +23,7 @@ Folder `Titles_languages` contains titles of texts for languages used in the pap
 | Malayalam | 10 041 |
 | Norwegian | 4 124 |
 | Persian | 1 381 |
+| Punjabi | 28 884|
 | Quechua | 41 566 |
 | Russian | 6 429 |
 | Spanish | 8 522 |
