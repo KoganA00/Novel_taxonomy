@@ -20,7 +20,8 @@ Folder `Titles_languages` contains titles of texts for languages used in the pap
 | German | 12 503 |
 | Hindi | 1 043 |
 | Japanese | 15 302 |
-| Kazakh | 2 090|
+| Kazakh | 2 090 |
+| Latin | 7 819 |
 | Malayalam | 10 041 |
 | Norwegian | 4 124 |
 | Persian | 1 381 |
