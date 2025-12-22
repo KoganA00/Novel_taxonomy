@@ -15,6 +15,7 @@ Folder `Titles_languages` contains titles of texts for languages used in the pap
 | Bulgarian | 734 |
 | Chinese | 8 242 |
 | Czech | 10 144 |
+| Dholuo | 66 |
 | Dutch | 2 387 |
 | English | 11 052 |
 | German | 12 503 |
