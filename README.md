@@ -35,6 +35,7 @@ Folder `Titles_languages` contains titles of texts for languages used in the pap
 | Spanish | 8 522 |
 | Swahili | 1 517 |
 | Tabasaran | 2 337|
+| Tagalog | 1 000 |
 | Thai | 5 585 |
 | Turkish | 1 308 |
 | Tuvan | 5 337|
