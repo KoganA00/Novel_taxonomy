@@ -18,6 +18,8 @@ Folder `Titles_languages` contains titles of texts for languages used in the pap
 | Dholuo | 66 |
 | Dutch | 2 387 |
 | English | 11 052 |
+| French | 3 528 |
+| Finnish | 3 385 |
 | German | 12 503 |
 | Hindi | 1 043 |
 | Indonesian | 3 267 |
