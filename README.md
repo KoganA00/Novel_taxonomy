@@ -35,6 +35,7 @@ Folder `Titles_languages` contains titles of texts for languages used in the pap
 | Polish | 532 |
 | Punjabi | 28 884|
 | Quechua | 41 566 |
+| Romanian | 2 374 |
 | Russian | 6 429 |
 | Spanish | 8 522 |
 | Swahili | 1 517 |
