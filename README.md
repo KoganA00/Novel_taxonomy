@@ -8,6 +8,7 @@ Folder `Titles_languages` contains titles of texts for languages used in the pap
 
 | Language | Number of texts |
 | ------------- | ------------- |
+| Amharic | 1 337 |
 | Arabic | 670 |
 | Atikamekw | 1 584 |
 | Belarusian | 10 311 |
