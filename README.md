@@ -30,6 +30,7 @@ Folder `Titles_languages` contains titles of texts for languages used in the pap
 | Navajo | 20 614 |
 | Norwegian | 4 124 |
 | Oromo | 66 |
+| Ossetian | 1 168 |
 | Persian | 1 381 |
 | Polish | 532 |
 | Punjabi | 28 884|
