@@ -44,5 +44,6 @@ Folder `Titles_languages` contains titles of texts for languages used in the pap
 | Turkish | 1 308 |
 | Tuvan | 5 337|
 | Udmurt | 1 740 |
-| Ukrainian | 10 052|
+| Ukrainian | 10 052 |
+| Uzbek | 10 533 |
 | Vietnamese | 1 071 |
