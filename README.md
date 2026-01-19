@@ -15,6 +15,7 @@ Folder `Titles_languages` contains titles of texts for languages used in the pap
 | Belarusian | 10 311 |
 | Bengali | 29 076 |
 | Bulgarian | 734 |
+| Chechen | 20 152 |
 | Chinese | 8 242 |
 | Czech | 10 144 |
 | Dholuo | 66 |
