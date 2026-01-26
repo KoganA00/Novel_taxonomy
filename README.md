@@ -26,6 +26,7 @@ Folder `Titles_languages` contains titles of texts for languages used in the pap
 | Finnish | 3 385 |
 | German | 12 503 |
 | Hindi | 1 043 |
+| Icelandic | 21 356 |
 | Indonesian | 3 267 |
 | Japanese | 15 302 |
 | Kazakh | 2 090 |
@@ -55,3 +56,7 @@ Folder `Titles_languages` contains titles of texts for languages used in the pap
 | Ukrainian | 10 052 |
 | Uzbek | 10 533 |
 | Vietnamese | 1 071 |
+
+Coptic texts source: [Coptic Scriptorium](https://copticscriptorium.org/)
+
+Icelandic texts sources: [IGC-Books 23.10](https://repository.clarin.is/repository/xmlui/handle/20.500.12537/317), [IGC-Journals 22.10](https://repository.clarin.is/repository/xmlui/handle/20.500.12537/246)
