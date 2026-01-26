@@ -49,6 +49,7 @@ Folder `Titles_languages` contains titles of texts for languages used in the pap
 | Sinhala | Indo-European, Indo-Aryan | 16 million | 15 004 |
 | Spanish | Indo-European, Romaniannesque | 460 million | 8 522 |
 | Swahili | Niger-Congolese, Benue-Congo | 50-100 million | 1 517 |
+| Swedish | Indo-European, Scandinavian	 | 10 million | |
 | Tabasaran | Northeast Caucasian, Lezgi | 125 000 | 2 337|
 | Tagalog | Austronesian, Central Philippine | 28 million | 1 000 |
 | Tatar | Altai, Kipchak | 7 million | 5 072 |
