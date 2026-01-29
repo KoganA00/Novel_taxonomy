@@ -29,7 +29,7 @@ Folder `Titles_languages` contains titles of texts for languages used in the pap
 | Hindi      | Indo-European, Indo-Iranian        | 341 million    | SOV          | Inconsistent       | Accusative  | Analytic                   | LL                    | 1 043               |
 | Icelandic  | Indo-European, Scandinavian        | 314 000        | SVO          | Dependent          | Accusative  | Synthetic                  | LL                    | 21 356              |
 | Indonesian | Austronesian, Malay                | 43 million     | SVO          | Zero               | Accusative  | Synthetic                  | RR                    | 3 267               |
-| Kabyle     | Afro-Asiatic, the Northern Berber  | -              | SVO          | Dependent          | Neutral     | Synthetic                  | LL                    |                     |
+| Kabyle     | Afro-Asiatic, the Northern Berber  | -              | SVO          | Dependent          | Neutral     | Synthetic                  | LL                    | 6 447               |
 | Kazakh     | Altai, Kipchak                     | 18 million     | SOV          | Dependent          | Accusative  | Synthetic                  | R                     | 2 090               |
 | Latin      | Indo-European, Latin-Faliscan      | -              | SOV          | Dependent          | Accusative  | Synthetic                  | LL                    | 7 819               |
 | Latvian    | Indo-European, Baltic              | 1.5 million    | SVO          | Dependent          | Accusative  | Synthetic                  | RR                    | 152 983 (sentences) |
