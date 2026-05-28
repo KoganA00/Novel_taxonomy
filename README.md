@@ -64,3 +64,5 @@ Folder `Titles_languages` contains titles of texts for languages used in the pap
 Coptic texts source: [Coptic Scriptorium](https://copticscriptorium.org/)
 
 Icelandic texts sources: [IGC-Books 23.10](https://repository.clarin.is/repository/xmlui/handle/20.500.12537/317), [IGC-Journals 22.10](https://repository.clarin.is/repository/xmlui/handle/20.500.12537/246)
+
+Latin texts source: [latin-lit-dataset-170M](https://www.kaggle.com/datasets/yaustal/latin-literature-dataset-170m/data)
