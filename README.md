@@ -67,4 +67,6 @@ Icelandic texts sources: [IGC-Books 23.10](https://repository.clarin.is/reposito
 
 Latin texts source: [latin-lit-dataset-170M](https://www.kaggle.com/datasets/yaustal/latin-literature-dataset-170m/data)
 
+Norwegian texts source: [tekstlab.uio.no](https://tekstlab.uio.no/glossa2/saml?licence=ACA-NC-LOC-LRT-ND_OMC;back=https%3A%2F%2Ftekstlab.uio.no%2Fglossa2%2Fomc4)
+
 Hindi texts soure: [Hindi-Aesthetics-Corpus](https://github.com/gayatrivenugopal/Hindi-Aesthetics-Corpus/tree/master)
