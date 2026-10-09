@@ -21,7 +21,7 @@ Folder `Titles_languages` contains titles of texts for languages used in the pap
 | Czech      | Indo-European, Slavic, West Slavic | 10.7 million   | SVO          | Dependent          | Accusative  | Synthetic                  | RL                    | 10 144              |
 | Dholuo     | Nilo-Saharan, Nilotic              | 4.2 million    | VSO          | Dependent          | Accusative  | Analytic                   | RL                    | 66                  |
 | Dutch      | Indo-European                      | 24 million     | SOV          | Inconsistent       | Accusative  | Analytic                   | R                     | 2 387               |
-| English    | Indo-European, Germanic            | 375 million    | SVO          | Dependent          | Accusative  | Analytic                   | LR                    | 11 052              |
+| English    | Indo-European, Germanic            | 375 million    | SVO          | Dependent          | Accusative  | Analytic                   | LR                    | 10 208              |
 | Esperanto  | Constructed language               | -              | Free         | RI                 | Accusative  | Synthetic                  | L                     | 176                 |
 | French     | Indo-European, Italic              | 77 million     | SVO          | Inconsistent       | Accusative  | Synthetic                  | RR                    | 3 528               |
 | Finnish    | Uralic, Finno-Ugri                 | 5.5 million    | SVO          | Inconsistent       | Accusative  | Synthetic                  | LL                    | 3 385               |
