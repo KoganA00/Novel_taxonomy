@@ -18,7 +18,7 @@ Folder `Titles_languages` contains titles of texts for languages used in the pap
 | Chechen    | Nakhsko-Dagestan, Vainakh          | 1.5 million    | SOV          | Dependent          | Ergative    | Synthetic                  | LL                    | 20 152              |
 | Chinese    | Sino-Tibetan                       | 918 million    | SVO          | Dependent          | Neutral     | Isolating                  | LL                    | 8 242               |
 | Coptic     | Afro-Asiatic, Egyptian             | -              | SVO          | Dependent          | Accusative  | Analytic                   | LR                    | 1 322               |
-| Czech      | Indo-European, Slavic, West Slavic | 10.7 million   | SVO          | Dependent          | Accusative  | Synthetic                  | RL                    | 10 144              |
+| Czech      | Indo-European, Slavic, West Slavic | 10.7 million   | SVO          | Dependent          | Accusative  | Synthetic                  | RL                    | 2 780               |
 | Dholuo     | Nilo-Saharan, Nilotic              | 4.2 million    | VSO          | Dependent          | Accusative  | Analytic                   | RL                    | 66                  |
 | Dutch      | Indo-European                      | 24 million     | SOV          | Inconsistent       | Accusative  | Analytic                   | R                     | 2 387               |
 | English    | Indo-European, Germanic            | 375 million    | SVO          | Dependent          | Accusative  | Analytic                   | LR                    | 10 208              |
@@ -38,10 +38,10 @@ Folder `Titles_languages` contains titles of texts for languages used in the pap
 | Navajo     | Athabaskan, Southern Athabaskan    | 170 000        | SOV          | Dependent          | Accusative  | Synthetic                  | LL                    | 20 614              |
 | Norwegian  | Indo-European, Germanic            | 5 million      | SVO          | Dependent          | Accusative  | Analytic                   | LR                    | 4 124               |
 | Oromo      | Afro-Asiatic, Cushitic             | 35 million     | SOV          | Dependent          | Accusative  | Synthetic                  | LL                    | 66                  |
-| Ossetian   | Indo-European,/ Indo-Iranian       | 50 000         | SOV          | Dependent          | Accusative  | Synthetic                  | LL                    | 1 168               |
+| Ossetian   | Indo-European,/ Indo-Iranian       | 50 000         | SOV          | Dependent          | Accusative  | Synthetic                  | LL                    | 136                 |
 | Persian    | Indo-European, Iranian             | 70 million     | SOV          | Inconsistent       | Accusative  | Synthetic                  | RR                    | 1 381               |
-| Polish     | Indo-European, Slavic, West Slavic | 45 million     | SVO          | Dependent          | Accusative  | Synthetic                  | RL                    | 532                 |
-| Punjabi    | Indo-European, Indo-Iranian        | 125 million    | SOV          | Dependent          | Accusative  | Synthetic                  | LL                    | 28 884              |
+| Polish     | Indo-European, Slavic, West Slavic | 45 million     | SVO          | Dependent          | Accusative  | Synthetic                  | RL                    | 197                 |
+| Punjabi    | Indo-European, Indo-Iranian        | 125 million    | SOV          | Dependent          | Accusative  | Synthetic                  | LL                    | 12 441              |
 | Quechua    | Quechuan                           | 8-10 million   | SOV          | Inconsistent       | Accusative  | Synthetic                  | LL                    | 41 566              |
 | Romanian   | Indo-European, Itali               | 3-5 million    | SVO          | Dependent          | Accusative  | Synthetic                  | RR                    | 729                 |
 | Russian    | Indo-European, East Slavic         | 260 million    | SVO          | Dependent          | Accusative  | Synthetic                  | R                     | 5 837               |
@@ -59,7 +59,7 @@ Folder `Titles_languages` contains titles of texts for languages used in the pap
 | Udmurt     | Ural, Perm                         | 300 000        | SOV          | Dependent          | Accusative  | Synthetic                  | LL                    | 1 740               |
 | Ukrainian  | Indo-European, East Slavic         | 33 million     | SVO          | Dependent          | Accusative  | Synthetic                  | LR                    | 3 285               |
 | Uzbek      | Altai, Turkic, Karluk-Khorezmian   | 32 million     | SOV          | Inconsistent       | Accusative  | Synthetic                  | LL                    | 10 533              |
-| Vietnamese | Austroasiactic, Vietic             | 90 million     | SVO          | Zero               | Neutral     | Isolating                  | RR                    | 1 071               |
+| Vietnamese | Austroasiactic, Vietic             | 90 million     | SVO          | Zero               | Neutral     | Isolating                  | RR                    | 746                 |
 
 Coptic texts source: [Coptic Scriptorium](https://copticscriptorium.org/)
 
