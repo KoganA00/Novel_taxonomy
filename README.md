@@ -43,7 +43,7 @@ Folder `Titles_languages` contains titles of texts for languages used in the pap
 | Polish     | Indo-European, Slavic, West Slavic | 45 million     | SVO          | Dependent          | Accusative  | Synthetic                  | RL                    | 532                 |
 | Punjabi    | Indo-European, Indo-Iranian        | 125 million    | SOV          | Dependent          | Accusative  | Synthetic                  | LL                    | 28 884              |
 | Quechua    | Quechuan                           | 8-10 million   | SOV          | Inconsistent       | Accusative  | Synthetic                  | LL                    | 41 566              |
-| Romanian   | Indo-European, Itali               | 3-5 million    | SVO          | Dependent          | Accusative  | Synthetic                  | RR                    | 2 374               |
+| Romanian   | Indo-European, Itali               | 3-5 million    | SVO          | Dependent          | Accusative  | Synthetic                  | RR                    | 729                 |
 | Russian    | Indo-European, East Slavic         | 260 million    | SVO          | Dependent          | Accusative  | Synthetic                  | R                     | 5 837               |
 | Serbian    | Indo-European, South Slavic        | 12 million     | SVO          | Dependent          | Accusative  | Synthetic                  | L                     | 5 609               |
 | Sinhala    | Indo-European, Indo-Aryan          | 16 million     | SOV          | Dependent          | Accusative  | Synthetic                  | L                     | 15 004              |
@@ -54,10 +54,10 @@ Folder `Titles_languages` contains titles of texts for languages used in the pap
 | Tagalog    | Austronesian, Central Philippine   | 28 million     | VSO          | Inconsistent       | Neutral     | Analytic                   | RR                    | 1 000               |
 | Tatar      | Altai, Kipchak                     | 7 million      | SOV          | Dependent          | Accusative  | Synthetic                  | LL                    | 5 072               |
 | Thai       | Tai-kadai, Thai                    | 60 million     | SVO          | Inconsistent       | Neutral     | Analytic                   | RR                    | 5 585               |
-| Turkish    | Altai, South-western (Oguz)        | 70-80 million  | SOV          | Inconsistent       | Accusative  | Synthetic                  | LL                    | 1 308               |
+| Turkish    | Altai, South-western (Oguz)        | 70-80 million  | SOV          | Inconsistent       | Accusative  | Synthetic                  | LL                    | 404                 |
 | Tuvan      | Altai, Sayan                       | 200 000        | SOV          | Dependent          | Accusative  | Synthetic                  | LL                    | 5 337               |
 | Udmurt     | Ural, Perm                         | 300 000        | SOV          | Dependent          | Accusative  | Synthetic                  | LL                    | 1 740               |
-| Ukrainian  | Indo-European, East Slavic         | 33 million     | SVO          | Dependent          | Accusative  | Synthetic                  | LR                    | 10 052              |
+| Ukrainian  | Indo-European, East Slavic         | 33 million     | SVO          | Dependent          | Accusative  | Synthetic                  | LR                    | 3 285               |
 | Uzbek      | Altai, Turkic, Karluk-Khorezmian   | 32 million     | SOV          | Inconsistent       | Accusative  | Synthetic                  | LL                    | 10 533              |
 | Vietnamese | Austroasiactic, Vietic             | 90 million     | SVO          | Zero               | Neutral     | Isolating                  | RR                    | 1 071               |
 
