@@ -14,7 +14,7 @@ Folder `Titles_languages` contains titles of texts for languages used in the pap
 | Basque     | Language isolate                   | 750 000        | SOV          | Inconsistent       | Ergative    | Synthetic                  | LL                    | 10 052              |
 | Belarusian | Indo-European, East Slavic         | 6.7 million    | SVO          | Dependent          | Accusative  | Synthetic                  | R                     | 10 311              |
 | Bengali    | Indo-European, Bengali Assamese    | 230 million    | SOV          | Dependent          | Accusative  | Synthetic                  | R                     | 29 076              |
-| Bulgarian  | Indo-European, South Slavic        | 9 million      | SVO          | Dependent          | Accusative  | Synthetic                  | R                     | 734                 |
+| Bulgarian  | Indo-European, South Slavic        | 9 million      | SVO          | Dependent          | Accusative  | Synthetic                  | R                     | 595                 |
 | Chechen    | Nakhsko-Dagestan, Vainakh          | 1.5 million    | SOV          | Dependent          | Ergative    | Synthetic                  | LL                    | 20 152              |
 | Chinese    | Sino-Tibetan                       | 918 million    | SVO          | Dependent          | Neutral     | Isolating                  | LL                    | 8 242               |
 | Coptic     | Afro-Asiatic, Egyptian             | -              | SVO          | Dependent          | Accusative  | Analytic                   | LR                    | 1 322               |
@@ -23,12 +23,12 @@ Folder `Titles_languages` contains titles of texts for languages used in the pap
 | Dutch      | Indo-European                      | 24 million     | SOV          | Inconsistent       | Accusative  | Analytic                   | R                     | 2 387               |
 | English    | Indo-European, Germanic            | 375 million    | SVO          | Dependent          | Accusative  | Analytic                   | LR                    | 10 208              |
 | Esperanto  | Constructed language               | -              | Free         | RI                 | Accusative  | Synthetic                  | L                     | 176                 |
-| French     | Indo-European, Italic              | 77 million     | SVO          | Inconsistent       | Accusative  | Synthetic                  | RR                    | 3 528               |
-| Finnish    | Uralic, Finno-Ugri                 | 5.5 million    | SVO          | Inconsistent       | Accusative  | Synthetic                  | LL                    | 3 385               |
-| German     | Indo-European, Germanic            | 76 million     | SVO          | Dependent          | Accusative  | Analytic                   | R                     | 12 503              |
+| Finnish    | Uralic, Finno-Ugri                 | 5.5 million    | SVO          | Inconsistent       | Accusative  | Synthetic                  | LL                    | 1 276               |
+| French     | Indo-European, Italic              | 77 million     | SVO          | Inconsistent       | Accusative  | Synthetic                  | RR                    | 1 407               |
+| German     | Indo-European, Germanic            | 76 million     | SVO          | Dependent          | Accusative  | Analytic                   | R                     | 7 476               |
 | Hindi      | Indo-European, Indo-Iranian        | 341 million    | SOV          | Inconsistent       | Accusative  | Analytic                   | LL                    | 1 043               |
 | Icelandic  | Indo-European, Scandinavian        | 314 000        | SVO          | Dependent          | Accusative  | Synthetic                  | LL                    | 21 356              |
-| Indonesian | Austronesian, Malay                | 43 million     | SVO          | Zero               | Accusative  | Synthetic                  | RR                    | 3 267               |
+| Indonesian | Austronesian, Malay                | 43 million     | SVO          | Zero               | Accusative  | Synthetic                  | RR                    | 1 315               |
 | Japanese   | Japanese-Ryukyu                    | 130 million    | SOV	        | Dependent          | Neutral     | Synthetic                  | LL                    | 15 302              |
 | Kabyle     | Afro-Asiatic, the Northern Berber  | -              | SVO          | Dependent          | Neutral     | Synthetic                  | LL                    | 6 447               |
 | Kazakh     | Altai, Kipchak                     | 18 million     | SOV          | Dependent          | Accusative  | Synthetic                  | R                     | 2 090               |
