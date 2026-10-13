@@ -39,7 +39,7 @@ Folder `Titles_languages` contains titles of texts for languages used in the pap
 | Norwegian  | Indo-European, Germanic            | 5 million      | SVO          | Dependent          | Accusative  | Analytic                   | LR                    | 4 124               |
 | Oromo      | Afro-Asiatic, Cushitic             | 35 million     | SOV          | Dependent          | Accusative  | Synthetic                  | LL                    | 66                  |
 | Ossetian   | Indo-European,/ Indo-Iranian       | 50 000         | SOV          | Dependent          | Accusative  | Synthetic                  | LL                    | 136                 |
-| Persian    | Indo-European, Iranian             | 70 million     | SOV          | Inconsistent       | Accusative  | Synthetic                  | RR                    | 1 381               |
+| Persian    | Indo-European, Iranian             | 70 million     | SOV          | Inconsistent       | Accusative  | Synthetic                  | RR                    | 619                 |
 | Polish     | Indo-European, Slavic, West Slavic | 45 million     | SVO          | Dependent          | Accusative  | Synthetic                  | RL                    | 197                 |
 | Punjabi    | Indo-European, Indo-Iranian        | 125 million    | SOV          | Dependent          | Accusative  | Synthetic                  | LL                    | 12 441              |
 | Quechua    | Quechuan                           | 8-10 million   | SOV          | Inconsistent       | Accusative  | Synthetic                  | LL                    | 41 566              |
