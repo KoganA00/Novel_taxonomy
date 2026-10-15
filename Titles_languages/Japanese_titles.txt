@@ -28,18 +28,15 @@
 「インガ」_Miyamoto_Yuriko
 「エタ」名義考_Kita_Sadakichi
 「エル・ハヂ」など_Hori_Tatsuo
-「オルジェル伯爵の舞踏会」_Hori_Tatsuo
 「グッド・バイ」作者の言葉_Dazai_Osamu
 「ケット」と「マット」_Kita_Sadakichi
 「ケルトの薄明」より_Akutagawa_Ryunosuke
-「ケルトの薄明」より_Yeats_William Butler
 「ゴーリキイ伝」の遅延について_Miyamoto_Yuriko
 「ザイルの三人」訳者あとがき_Senoo_Akio
 「スケッチ・ブック」訳者あとがき_Yoshida_Kinetaro
 「スタヴロギンの告白」の訳者に_Hori_Tatsuo
 「ゼンマイの戯れ」に就いて_Kishida_Kunio
 「ゼンマイの戯れ」に就て_Kishida_Kunio
-「ソーンダイク博士」序文_Freeman_Richard Austin
 「ソーンダイク博士」序文_Senoo_Akio
 「チャタレー夫人の恋人」の起訴につよく抗議する_Miyamoto_Yuriko
 「チロルの秋」上演当時の思ひ出_Kishida_Kunio
@@ -48,7 +45,6 @@
 「ドストエーフスキイ全集」推薦の辞_Kishida_Kunio
 「ニールスのふしぎな旅　上」まえがき_Yazaki_Genkuro
 「ニールスのふしぎな旅　下」まえがき_Yazaki_Genkuro
-「ヒリモア」万国公法の内宗教を論ずる章（撮要）_Phillimore_Robert
 「ヒリモア」万国公法の内宗教を論ずる章（撮要）_Shibata_Masayoshi
 「ヒロシマ」と「アダノの鐘」について_Miyamoto_Yuriko
 「ファン」について_Itami_Mansaku
@@ -56,7 +52,6 @@
 「マリー・ロオジェ事件」の研究_Kosakai_Fuboku
 「マルテの手記」_Hori_Tatsuo
 「マルテ・ロオリッツ・ブリッゲの手記」から_Hori_Tatsuo
-「マルテ・ロオリッツ・ブリッゲの手記」から_Rilke_Rainer Maria
 「モダン猿蟹合戦」_Miyamoto_Yuriko
 「モンテーニュ随想録」（関根秀雄君訳）_Kishida_Kunio
 「ラジオ黄金時代」の底潮_Miyamoto_Yuriko
@@ -97,11 +92,9 @@
 「博物誌」の序に代へて_Kishida_Kunio
 「古い玩具」あとがき_Kishida_Kunio
 「古代感愛集」読後_Hori_Tatsuo
-「古琉球」改版に際して_Iha_Fuyu
 「古琉球」自序_Iha_Fuyu
 「可愛い女　犬を連れた奥さん　他一編」あとがき_Jinzai_Kiyoshi
 「吶喊」原序_Inoue_Kobai
-「吶喊」原序_Lu Xun_nan
 「味の素」発明の動機_Ikeda_Kikunae
 「四季」緒言_Taki_Rentaro
 「国語文化講座」監修者の言葉_Kishida_Kunio
@@ -300,7 +293,6 @@
 「黄銅時代」創作メモ_Miyamoto_Yuriko
 「黒死館殺人事件」序_Koga_Saburo
 「黒死館殺人事件」著者之序_Oguri_Mushitaro
-「黒瞳」より_Alarcon_Pedro Antonio
 「黒瞳」より_Ueda_Bin
 『えり子とともに』の序に代へて_Kishida_Kunio
 『おふくろ』_Kishida_Kunio
@@ -462,7 +454,6 @@
 〔編輯余話〕_Makino_Shin'ichi
 〔編輯雑記〕_Makino_Shin'ichi
 〔翻訳〕ステファヌ・マラルメ_Sakaguchi_Ango
-〔翻訳〕ステファヌ・マラルメ_Valery_Paul
 〔蒼冷と純黒〕_Miyazawa_Kenji
 〔鉛のいろの冬海の〕_Miyazawa_Kenji
 〔雨ニモマケズ〕_Miyazawa_Kenji
@@ -473,7 +464,6 @@
 ああ華族様だよ　と私は嘘を吐くのであった_Watanabe_On
 あいびき_Futabatei_Shimei
 あいびき_Hori_Tatsuo
-あいびき_Turgenev_Ivan
 あかんぼの首_Tanaka_Kotaro
 あきあはせ_Higuchi_Ichiyo
 あきまろに答ふ_Masaoka_Shiki
@@ -487,7 +477,6 @@
 あしびの花_Tsuchida_Kyoson
 あじさい_Sato_Haruo
 あじゃり_Murou_Saisei
-あすは、明日は、_Turgenev_Ivan
 あすは、明日は、_Ueda_Bin
 あすへの話題_Nakaya_Ukichiro
 あそび_Mori_Ogai
@@ -521,13 +510,9 @@
 あとがき（『朝の風』）_Miyamoto_Yuriko
 あとの祭り_Yamanokuchi_Baku
 あなうさピーターのはなし_Okubo_Yu
-あなうさピーターのはなし_Potter_Beatrix
-あなたと原子爆弾_Orwell_George
-あなたと原子爆弾_The Creative CAT_nan
 あなたも私も_Hisao_Juran
 あのころ_Uemura_Shoen
 あのときの王子くん_Okubo_Yu
-あのときの王子くん_Saint-Exupery_Antoine de
 あの世から便りをする話_Unno_Juza
 あの世の入口_Chiri_Mashiho
 あの日あの人_Kishida_Kunio
@@ -537,7 +522,6 @@
 あの顔_Hayashi_Fubo
 あの顔_Okura_Teruko
 あの顔あの声_Kishida_Kunio
-あはれ今_Dante_Alighieri
 あはれ今_Ueda_Bin
 あばばばば_Akutagawa_Ryunosuke
 あひびき_Hayashi_Fumiko
@@ -559,7 +543,6 @@
 あらしの前の木と鳥の会話_Ogawa_Mimei
 あられ笹_Miyamoto_Yuriko
 ありがとうございます_Miyamoto_Yuriko
-ありとあらゆるわが思_Dante_Alighieri
 ありとあらゆるわが思_Ueda_Bin
 ありときのこ_Miyazawa_Kenji
 あるとき_Hasegawa_Shigure
@@ -582,7 +565,6 @@
 ある完全犯罪人の手記_Sakai_Kashichi
 ある少年の正月の日記_Ogawa_Mimei
 ある崖上の感情_Kajii_Motojiro
-ある幸福_Mann_Paul Thomas
 ある幸福_Saneyoshi_Hayao
 ある幻想曲の序_Terada_Torahiko
 ある心の風景_Kajii_Motojiro
@@ -616,24 +598,17 @@
 ある職工の手記_Miyachi_Karoku
 ある自殺者の手記_Akita_Shigeru
 ある自殺者の手記_Kosakai_Fuboku
-ある自殺者の手記_Maupassant_Guy De
 ある親子の問答（一幕）_Kishida_Kunio
 ある遊郭での出来事_Wakasugi_Toriko
 あゝ二十年_Uemura_Shoen
 いいおじいさんの話_Ogawa_Mimei
-いいなずけ_Andersen_Hans Christian
 いいなずけ_Yazaki_Genkuro
 いい家庭の又の姿_Miyamoto_Yuriko
-いえ、いえ、ラゴーフにはもう！_Smith_Cordwainer
-いえ、いえ、ラゴーフにはもう！_The Creative CAT_nan
 いがみの権太_Miki_Takeji
-いさましい　ちびの仕立屋さん_Grimm_Jacob Ludwig Carl
-いさましい　ちびの仕立屋さん_Grimm_Wilhelm Carl
 いさましい　ちびの仕立屋さん_Yazaki_Genkuro
 いさましい話_Yamamoto_Shugoro
 いしが奢る_Yamamoto_Shugoro
 いずこへ_Sakaguchi_Ango
-いたずらっ子_Andersen_Hans Christian
 いたずらっ子_Yazaki_Genkuro
 いたずら小僧日記_Sasaki_Kuni
 いちじくの葉_Nakahara_Chuya
@@ -662,7 +637,6 @@
 うぐいす_Hara_Tamiki
 うさぎさん　と　おほかみさん_Murayama_Kazuko
 うさぎと二人のおじいさん_Ogawa_Mimei
-うし_Toon_nan
 うすゆき抄_Hisao_Juran
 うずめられた鏡_Ogawa_Mimei
 うたかたの記_Mori_Ogai
@@ -671,11 +645,8 @@
 うつせみ_Higuchi_Ichiyo
 うつり香_Chikamatsu_Shuko
 うづしほ_Mori_Rintaro
-うづしほ_Poe_Edgar Allan
 うづみ火_Hasegawa_Shigure
 うどんのお化け_Furukawa_Roppa
-うまい商売_Grimm_Jacob Ludwig Carl
-うまい商売_Grimm_Wilhelm Carl
 うまい商売_Yazaki_Genkuro
 うまれて　来る　雀達_Niimi_Nankichi
 うむどん_Sato_Koseki
@@ -685,8 +656,6 @@
 えぞおばけ列伝_Chiri_Mashiho
 えぞおばけ列伝_Sakushafusho_nan
 おいてけ堀_Tanaka_Kotaro
-おおかみと七ひきのこどもやぎ_Grimm_Jacob Ludwig Carl
-おおかみと七ひきのこどもやぎ_Grimm_Wilhelm Carl
 おおかみと七ひきのこどもやぎ_Kusuyama_Masao
 おおかみと人_Ogawa_Mimei
 おおかみをだましたおじいさん_Ogawa_Mimei
@@ -699,8 +668,6 @@
 おきなぐさ_Miyazawa_Kenji
 おきなわやまとぐち_Yamanokuchi_Baku
 おぎん_Akutagawa_Ryunosuke
-おくさま狐の御婚礼_Grimm_Jacob Ludwig Carl
-おくさま狐の御婚礼_Grimm_Wilhelm Carl
 おくさま狐の御婚礼_Kaneda_Kiichi
 おけらになった話_Ogawa_Mimei
 おごそかな渇き_Yamamoto_Shugoro
@@ -750,11 +717,8 @@
 おもちゃ店_Ogawa_Mimei
 おもちや　の　めがね_Murayama_Kazuko
 おもひで_Sueyoshi_Anji
-おやゆび姫_Andersen_Hans Christian
 おやゆび姫_Okubo_Yu
 おりき_Miyoshi_Juro
-おりこうハンス_Grimm_Jacob Ludwig Carl
-おりこうハンス_Grimm_Wilhelm Carl
 おりこうハンス_Yazaki_Genkuro
 おるすばん_Tsuboi_Sakae
 おれの女房_Yamamoto_Shugoro
@@ -771,7 +735,6 @@
 お化けとまちがえた話_Ogawa_Mimei
 お化の面_Tanaka_Kotaro
 お喋り競争_Sakaguchi_Ango
-お墓の中の坊や_Andersen_Hans Christian
 お墓の中の坊や_Yazaki_Genkuro
 お奈良さま_Sakaguchi_Ango
 お姉ちゃんといわれて_Ogawa_Mimei
@@ -825,21 +788,16 @@
 お魚女史_Sakaguchi_Ango
 お鼻をかじられたお猫さん_Murayama_Kazuko
 かいじん二十めんそう_Edogawa_Ranpo
-かえるの王様_Grimm_Jacob Ludwig Carl
-かえるの王様_Grimm_Wilhelm Carl
 かえるの王様_Kusuyama_Masao
 かかし_Murayama_Kazuko
-かき_Chekhov_Anton
 かき_Jinzai_Kiyoshi
 かき・みかん・かに_Nakajima_Airo
 かくれんぼ_Murayama_Kazuko
 かくれんぼ_Saito_Ryokuu
-かけっこ_Andersen_Hans Christian
 かけっこ_Yazaki_Genkuro
 かけはしの記_Masaoka_Shiki
 かげろうの日記_Hori_Tatsuo
 かげろふ断章_Hara_Tamiki
-かげろふ談義_Sakaguchi_Ango
 かさぬ宿_Sueyoshi_Anji
 かざぐるま_Ogawa_Mimei
 かしはばやしの夜_Miyazawa_Kenji
@@ -853,7 +811,6 @@
 かちかち山_Akutagawa_Ryunosuke
 かちかち山_Kusuyama_Masao
 かつてわが悲しみは_Miyoshi_Tatsuji
-かなしき女王_Macleod_Fiona
 かなしき女王_Matsumura_Mineko
 かなしみ_Takami_Jun
 かなしみの日より_Shiraki_Shizu
@@ -869,8 +826,6 @@
 かめ_Toon_nan
 かめれおん日記_Nakajima_Atsushi
 かもじの美術家_Jinzai_Kiyoshi
-かもじの美術家_Leskov_Nikolai Semyonovich 
-かもめ_Chekhov_Anton
 かもめ_Jinzai_Kiyoshi
 かやの生立_Okamoto_Kanoko
 からす_Ogawa_Mimei
@@ -881,8 +836,6 @@
 からたち_Miyamoto_Yuriko
 かれいの贈物_Kuki_Shuzo
 かろきねたみ_Okamoto_Kanoko
-かわいそうな粉ひきの若いものと小猫_Grimm_Jacob Ludwig Carl
-かわいそうな粉ひきの若いものと小猫_Grimm_Wilhelm Carl
 かわいそうな粉ひきの若いものと小猫_Kaneda_Kiichi
 かんかん虫_Arishima_Takeo
 かんかん虫は唄う_Yoshikawa_Eiji
@@ -891,12 +844,9 @@
 がちゃがちゃ_Yumeno_Kyusaku
 がちょうの　たんじょうび_Niimi_Nankichi
 がん_Ogawa_Mimei
-きその日は_Dante_Alighieri
 きその日は_Ueda_Bin
 きたりすナトキンのはなし_Okubo_Yu
-きたりすナトキンのはなし_Potter_Beatrix
 きつねめさんのはなし_Okubo_Yu
-きつねめさんのはなし_Potter_Beatrix
 きつねをおがんだ人たち_Ogawa_Mimei
 きのうときょう_Miyamoto_Yuriko
 きのこ会議_Yumeno_Kyusaku
@@ -920,7 +870,6 @@
 くちこ_Kitaoji_Rosanjin
 くちなし_Miyamoto_Yuriko
 くちなしの花_Oku_Masuo
-くちなしの花_White_Fred M
 くつは虫_Tayama_Katai
 くつは虫_Tayama_Rokuya
 くづれた土手_Tayama_Katai
@@ -970,8 +919,6 @@
 これから書きます_Miyamoto_Yuriko
 これから結婚する人の心持_Miyamoto_Yuriko
 これでは囚人扱い_Miyamoto_Yuriko
-こわいことを知りたくて旅にでかけた男の話_Grimm_Jacob Ludwig Carl
-こわいことを知りたくて旅にでかけた男の話_Grimm_Wilhelm Carl
 こわいことを知りたくて旅にでかけた男の話_Yazaki_Genkuro
 こわれた鏡_Miyamoto_Yuriko
 こわれ指環_Shimizu_Shikin
@@ -980,7 +927,6 @@
 こんにゃく売り_Tokunaga_Sunao
 こん畜生_Takeuchi_Kozo
 ごくあくウサギのものがたり_Okubo_Yu
-ごくあくウサギのものがたり_Potter_Beatrix
 ごみだらけの豆_Ogawa_Mimei
 ごりがん_Kamitsukasa_Shoken
 ごろつきの話_Orikuchi_Shinobu
@@ -992,7 +938,6 @@
 さかほがひ_Ueda_Bin
 さか立ち小僧さん_Ogawa_Mimei
 さがしもの_Tsuchida_Kohei
-さしあげた腕_Gourmont_Remy de
 さしあげた腕_Ueda_Bin
 さしえ_Miyamoto_Yuriko
 さしみ_Sato_Koseki
@@ -1015,9 +960,7 @@
 しいたげられた天才_Ogawa_Mimei
 しかし昔にはかえらない_Miyamoto_Yuriko
 したゆく水_Shimizu_Shikin
-しっかり者のすずの兵隊_Andersen_Hans Christian
 しっかり者のすずの兵隊_Kusuyama_Masao
-しめしあわせ_Poe_Edgar Allan
 しめしあわせ_Sasaki_Naojiro
 しゃしんやさん _Ogawa_Mimei
 しゃもじ（杓子）_Sato_Koseki
@@ -1033,7 +976,6 @@
 すいれんは咲いたが_Ogawa_Mimei
 すかんぽ_Kinoshita_Mokutaro
 すき焼きと鴨料理――洋食雑感――_Kitaoji_Rosanjin
-すずの兵隊さん_Andersen_Hans Christian
 すずの兵隊さん_Yazaki_Genkuro
 すずめ_Ogawa_Mimei
 すずめの巣_Ogawa_Mimei
@@ -1073,7 +1015,6 @@
 その頃の赤門生活_Akutagawa_Ryunosuke
 その願いを現実に_Miyamoto_Yuriko
 そめちがへ_Mori_Ogai
-そり（童話）_Chirikov_Evgenii
 そり（童話）_Suzuki_Miekichi
 それから_Natsume_Soseki
 それからそれ_Uno_Koji
@@ -1115,9 +1056,7 @@
 ちょうと三つの石_Ogawa_Mimei
 ちょうと怒濤_Ogawa_Mimei
 ちょびひげサミュエルのはなし_Okubo_Yu
-ちょびひげサミュエルのはなし_Potter_Beatrix
 ちらちら光れ小い星_Niimi_Nankichi
-ちらちら光れ小い星_Taylor_Jane
 ぢいさんばあさん_Mori_Ogai
 つじうら売りのおばあさん_Ogawa_Mimei
 つづれさせ_Ogawa_Mimei
@@ -1134,7 +1073,6 @@
 つゆじも_Saito_Mokichi
 つゆのあとさき_Nagai_Kafu
 てかてか頭の話_Ogawa_Mimei
-てがみ_Chekhov_Anton
 てがみ_Suzuki_Miekichi
 てのひら自伝_Sakaguchi_Ango
 てんぷらの茶漬け_Kitaoji_Rosanjin
@@ -1142,14 +1080,10 @@
 でんきアンケート_Miyamoto_Yuriko
 とうげの茶屋_Ogawa_Mimei
 とかげ_Murou_Saisei
-とけない問題_Chesterton_Gilbert Keith
 とけない問題_Murasaki_Toshiro
-としよりのお祖父さんと孫_Grimm_Jacob Ludwig Carl
-としよりのお祖父さんと孫_Grimm_Wilhelm Carl
 としよりのお祖父さんと孫_Kaneda_Kiichi
 とっこべとら子_Miyazawa_Kenji
 とと屋禅譚_Okamoto_Kanoko
-とびくらべ_Andersen_Hans Christian
 とびくらべ_Yazaki_Genkuro
 とびよ鳴け_Ogawa_Mimei
 とむらい機関車_Osaka_Keikichi
@@ -1177,13 +1111,10 @@
 ながうた勧進帳_Sakai_Kashichi
 なくなった人形_Ogawa_Mimei
 なぐさめ_Hayashi_Fumiko
-なぐり合い_Mann_Paul Thomas
 なぐり合い_Saneyoshi_Hayao
 なぜ、それはそうであったか_Miyamoto_Yuriko
 なぜソヴェト同盟に失業がないか？_Miyamoto_Yuriko
 なぜ作陶を志したか_Kitaoji_Rosanjin
-なぞ_Grimm_Jacob Ludwig Carl
-なぞ_Grimm_Wilhelm Carl
 なぞ_Yazaki_Genkuro
 なつかしい仲間_Miyamoto_Yuriko
 なつかしき挿話_Makino_Shin'ichi
@@ -1192,13 +1123,9 @@
 なまずとあざみの話_Ogawa_Mimei
 なめとこ山の熊_Miyazawa_Kenji
 なよたけ_Kato_Michio
-ならずもの_Grimm_Jacob Ludwig Carl
-ならずもの_Grimm_Wilhelm Carl
 ならずもの_Yazaki_Genkuro
 なりひら小僧_Yamanaka_Sadao
 なんとかせねばならぬ_Kishida_Kunio
-にいさんと妹_Grimm_Jacob Ludwig Carl
-にいさんと妹_Grimm_Wilhelm Carl
 にいさんと妹_Yazaki_Genkuro
 にぎり飯_Nagai_Kafu
 にごりえ_Higuchi_Ichiyo
@@ -1208,7 +1135,6 @@
 にらみ鯛 _Sato_Koseki
 にらめつくらの鬼瓦_Okino_Iwasaburo
 にんじん_Kishida_Kunio
-にんじん_Renard_Jules
 ねこ_Kitamura_Kaneko
 ねこ_Ogawa_Mimei
 ねことおしるこ_Ogawa_Mimei
@@ -1218,7 +1144,6 @@
 ねずみと猫_Terada_Torahiko
 ねずみの冒険_Ogawa_Mimei
 ねずみの嫁入り_Kusuyama_Masao
-ねむい_Chekhov_Anton
 ねむい_Jinzai_Kiyoshi
 ねむの花咲く家_Konno_Dairiki
 のきばすずめ_Noguchi_Ujo
@@ -1226,7 +1151,6 @@
 のらもの_Tokuda_Shusei
 のら犬_Niimi_Nankichi
 のろのろ砲弾の驚異_Unno_Juza
-のろまのハンス_Andersen_Hans Christian
 のろまのハンス_Yazaki_Genkuro
 のんきな患者_Kajii_Motojiro
 のんしやらん記録_Sato_Haruo
@@ -1237,7 +1161,6 @@
 はじめに_Kusuyama_Masao
 はたし状_Yamamoto_Shugoro
 はたらく二少年_Ogawa_Mimei
-はだかの王さま_Andersen_Hans Christian
 はだかの王さま_Okubo_Yu
 はだかの王さま_Yazaki_Genkuro
 はちとくま_Murayama_Kazuko
@@ -1247,7 +1170,6 @@
 はつきりした形をとる為めに_Akutagawa_Ryunosuke
 はつゆめ_Ogawa_Mimei
 はつ恋_Jinzai_Kiyoshi
-はつ恋_Turgenev_Ivan
 はてしなき世界_Ogawa_Mimei
 はととりんご_Ogawa_Mimei
 はなしの話_Okamoto_Kido
@@ -1259,16 +1181,12 @@
 ばかな汽車_Toyoshima_Yoshio
 ばけものばなし_Kishida_Ryusei
 ばにばにきょうだいのはなし_Okubo_Yu
-ばにばにきょうだいのはなし_Potter_Beatrix
 ばにばにベンジャミンのはなし_Okubo_Yu
-ばにばにベンジャミンのはなし_Potter_Beatrix
 ばべるの塔_Okino_Iwasaburo
 ばらの花五つ_Katayama_Hiroko
 ひかげの花_Nagai_Kafu
 ひかりの素足_Miyazawa_Kenji
 ひかる_Niimi_Nankichi
-ひげ――_I_Sang
-ひこうかばん_Andersen_Hans Christian
 ひこうかばん_Kusuyama_Masao
 ひしがれた女性と語る_Miyamoto_Yuriko
 ひじりの家_Yanagita_Kunio
@@ -1300,7 +1218,6 @@
 ひらきぶみ_Yosano_Akiko
 ひらめの学校_Hayashi_Fumiko
 びっこのお馬_Ogawa_Mimei
-びるぜん祈祷_Dante_Alighieri
 びるぜん祈祷_Ueda_Bin
 びんの中の世界_Ogawa_Mimei
 ぴかぴかする夜_Ogawa_Mimei
@@ -1313,7 +1230,6 @@
 ふたつの教訓_Miyamoto_Yuriko
 ふたりのおばさん_Murou_Saisei
 ふつくりとした人柄_Hagiwara_Sakutaro
-ふみたば_Level_Maurice
 ふみたば_Tanaka_Sanae
 ふもれすく_Tsuji_Jun
 ふらんすの女_Kishida_Kunio
@@ -1327,7 +1243,6 @@
 ふるさとびと_Hori_Tatsuo
 ぶくぶく長々火の目小僧_Suzuki_Miekichi
 ぶどう畑のぶどう作り_Kishida_Kunio
-ぶどう畑のぶどう作り_Renard_Jules
 ぶらんこ（一幕）_Kishida_Kunio
 へちまの木_Yamamoto_Shugoro
 へちまの水_Ogawa_Mimei
@@ -1336,10 +1251,8 @@
 ほうき一本_Miyamoto_Yuriko
 ほうとする話_Orikuchi_Shinobu
 ほととぎす_Hori_Tatsuo
-ほんとにそのとおり！_Andersen_Hans Christian
 ほんとにそのとおり！_Yazaki_Genkuro
 ぼくもいくさに征くのだけれど_Takeuchi_Kozo
-ぼくら　ふたり_Milne_Alan Alexander
 ぼくら　ふたり_Okubo_Yu
 ぼたもち_Miyoshi_Juro
 ぼろぼろな駝鳥_Takamura_Kotaro
@@ -1351,7 +1264,6 @@
 まじなひの一方面_Orikuchi_Shinobu
 まじょりか皿_Terada_Torahiko
 ますます確りやりましょう_Miyamoto_Yuriko
-まだらのひも_Doyle_Arthur Conan
 まだらのひも_Okubo_Yu
 まだらのひも_Unno_Juza
 まちがい_Miyamoto_Yuriko
@@ -1377,7 +1289,6 @@
 みつ柏_Izumi_Kyoka
 みつ柏_Izumi_Kyotaro
 みなかみ紀行_Wakayama_Bokusui
-みにくいアヒルの子_Andersen_Hans Christian
 みにくいアヒルの子_Yazaki_Genkuro
 みのりを豊かに_Miyamoto_Yuriko
 みみずく通信_Dazai_Osamu
@@ -1386,7 +1297,6 @@
 みみず先生の歌_Murayama_Kazuko
 みやこ鳥_Sato_Koseki
 みれん_Mori_Ogai
-みれん_Schnitzler_Arthur
 みんな悲しげにそう思う_Kurahashi_Jun'ichiro
 むかでの跫音_Okura_Teruko
 むぐらの吐息_Hasegawa_Shigure
@@ -1411,10 +1321,8 @@
 ものは考えよう_Nakaya_Ukichiro
 ものわかりよさ_Miyamoto_Yuriko
 もの思う葦_Dazai_Osamu
-もみの木_Andersen_Hans Christian
 もみの木_Kusuyama_Masao
 もりのおひめさま_Okubo_Yu
-もりのおひめさま_Olfers_Sibylle von
 もゝはがき_Saito_Ryokuu
 やきもの読本_Ono_Ken'ichiro 
 やどなし犬_Suzuki_Miekichi
@@ -1442,7 +1350,6 @@
 よく利く薬とえらい薬_Miyazawa_Kenji
 よく生きてきたと思う_Takeuchi_Kozo
 よしなし事_Kikuchi_Kan
-よそ人のあざむが如く_Dante_Alighieri
 よそ人のあざむが如く_Ueda_Bin
 よだかの星_Miyazawa_Kenji
 よみがへる父_Hara_Tamiki
@@ -1453,8 +1360,6 @@
 よろこびの挨拶_Miyamoto_Yuriko
 よろこびはその道から_Miyamoto_Yuriko
 らんの花_Ogawa_Mimei
-りこうもののエルゼ_Grimm_Jacob Ludwig Carl
-りこうもののエルゼ_Grimm_Wilhelm Carl
 りこうもののエルゼ_Yazaki_Genkuro
 るい_Makino_Shin'ichi
 るしへる_Akutagawa_Ryunosuke
@@ -1503,22 +1408,16 @@
 わが青春_Miki_Kiyoshi
 わぎもこ_Hori_Tatsuo
 わたくしの大好きなアメリカの少女_Miyamoto_Yuriko
-わたくし自身について_Irving_Washington
 わたくし自身について_Yoshida_Kinetaro
 わたしたちには選ぶ権利がある_Miyamoto_Yuriko
 わたしたちは平和を手離さない_Miyamoto_Yuriko
 わたしの好きな女優　淡島千景さん_Kanamori_Tokujiro
 わたしの正月_Nakano_Suzuko
 わなゝき_Sueyoshi_Anji
-わらと炭と豆_Grimm_Jacob Ludwig Carl
-わらと炭と豆_Grimm_Wilhelm Carl
 わらと炭と豆_Yazaki_Genkuro
-わるい王さま（伝説）_Andersen_Hans Christian
 わるい王さま（伝説）_Yazaki_Genkuro
-わるい花_Gourmont_Remy de
 わるい花_Ueda_Bin
 わるねずふたりぐみのはなし_Okubo_Yu
-わるねずふたりぐみのはなし_Potter_Beatrix
 われから_Higuchi_Ichiyo
 われはうたえども　やぶれかぶれ_Murou_Saisei
 われらが四季感_Sato_Haruo
@@ -1526,7 +1425,6 @@
 われらの小さな“婦人民主”_Miyamoto_Yuriko
 われを省みる_Miyamoto_Yuriko
 ゐろりの中の街_Niimi_Nankichi
-ゐろりの中の街_Stevenson_Robert Louis
 をみな_Sakaguchi_Ango
 ア、秋_Dazai_Osamu
 アイヌ宗教成立の史的背景_Chiri_Mashiho
@@ -1545,12 +1443,8 @@
 アグニの神_Akutagawa_Ryunosuke
 アケビ_Makino_Tomitaro
 アコウの木_Izumi_Horo
-アッシェンプッテル_Grimm_Jacob Ludwig Carl
-アッシェンプッテル_Grimm_Wilhelm Carl
 アッシェンプッテル_Okubo_Yu
-アッシャー家の崩壊_Poe_Edgar Allan
 アッシャー家の崩壊_Sasaki_Naojiro
-アッタレーア・プリンケプス_Garshin_Vsevolod Mikhailvich
 アッタレーア・プリンケプス_Jinzai_Kiyoshi
 アテヌキという地名_Yanagita_Kunio
 アトモス_Hara_Tamiki
@@ -1558,7 +1452,6 @@
 アド・バルーン_Oda_Sakunosuke
 アパートで聞いた話_Ogawa_Mimei
 アパートの殺人_Hirabayashi_Hatsunosuke
-アヒルの庭で_Andersen_Hans Christian
 アヒルの庭で_Yazaki_Genkuro
 アヒルサン　ト　オネコサン_Murayama_Kazuko
 アフリカのスタンレー_Toyoshima_Yoshio
@@ -1573,7 +1466,6 @@
 アメリカ文化の問題_Miyamoto_Yuriko
 アメリカ文士気質_Miyamoto_Yuriko
 アメリカ独立宣言_Fukuzawa_Yukichi
-アメリカ独立宣言_Jefferson_Thomas
 アメリカ種の落語_Nakaya_Ukichiro
 アラスカの氷河_Nakaya_Ukichiro
 アラスカ通信_Nakaya_Ukichiro
@@ -1581,10 +1473,8 @@
 アラメダより_Okino_Iwasaburo
 アラン島_Katayama_Hiroko
 アリア人の孤独_Matsunaga_Enzo
-アリスはふしぎの国で_Carroll_Lewis
 アリスはふしぎの国で_Okubo_Yu
 アリゾナの女虎_Maki_Itsuma
-アルカプトン尿の発現 _Garrod_Archibald
 アルカプトン尿の発現 _Minakami_Shigeki
 アワァビット_Miyamoto_Yuriko
 アンケート_Okura_Teruko
@@ -1593,23 +1483,19 @@
 アンチの闘士_Imamura_Tsuneo
 アンドレアス・タアマイエルが遺書_Mori_Ogai
 アンドレアス・タアマイエルが遺書_Mori_Rintaro
-アンドレアス・タアマイエルが遺書_Schnitzler_Arthur
 アンドレ・ジイド管見_Nakahara_Chuya
 アンドロギュノスの裔_Watanabe_On
 アンナ、パブロオナ_Tayama_Katai
 アンナ、パブロオナ_Tayama_Rokuya
 アンネット_Miyamoto_Yuriko
-アンネ・リスベット_Andersen_Hans Christian
 アンネ・リスベット_Yazaki_Genkuro
 アンリエツトの転地療養日記_Kishida_Kunio
 アンリ・ルネ・ルノルマンについて_Kishida_Kunio
 アーサー王物語_Nakura_Jiro
 アーサー王物語_Sugano_Tokusuke
-アーサー王物語_Tennyson_Alfred
 アーニイ・パイルの前に立ちて_Kobayashi_Ichizo
 イエスとペテロ_Katayama_Hiroko
 イエスキリストの友誼_Nitobe_Inazo
-イオーヌィチ_Chekhov_Anton
 イオーヌィチ_Jinzai_Kiyoshi
 イギリス海岸_Miyazawa_Kenji
 イグアノドンの唄_Nakaya_Ukichiro
@@ -1626,8 +1512,6 @@
 イリイッチの長靴_Sato_Takeo
 イワンとイワンの兄_Watanabe_On
 イワンの馬鹿_Kikuchi_Kan
-イワンの馬鹿_Tolstoi_Lev
-イングランドの西部の諸州とくにグルスターシャーで見つかった病気で、 牛痘の名で知られているウシ天然痘の原因および効果についての研究_Jenner_Edward 
 イングランドの西部の諸州とくにグルスターシャーで見つかった病気で、 牛痘の名で知られているウシ天然痘の原因および効果についての研究_Minakami_Shigeki
 インターナショナルとともに_Miyamoto_Yuriko
 インチキ文学ボクメツ雑談_Sakaguchi_Ango
@@ -1635,24 +1519,19 @@
 インテリの感傷_Sakaguchi_Ango
 インドラの網_Miyazawa_Kenji
 イーサル川_Saito_Mokichi
-イーダちゃんのお花_Andersen_Hans Christian
 イーダちゃんのお花_Yazaki_Genkuro
 イーハトーボ農学校の春_Miyazawa_Kenji
 イーリアス_Doi_Bansui
-イーリアス_Homer_nan
 ウィネッカの冬_Nakaya_Ukichiro
 ウィネッカの秋_Nakaya_Ukichiro
-ウィリアム・ウィルスン_Poe_Edgar Allan
 ウィリアム・ウィルスン_Sasaki_Naojiro
 ウイツテ伯回想記その他_Hirabayashi_Hatsunosuke
-ウェストミンスター寺院_Irving_Washington
 ウェストミンスター寺院_Yoshida_Kinetaro
 ウォリクの城_Nogami_Toyoichiro
 ウォーソン夫人の黒猫_Hagiwara_Sakutaro
 ウォーレン夫人とその娘_Ito_Noe
 ウグヒスブエヲ　フケバ_Niimi_Nankichi
 ウサギ_Niimi_Nankichi
-ウスナの家_Macleod_Fiona
 ウスナの家_Matsumura_Mineko
 ウニデス潮流の彼方_Tachibana_Sotoo
 ウマヤノ　ソバノ　ナタネ_Niimi_Nankichi
@@ -1673,22 +1552,17 @@
 エミイル・ゾラの文学方法論_Hirabayashi_Hatsunosuke
 エミリアンの旅_Toyoshima_Yoshio
 エリザベスとエセックス_Kataoka_Teppei
-エリザベスとエセックス_Strachey_Lytton
 エリセーフ氏_Nakaya_Ukichiro
 エルヴィスから始まった_Kataoka_Yoshio
 エレオノラ・デュウゼ_Watsuji_Tetsuro
-エロディヤッド_Mallarme_Stephane
 エロディヤッド_Ueda_Bin
 エンジンの響_Tayama_Katai
 エンジンの響_Tayama_Rokuya
-オオカミと七ひきの子ヤギ_Grimm_Jacob Ludwig Carl
-オオカミと七ひきの子ヤギ_Grimm_Wilhelm Carl
 オオカミと七ひきの子ヤギ_Yazaki_Genkuro
 オカアサン_Sato_Haruo
 オシャベリ姫_Kagutsuchi_Midori
 オシャベリ姫_Yumeno_Kyusaku
 オシラ神に関する二三の臆説_Kita_Sadakichi
-オスカー・ブロズキー事件_Freeman_Richard Austin
 オスカー・ブロズキー事件_Senoo_Akio
 オツベルと象_Miyazawa_Kenji
 オパール色の手紙_Hirabayashi_Hatsunosuke
@@ -1710,17 +1584,13 @@
 カイダイ_Hirayama_Chiyoko
 カイロ団長_Miyazawa_Kenji
 カインの末裔_Arishima_Takeo
-カエルの王さま_Grimm_Jacob Ludwig Carl
-カエルの王さま_Grimm_Wilhelm Carl
 カエルの王さま_Yazaki_Genkuro
 カキツバタ一家言_Makino_Tomitaro
 カゴカキ_Niimi_Nankichi
-カシタンカ_Chekhov_Anton
 カシタンカ_Jinzai_Kiyoshi
 カストリ侯実録_Hisao_Juran
 カストリ社事件_Sakaguchi_Ango
 カスリイン・ニ・フウリハン（一幕）_Matsumura_Mineko
-カスリイン・ニ・フウリハン（一幕）_Yeats_William Butler
 カズイスチカ_Mori_Ogai
 カタカナニツイテ_Itami_Mansaku
 カタツムリノ　ウタ_Niimi_Nankichi
@@ -1738,9 +1608,7 @@
 カメラをさげて_Terada_Torahiko
 カライ博士の臨終_Kishida_Kunio
 カラカラ鳴る海_Ogawa_Mimei
-カラマゾフの兄弟_Dostoevskii_Fedor Mikhailovich
 カラマゾフの兄弟_Nakayama_Sgozaburo
-カラー_Andersen_Hans Christian
 カラー_Yazaki_Genkuro
 カルナツクの夏の夕_Kishida_Kunio
 カルメン_Akutagawa_Ryunosuke
@@ -1748,7 +1616,6 @@
 カン_Hasegawa_Shin
 カンカン虫殺人事件_Osaka_Keikichi
 カンザシ_Niimi_Nankichi
-カンタタ_Claudel_Paul
 カンタタ_Ueda_Bin
 カントと現代の科学_Tosaka_Jun
 カンナとオンナ_Kitaoji_Rosanjin
@@ -1759,7 +1626,6 @@
 ガラス窓の河骨_Ogawa_Mimei
 ガラマサどん_Sasaki_Kuni
 ガリバー旅行記_Hara_Tamiki
-ガリバー旅行記_Swift_Jonathan
 ガリレオ・ガリレイ_Ishiwara_Atsushi
 ガリヴア旅行記_Hara_Tamiki
 ガルスワーシーの家_Okamoto_Kanoko
@@ -1779,38 +1645,28 @@
 キュリー夫人_Miyamoto_Yuriko
 キュリー夫人の命の焔_Miyamoto_Yuriko
 キューピー_Yumeno_Kyusaku
-キリストのヨルカに召された少年_Dostoevskii_Fedor Mikhailovich
 キリストのヨルカに召された少年_Jinzai_Kiyoshi
 キリスト教入門_Yanaihara_Tadao
 キリスト者の告白_Hojo_Tamio
 キンショキショキ_Toyoshima_Yoshio
-ギリシャおよびローマ医学の概観_Elliott_James Sands
 ギリシャおよびローマ医学の概観_Minakami_Shigeki
 ギルレイ_Oku_Masuo
-ギルレイ_White_Fred M
 クねずみ_Miyazawa_Kenji
 クサンチス_Mori_Ogai
 クサンチス_Mori_Rintaro
-クサンチス_Samain_Albert
 クチマネ_Kaijaku_Ranpei
 クチマネ_Yumeno_Kyusaku
 クララ_Hayashi_Fumiko
 クララの出家_Arishima_Takeo
 クラリネットを吹く男_Ogawa_Mimei
 クラリモンド_Akutagawa_Ryunosuke
-クラリモンド_Gautier_Theophile
-クリスマス_Irving_Washington
 クリスマス_Yoshida_Kinetaro
 クリスマスの贈物_Takehisa_Yumeji
-クリスマス・イーヴ_Irving_Washington
 クリスマス・イーヴ_Takagaki_Matsuo
 クリスマス・イーヴ_Yoshida_Kinetaro
-クリスマス・カロル_Dickens_Charles
 クリスマス・カロル_Morita_Sohei
 クリティシズムと認識論との関係_Tosaka_Jun
-クリナーンの御殿_Hyde_Douglas
 クリナーンの御殿_Tateno_Hiromi
-クロイツェル・ソナタ_Tolstoi_Lev
 クロイツェル・ソナタ_Yonekawa_Masao
 クロオデルの「能」_Hori_Tatsuo
 クロニック・モノロゲ_Kishida_Kunio
@@ -1820,15 +1676,11 @@
 グリュックスブルグ王室異聞_Tachibana_Sotoo
 グレゴール・メンデル_Ishiwara_Atsushi
 グロスターのふくやさん_Okubo_Yu
-グロスターのふくやさん_Potter_Beatrix
-グロリア・スコット号_Doyle_Arthur Conan
 グロリア・スコット号_Mikami_Otokichi
 グローバルタワーにて_Fukunaga_Shin
-グローリア・スコット号_Doyle_Arthur Conan
 グローリア・スコット号_Mikami_Otokichi
 グローリア・スコット号_Okubo_Yu
 グースベリーの熟れる頃_Miyamoto_Yuriko
-グーセフ_Chekhov_Anton
 グーセフ_Jinzai_Kiyoshi
 ケシの花_Miyoshi_Tatsuji
 ケリイさんのこと_Nakaya_Ukichiro
@@ -1839,7 +1691,6 @@
 ゲタニ　バケル_Niimi_Nankichi
 ゲテ魚好き_Hino_Ashihei
 ゲーテに於ける自然と歴史_Miki_Kiyoshi
-コウノトリ_Andersen_Hans Christian
 コウノトリ_Yazaki_Genkuro
 コキューの憶ひ出_Nakahara_Chuya
 コクトオの『声』その他を聴く_Kishida_Kunio
@@ -1848,13 +1699,11 @@
 コポオの弟子たち_Kishida_Kunio
 コレラ_Hara_Tamiki
 コレラの伝染様式について_Minakami_Shigeki
-コレラの伝染様式について_Snow_John
 コロボックル北海道に住みしなるべし_Tsuboi_Shogoro
 コロボックル風俗考_Tsuboi_Shogoro
 コロポックル説の誤謬を論ず（上）_Kono_Tsunekichi
 コロポックル説の誤謬を論ず（下）_Kono_Tsunekichi
 コロラド通信_Nakaya_Ukichiro
-コロロッチョ_Capuana_Luigi
 コロロッチョ_Tabara_Katsunori
 コンラッドの描きたる自然について_Natsume_Soseki
 コーカサスの禿鷹_Toyoshima_Yoshio
@@ -1862,7 +1711,6 @@
 コーヒー哲学序説_Terada_Torahiko
 ゴッホについて_Miyoshi_Juro
 ゴボウ君と大根君_Murayama_Kazuko
-ゴリオ爺さん_Balzac_Honoré de
 ゴリオ爺さん_Nakajima_Hideyuki
 ゴルバートフ「降伏なき民」_Miyamoto_Yuriko
 ゴルフと「悪い仲間」_Sakaguchi_Ango
@@ -1873,23 +1721,18 @@
 サガレンと八月_Miyazawa_Kenji
 サガレンの浮浪者_Hiroumi_Daiji
 サクラの花びら_Makino_Shin'ichi
-サセックスの吸血鬼_Doyle_Arthur Conan
 サセックスの吸血鬼_Okubo_Yu
 サニンの態度_Ito_Noe
-サバトの門立_Bertrand_Louis
 サバトの門立_Ueda_Bin
 サフラン_Mori_Ogai
 サフランの花_Makino_Shin'ichi
 サラダの謎_Nakaya_Ukichiro
 サルト　サムライ_Niimi_Nankichi
-サレーダイン公爵の罪業_Chesterton_Gilbert Keith
 サレーダイン公爵の罪業_Naoki_Sanjugo
 サロメと体操_Makino_Shin'ichi
 サンカ者名義考_Kita_Sadakichi
-サンタクロースがさらわれちゃった！_Baum_Lyman Frank
 サンタクロースがさらわれちゃった！_Okubo_Yu
 サンタクロースはいるんだ_Okubo_Yu
-サンタクロースはいるんだ_The New York Sun_nan
 サンニー・サイド・ハウス_Makino_Shin'ichi
 サン・ジョルジュ・ド・ブウエリエについて_Kishida_Kunio
 サーカスの少年_Ogawa_Mimei
@@ -1905,17 +1748,14 @@
 シャボン玉_Toyoshima_Yoshio
 シャリアピン_Oguma_Hideo
 シャルル・ヴィルドラックについて_Kishida_Kunio
-シャロットの妖姫_Tennyson_Alfred
 シャロットの妖姫_Tsubouchi_Shoyo
 シュアレスの「三人」（宮崎嶺雄君訳）_Kishida_Kunio
 シュリーマン夫人を憶ふ_Hamada_Seiryo
 シュレジェンの織工によせて_Makimura_Ko
 シルクハット_Watanabe_On
-シルヴァブレイズ_Doyle_Arthur Conan
 シルヴァブレイズ_Mikami_Otokichi
 シルヴァブレイズ_Okubo_Yu
 シロ・クロ物語_Toyoshima_Yoshio
-シンデレラ_Lang_Andrew
 シンデレラ_Mizutani_Masaru
 シンデレラ_Okubo_Yu
 シートンの「動物記」_Miyamoto_Yuriko
@@ -1925,7 +1765,6 @@
 ジェミイの冐険_Katayama_Hiroko
 ジェンナー伝_Kosakai_Fuboku
 ジェームズ・ワット_Ishiwara_Atsushi
-ジエィン・エア_Bronte_Charlotte
 ジエィン・エア_Juichiya_Gisaburo
 ジガ蜂_Shimaki_Kensaku
 ジストマ退治の話_Nakaya_Ukichiro
@@ -1933,31 +1772,26 @@
 ジャズ狂時代_Ono_Saseo
 ジャックと豆の木_Kusuyama_Masao
 ジャック・コポオの印象_Kishida_Kunio
-ジャム、君の家は_Guerin_Charles
 ジャム、君の家は_Hori_Tatsuo
 ジャンの新盆_Yamakawa_Masao
 ジャンの物語_Miyamoto_Yuriko
 ジャングル頭_Toyoshima_Yoshio
-ジャン・クリストフ_Rolland_Romain
 ジャン・クリストフ_Toyoshima_Yoshio
 ジャーナリズムの航路_Miyamoto_Yuriko
 ジャーナリズム雑感_Terada_Torahiko
 ジヤン・コクトオ作「恐るべき子供たち」_Kishida_Kunio
 ジュウル・ルナアル_Kishida_Kunio
-ジョン・ブル_Irving_Washington
 ジョン・ブル_Yoshida_Kinetaro
 ジヨオジ・ムウア_Kanbara_Ariake
 ジヨルジュ・クウルトリイヌに就いて_Kishida_Kunio
 ジロリの女_Sakaguchi_Ango
 ジーキル博士とハイド氏の怪事件_Sasaki_Naojiro
-ジーキル博士とハイド氏の怪事件_Stevenson_Robert Louis
 ジーブルグ著「神はフランスにゐるか」_Kishida_Kunio
 スウィス日記_Tsujimura_Isuke
 スカンヂナヴィア文学概観_Miyahara_Koichiro
 スケツチ_Tayama_Katai
 スケツチ_Tayama_Rokuya
 スザナの物語_Murasaki_Toshiro
-スザナの物語_Sakushafusho_nan
 スタンダアルの文体_Sakaguchi_Ango
 スタンレー探検隊に対する二人のコンゴー土人の演説_Miyazawa_Kenji
 ステッキ_Terada_Torahiko
@@ -1973,17 +1807,14 @@
 スミトラ物語_Toyoshima_Yoshio
 スモーリヌイに翻る赤旗_Miyamoto_Yuriko
 スランプ_Yumeno_Kyusaku
-スリーピー・ホローの伝説_Irving_Washington
 スリーピー・ホローの伝説_Yoshida_Kinetaro
 スワデシの誓_Fukunaga_Kiyoshi
-スワデシの誓_Gandhi_Mahatma
 ズラかった信吉_Miyamoto_Yuriko
 セトナ皇子（仮題）_Nakajima_Atsushi
 セメント樽の中の手紙_Hayama_Yoshiki
 セロ弾きのゴーシュ_Miyazawa_Kenji
 センセイノ　コ_Niimi_Nankichi
 センチメンタル・ドライヴ_Makino_Shin'ichi
-センツアマニ_Gorky_Maksim
 センツアマニ_Mori_Ogai
 センツアマニ_Mori_Rintaro
 ゼラール中尉_Kikuchi_Kan
@@ -2013,7 +1844,6 @@
 タレノ　カゲ_Niimi_Nankichi
 タンタレスの春_Makino_Shin'ichi
 ダイアナの馬_Makino_Shin'ichi
-ダゴン_Lovecraft_Howard Phillips
 ダゴン_Ohori_Ryutaro
 ダス・ゲマイネ_Dazai_Osamu
 ダッタン海峡_Makimura_Ko
@@ -2025,9 +1855,6 @@
 チェーホフの短篇に就いて_Jinzai_Kiyoshi
 チェーホフ序説_Jinzai_Kiyoshi
 チェーホフ試論_Jinzai_Kiyoshi
-チカモーガ_Bierce_Ambrose
-チカモーガ_The Creative CAT_nan
-チチアンの死_Hofmannsthal_Hugo von
 チチアンの死_Kinoshita_Mokutaro
 チチハルまで_Kuroshima_Denji
 チビの魂_Tokuda_Shusei
@@ -2036,8 +1863,6 @@
 チャンス_Dazai_Osamu
 チャンプルー_Yamanokuchi_Baku
 チャールズ・ダーウィン_Ishiwara_Atsushi
-チャールズ・デクスター・ウォードの事件_Lovecraft_Howard Phillips
-チャールズ・デクスター・ウォードの事件_The Creative CAT_nan
 チュウリップの幻術_Miyazawa_Kenji
 チューインガム_Terada_Torahiko
 チューリップの芽_Ogawa_Mimei
@@ -2063,9 +1888,7 @@
 テレパシー_Mizuno_Yoshu
 テレビの科学番組_Nakaya_Ukichiro
 テレモピレノ_Makimura_Ko
-ディカーニカ近郷夜話　前篇_Gogol_Nikolai
 ディカーニカ近郷夜話　前篇_Hirai_Hajime
-ディカーニカ近郷夜話　後篇_Gogol_Nikolai
 ディカーニカ近郷夜話　後篇_Hirai_Hajime
 ディズニーの人と作品_Nakaya_Ukichiro
 ディフォーメイションへの疑問_Miyamoto_Yuriko
@@ -2087,22 +1910,18 @@
 トイレット_Katayama_Hiroko
 トカトントン_Dazai_Osamu
 トコヨゴヨミ_Tayama_Katai
-トニオ・クレエゲル_Mann_Paul Thomas
 トニオ・クレエゲル_Saneyoshi_Hayao
-トビアス・ミンデルニッケル_Mann_Paul Thomas
 トビアス・ミンデルニッケル_Saneyoshi_Hayao
 トム吉と宝石_Ogawa_Mimei
 トヨタ自動車一周年を迎へて_Toyoda_Kiichiro
 トヨタ電気自動車試作_Toyoda_Kiichiro
 トラピスト天使園の童貞_Miki_Rofu
-トリスタン_Mann_Paul Thomas
 トリスタン_Saneyoshi_Hayao
 トリスタン・コルビエールを紹介す_Nakahara_Chuya
 トリスタン・ベルナアルに就いて_Kishida_Kunio
 トルストイ伯_Kitamura_Tokoku
 トルストイ翁論文_Ishikawa_Takuboku
 トレドの風景_Hori_Tatsuo
-トレドの風景_Rilke_Rainer Maria
 トロッコ_Akutagawa_Ryunosuke
 トロツコ_Akutagawa_Ryunosuke
 トンカトントンカッタカッタ_Konno_Dairiki
@@ -2111,25 +1930,19 @@
 トーマス・エディソン_Ishiwara_Atsushi
 ドイルを宗とす_Koga_Saburo
 ドゥイノ悲歌_Hori_Tatsuo
-ドゥイノ悲歌_Rilke_Rainer Maria
 ドグラ・マグラ_Yumeno_Kyusaku
 ドストイェフスキーに就いて_Katagami_Noburu
 ドストエフスキーとバルザック_Sakaguchi_Ango
 ドナウ源流行_Saito_Mokichi
 ドモ又の死_Arishima_Takeo
-ドラムガニョールの白い猫_Le Fanu_Joseph Sheridan
-ドラムガニョールの白い猫_The Creative CAT_nan
 ドレフュー大疑獄とエミール・ゾーラ_Kotoku_Shusui
 ドレントン・デン特派員の冒険_Oku_Masuo
-ドレントン・デン特派員の冒険_White_Fred M
 ドン_Kaijaku_Ranpei
 ドン_Yumeno_Kyusaku
 ドン・バス炭坑区の「労働宮」_Miyamoto_Yuriko
 ドーヴィル物語_Okamoto_Kanoko
-ナイチンゲール_Andersen_Hans Christian
 ナイチンゲール_Yazaki_Genkuro
 ナガレボシ_Niimi_Nankichi
-ナショナリズムについての覚書_Orwell_George
 ナショナリズムについての覚書_The Creative CAT_nan
 ナチスの暴虐への抗議に関して_Miyamoto_Yuriko
 ナポレオンと田虫_Yokomitsu_Riichi
@@ -2142,26 +1955,20 @@
 ニッケルの文鎮_Koga_Saburo
 ニッポン三週間_Miyamoto_Yuriko
 ニッポン音楽_Kanetsune_Kiyosuke
-ニャルラトホテプ_Lovecraft_Howard Phillips
 ニャルラトホテプ_Okubo_Yu
 ニュース映画と新聞記事_Terada_Torahiko
 ニュートン_Ishiwara_Atsushi
 ニューフェイス_Sakaguchi_Ango
 ニュー・ヨーク　『青春の自画像』より_Maedako_Hiroichiro
-ニールスのふしぎな旅_Lagerlof_Selma
 ニールスのふしぎな旅_Yazaki_Genkuro
-ニール・オキャリー_Hyde_Douglas
 ニール・オキャリー_Tateno_Hiromi
 ヌスビトト　コヒツヂ_Niimi_Nankichi
 ヌタプカムシペ山脈の畔り_Konno_Dairiki
 ネオン横丁殺人事件_Unno_Juza
 ネクタイとステッキ_Sato_Haruo
 ネコ　ノ　オバアサン_Murayama_Kazuko
-ネコとネズミのいっしょのくらし_Grimm_Jacob Ludwig Carl
-ネコとネズミのいっしょのくらし_Grimm_Wilhelm Carl
 ネコとネズミのいっしょのくらし_Yazaki_Genkuro
 ネズミ、シラミ、歴史_Minakami_Shigeki
-ネズミ、シラミ、歴史_Zinsser_Hans
 ネルソン伝に序す_Uchimura_Kanzo
 ノア_Hisao_Juran
 ノオト_Hori_Tatsuo
@@ -2173,14 +1980,11 @@
 ハイデッゲル教授の想い出_Miki_Kiyoshi
 ハイネが何処かで_Hori_Tatsuo
 ハガキ運動_Sakai_Toshihiko
-ハツカネズミと小鳥と腸づめの話_Grimm_Jacob Ludwig Carl
-ハツカネズミと小鳥と腸づめの話_Grimm_Wilhelm Carl
 ハツカネズミと小鳥と腸づめの話_Yazaki_Genkuro
 ハナとタマシヒ_Hirayama_Chiyoko
 ハビアン説法_Jinzai_Kiyoshi
 ハムレット_Hisao_Juran
 ハルピンの一夜_Nanbu_Shutaro
-ハルレム_Bertrand_Louis
 ハルレム_Ueda_Bin
 ハワイの色_Nakaya_Ukichiro
 ハワイの雪_Nakaya_Ukichiro
@@ -2192,22 +1996,18 @@
 バザンの小説_Tayama_Rokuya
 バットクラス_Okamoto_Kanoko
 バブル崩壊_Oku_Masuo
-バブル崩壊_White_Fred M
 バラック居住者への言葉_Toyoshima_Yoshio
 バラルダ物語_Makino_Shin'ichi
 バルザック_Miyamoto_Yuriko
 バルザックについてのノート_Miyamoto_Yuriko
 バルザックに対する評価_Miyamoto_Yuriko
 バルザックの寝巻姿_Yoshiyuki_Eisuke
-バルタザアル_France_Anatole
 バークレーより_Okino_Iwasaburo
 パァル・バックの作風その他_Miyamoto_Yuriko
 パアテル・セルギウス_Mori_Ogai
 パアテル・セルギウス_Mori_Rintaro
-パアテル・セルギウス_Tolstoi_Lev
 パイプについての雑談_Hori_Tatsuo
 パウロの混乱_Dazai_Osamu
-パスカルの言葉_Pascal_Blaise
 パスカルの言葉_Shimazaki_Toson
 パステルの竜_Akutagawa_Ryunosuke
 パソコン創世記_Tomita_Michio
@@ -2246,22 +2046,15 @@
 ピエル・フオン訪問記_Makino_Shin'ichi
 ピエロ伝道者_Sakaguchi_Ango
 ピストルの使い方_Izumi_Kyoka
-ピストルの蠱惑_Level_Maurice
 ピストルの蠱惑_Tanaka_Sanae
 ピタゴラスと豆_Terada_Torahiko
-ピックマンのモデル_Lovecraft_Howard Phillips
-ピックマンのモデル_The Creative CAT_nan
 ピッチの様に_Miyamoto_Yuriko
 ピムキン、でかした！_Miyamoto_Yuriko
-ピンの先き_Chesterton_Gilbert Keith
 ピンの先き_Murasaki_Toshiro
 ピンカンウーリの阿媽_Toyoshima_Yoshio
 ピークハンティングに帰れ_Matsunami_Akira
 ピーター・パン_Nakaya_Ukichiro
-ファウスト_Goethe_Johann Wolfgang von
 ファウスト_Mori_Ogai
-ファシズムとは何か_Orwell_George
-ファシズムとは何か_The Creative CAT_nan
 ファシズムは生きている_Miyamoto_Yuriko
 ファティアの花鬘_Makino_Shin'ichi
 ファラデーの伝_Aichi_Keiichi
@@ -2270,11 +2063,9 @@
 フアイヤ・ガン_Tokuda_Shusei
 フアウスト_Makino_Shin'ichi
 フェア・プレイの悲喜_Miyamoto_Yuriko
-フェリシテ_Level_Maurice
 フェリシテ_Tanaka_Sanae
 フォスフォレッスセンス_Dazai_Osamu
 フシギな女_Sakaguchi_Ango
-フランケンシュタイン_Shelley_Mary Wollstonecraft
 フランケンシュタイン_Shishido_Giichi
 フランスに於けるシェイクスピア_Kishida_Kunio
 フランス伯Ｎ・Ｂ_Hisao_Juran
@@ -2284,30 +2075,22 @@
 フランソア・コッペ訪問記_Horiguchi_Kumaichi
 フランダースの犬_Araki_Kojiro
 フランダースの犬_Kikuchi_Kan
-フランダースの犬_de la Ramee_Marie Louise
 フランドン農学校の豚_Miyazawa_Kenji
 フルイ　バシヤ_Niimi_Nankichi
 フレップ・トリップ_Kitahara_Hakushu
 フロオベエル雑感_Sakaguchi_Ango
-フロルスと賊と_Kuzmin_Mikhail Alekseevich
 フロルスと賊と_Mori_Ogai
 フロルスと賊と_Mori_Rintaro
 フロレンス・ナイチンゲールの生涯_Miyamoto_Yuriko
 フローラとフォーナ_Hori_Tatsuo
 ブイヨン・ドンゾール_Takizawa_Keiichi
-ブタ飼い_Andersen_Hans Christian
 ブタ飼い_Yazaki_Genkuro
-ブラウン神父の醜聞_Chesterton_Gilbert Keith
 ブラウン神父の醜聞_Murasaki_Toshiro
 ブラウン神父総説_Murasaki_Toshiro
 ブリユンチエールの言葉について_Hirabayashi_Hatsunosuke
 ブルジョア作家のファッショ化に就て_Miyamoto_Yuriko
 ブルタアニュの伝説より_Kishida_Kunio
-ブレーメンの町楽隊_Grimm_Jacob Ludwig Carl
-ブレーメンの町楽隊_Grimm_Wilhelm Carl
 ブレーメンの町楽隊_Kusuyama_Masao
-ブレーメンの音楽師_Grimm_Jacob Ludwig Carl
-ブレーメンの音楽師_Grimm_Wilhelm Carl
 ブレーメンの音楽師_Yazaki_Genkuro
 ブロンズまで_Makino_Shin'ichi
 プウルの傍で_Nakajima_Atsushi
@@ -2329,34 +2112,24 @@
 プールと犬_Makimoto_Kusuro
 ヘヤーピン一本_Toyoshima_Yoshio
 ヘルムホルツ_Ishiwara_Atsushi
-ヘンゼルとグレーテル_Grimm_Jacob Ludwig Carl
-ヘンゼルとグレーテル_Grimm_Wilhelm Carl
 ヘンゼルとグレーテル_Kusuyama_Masao
 ヘンゼルとグレーテル_Yazaki_Genkuro
 ベツコウ蜂_Makino_Shin'ichi
 ベリンスキーの眼力_Miyamoto_Yuriko
 ベルとドラゴン_Murasaki_Toshiro
-ベルとドラゴン_Sakushafusho_nan
 ベルリン大学_Terada_Torahiko
 ベーシック英語_Takata_Tsutomu
 ベースボール_Masaoka_Shiki
-ベートーヴェンの生涯_Beethoven_Ludwig van
-ベートーヴェンの生涯_Breuning_Eleonore von
 ベートーヴェンの生涯_Katayama_Toshihiko
-ベートーヴェンの生涯_Rolland_Romain
-ベートーヴェンの生涯_Wegeler_Franz Gerhard
 ペスときょうだい_Ogawa_Mimei
 ペスをさがしに_Ogawa_Mimei
-ペスト王_Poe_Edgar Allan
 ペスト王_Sasaki_Naojiro
 ペチヨリンとゲザ_Tayama_Katai
 ペチヨリンとゲザ_Tayama_Rokuya
-ペルゴレーズ街の殺人事件_Level_Maurice
 ペルゴレーズ街の殺人事件_Tanaka_Sanae
 ペルリ行_Makino_Shin'ichi
 ペンとインキ_Tsuchihara_Kosaku
 ペンとインキ_Yumeno_Kyusaku
-ペンとインキつぼ_Andersen_Hans Christian
 ペンとインキつぼ_Yazaki_Genkuro
 ペンギン鳥の歌_Hara_Tamiki
 ペンクラブのパリ大会_Miyamoto_Yuriko
@@ -2365,12 +2138,9 @@
 ペーチャの話_Miyamoto_Yuriko
 ホオムズの探偵法_Hirabayashi_Hatsunosuke
 ホッキ巻_Chiri_Mashiho
-ホレおばあさん_Grimm_Jacob Ludwig Carl
-ホレおばあさん_Grimm_Wilhelm Carl
 ホレおばあさん_Yazaki_Genkuro
 ボデー意匠審査会　美術の粋を蒐め独特の形態美へ_Toyoda_Kiichiro
 ボニン島物語_Hisao_Juran
-ボヘミアの醜聞_Doyle_Arthur Conan
 ボヘミアの醜聞_Okubo_Yu
 ボルネオ　ダイヤ_Hayashi_Fumiko
 ボロ家の春秋_Umezaki_Haruo
@@ -2380,7 +2150,6 @@
 ポオとルヴェル_Kosakai_Fuboku
 ポオル・エルヴィユウ_Kishida_Kunio
 ポオ異界詩集_Okubo_Yu
-ポオ異界詩集_Poe_Edgar Allan
 ポランの広場_Miyazawa_Kenji
 ポラーノの広場_Miyazawa_Kenji
 ポルト・リシュとクウルトリイヌ_Kishida_Kunio
@@ -2389,7 +2158,6 @@
 マイクロフォン―八月増刊『陰獣』を中心にして―_Kunieda_Shiro
 マイクロフォン―雑感―_Kunieda_Shiro
 マイケル・ファラデイ_Ishiwara_Atsushi
-マカーガー峡谷の秘密_Bierce_Ambrose
 マカーガー峡谷の秘密_Senoo_Akio
 マクシム・ゴーリキイについて_Miyamoto_Yuriko
 マクシム・ゴーリキイの人及び芸術_Miyamoto_Yuriko
@@ -2398,18 +2166,13 @@
 マグノリアの木_Miyazawa_Kenji
 マスク_Kikuchi_Kan
 マダム貞奴_Hasegawa_Shigure
-マッチ売りの少女_Andersen_Hans Christian
 マッチ売りの少女_Okubo_Yu
 マッチ売りの少女_Yazaki_Genkuro
 ママ先生とその夫_Kishida_Kunio
-マリアの子ども_Grimm_Jacob Ludwig Carl
-マリアの子ども_Grimm_Wilhelm Carl
 マリアの子ども_Yazaki_Genkuro
 マリア・バシュキルツェフの日記_Miyamoto_Yuriko
 マリヴロンと少女_Miyazawa_Kenji
-マリ・デル_Chekhov_Anton
 マリ・デル_Jinzai_Kiyoshi
-マリー・ロジェエの怪事件_Poe_Edgar Allan
 マリー・ロジェエの怪事件_Sasaki_Naojiro
 マルは　しあわせ_Ogawa_Mimei
 マルクスの審判_Yokomitsu_Riichi
@@ -2427,7 +2190,6 @@
 ミミズ酒と美女_Sato_Koseki
 ムジナモ発見物語り_Makino_Tomitaro
 ムツェンスク郡のマクベス夫人_Jinzai_Kiyoshi
-ムツェンスク郡のマクベス夫人_Leskov_Nikolai Semyonovich 
 ムーア灯_Terada_Torahiko
 メデューサの首_Kosakai_Fuboku
 メフィスト_Koyama_Kiyoshi
@@ -2439,13 +2201,11 @@
 メーデーに備えろ_Miyamoto_Yuriko
 メーデーに歌う_Miyamoto_Yuriko
 メーデーを待つ_Kimura_Yoshiko
-メールストロムの旋渦_Poe_Edgar Allan
 メールストロムの旋渦_Sasaki_Naojiro
 モウタアの輪_Tayama_Katai
 モウタアの輪_Tayama_Rokuya
 モオリアックのこと_Hori_Tatsuo
 モオリス・ド・ゲラン_Hori_Tatsuo
-モオリス・ド・ゲラン_Rilke_Rainer Maria
 モオリス・ド・ゲランと姉ユウジェニイ_Hori_Tatsuo
 モスクワ_Miyamoto_Yuriko
 モスクワの姿_Miyamoto_Yuriko
@@ -2454,21 +2214,17 @@
 モスクワ日記から_Miyamoto_Yuriko
 モノグラム_Edogawa_Ranpo
 モノロオグ_Kishida_Kunio
-モミの木_Andersen_Hans Christian
 モミの木_Yazaki_Genkuro
 モラトリアム質疑_Miyamoto_Yuriko
 モルガンお雪_Hasegawa_Shigure
-モルグ街の殺人事件_Poe_Edgar Allan
 モルグ街の殺人事件_Sasaki_Naojiro
 モルモット_Hosoi_Wakizo
 モンアサクサ_Sakaguchi_Ango
-モンテーニュ随想録_Montaigne _Michel Eyquem de
 モンテーニュ随想録_Sekine_Hideo
 ヤトラカン・サミ博士の椅子_Maki_Itsuma
 ヤミ論語_Sakaguchi_Ango
 ユタの歴史的研究_Iha_Fuyu
 ユダヤ人のブナの木_Banshoya_Eiichi
-ユダヤ人のブナの木_Droste-Hülshoff_Annette von
 ユネスコと科学_Nishina_Yoshio
 ユメノリヨカウ_Okamoto_Kiichi
 ユモレスク_Hisao_Juran
@@ -2476,7 +2232,6 @@
 ヨブ記講演_Uchimura_Kanzo
 ヨーロッパ的性格　ニッポン的性格_Sakaguchi_Ango
 ライオンの大損_Murayama_Kazuko
-ライギット・パズル_Doyle_Arthur Conan
 ライギット・パズル_Mikami_Otokichi
 ライギット・パズル_Okubo_Yu
 ライス・ワッフルの友_Makino_Shin'ichi
@@ -2493,8 +2248,6 @@
 ラヂオ閑話_Narusawa_Reisen
 ラツパ_Niimi_Nankichi
 ラハイナまで来た理由_Kataoka_Yoshio
-ラプンツェル_Grimm_Jacob Ludwig Carl
-ラプンツェル_Grimm_Wilhelm Carl
 ラプンツェル_Nakajima_Koto
 ラプンツェル_Yazaki_Genkuro
 ラマ塔の秘密_Miyahara_Koichiro
@@ -2510,51 +2263,40 @@
 ランプの影_Masaoka_Shiki
 ランプの明滅_Makino_Shin'ichi
 ランボオ詩集_Nakahara_Chuya
-ランボオ詩集_Rimbaud_Jean Nicolas Arthur
 ランボオ詩集≪学校時代の詩≫_Nakahara_Chuya
-ランボオ詩集≪学校時代の詩≫_Rimbaud_Jean Nicolas Arthur
 ラヴォアジエ_Ishiwara_Atsushi
 ラ・ベルとラ・ベート（美し姫と怪獣）_Kusuyama_Masao
-ラ・ベルとラ・ベート（美し姫と怪獣）_de Villeneuve_Gabrielle-Susanne Barbot
 ラ・ベル・フィユ号の奇妙な航海_Level_Maurice
 ラ・ベル・フィユ号の奇妙な航海_Tanaka_Sanae
 ラ氏の笛_Matsunaga_Enzo
 リアルな方法とは_Miyamoto_Yuriko
 リイズ_Dazai_Osamu
 リギ山上の一夜_Saito_Mokichi
-リシダス_Milton_John
 リシダス_Ueda_Bin
 リズムの構造_Nakai_Masakazu
 リズム（詩の）に就いての再考察_Sakurama_Chuyo
 リチャードソン_Nakaya_Ukichiro
 リチャード・バートン訳「一千一夜物語」に就いて_Akutagawa_Ryunosuke
-リップ・ヴァン・ウィンクル_Irving_Washington
 リップ・ヴァン・ウィンクル_Yoshida_Kinetaro
 リラの手紙_Toyoda_Saburo
 リルケ年譜_Hori_Tatsuo
 リルケ書翰（ロダン宛）_Hori_Tatsuo
-リルケ書翰（ロダン宛）_Rilke_Rainer Maria
-ルイスヒェン_Mann_Paul Thomas
 ルイスヒェン_Saneyoshi_Hayao
 ルイ・ジュウヴェの魅力_Kishida_Kunio
 ルイ・パストゥール_Ishiwara_Atsushi
 ルウベンスの偽画_Hori_Tatsuo
 ルクレチウスと科学_Terada_Torahiko
 ルネ・クレール私見_Itami_Mansaku
-ルバイヤート_Khayyam_'Umar
 ルバイヤート_Ogawa_Ryosaku 
 ルポルタージュの読後感_Miyamoto_Yuriko
 ルルとミミ_Toda_Ken
 ルルとミミ_Yumeno_Kyusaku
-ルンペルシュチルツヒェン_Grimm_Jacob Ludwig Carl
-ルンペルシュチルツヒェン_Grimm_Wilhelm Carl
 ルンペルシュチルツヒェン_Kusuyama_Masao
 ルヴエルの『夜鳥』_Hirabayashi_Hatsunosuke
 レイモンドの『農民』_Tayama_Katai
 レイモンドの『農民』_Tayama_Rokuya
 レエモン　ラジィゲ_Hori_Tatsuo
 レオナルド・ダ・ヴインチの手記_Akutagawa_Ryunosuke
-レオナルド・ダ・ヴインチの手記_da Vinci_Leonardo
 レオポール三世の悲劇_Kishida_Kunio
 レコード夜話_Miyagi_Michio
 レコード蒐集_Kanetsune_Kiyosuke
@@ -2563,7 +2305,6 @@
 レンズとフィルム_Nakai_Masakazu
 レンズに現われた女の姿_Tanaka_Kotaro
 レンブラントの国_Nogami_Toyoichiro
-レ・ミゼラブル_Hugo_Victor
 レ・ミゼラブル_Toyoshima_Yoshio
 レーリー卿（Lord Rayleigh）_Terada_Torahiko
 ロウモン街の自殺ホテル_Maki_Itsuma
@@ -2581,7 +2322,6 @@
 ロマネスク_Dazai_Osamu
 ロマンスと縁談_Sasaki_Kuni
 ロマンチツクな絵本_Migishi_Kotaro
-ロミオとヂュリエット_Shakespeare_William
 ロミオとヂュリエット_Tsubouchi_Shoyo
 ロンドン一九二九年_Miyamoto_Yuriko
 ロンリー・マン_Yamakawa_Masao
@@ -2589,19 +2329,15 @@
 ローマ字論者への質疑_Hagiwara_Sakutaro
 ローマ法王と外交_Kunieda_Shiro
 ワルシャワのメーデー_Miyamoto_Yuriko
-ワンダ・ブック――少年・少女のために――_Hawthorne_Nathaniel
 ワンダ・ブック――少年・少女のために――_Miyake_Ikusaburo
 ワンダ・ワシレーフスカヤ_Miyamoto_Yuriko
 ワーニカとターニャ_Miyamoto_Yuriko
-ワーニャ伯父さん_Chekhov_Anton
-ワーニャ伯父さん_Jinzai_Kiyoshi
 ヰタ・セクスアリス_Mori_Ogai
 ヴァリエテ_Miyamoto_Yuriko
 ヴアン・ダインの作風_Hirabayashi_Hatsunosuke
 ヴィタミン研究の回顧_Suzuki_Umetaro
 ヴィヨンの妻_Dazai_Osamu
 ヴィルヘルム・ヴント_Kawai_Teiichi
-ヴェニスに死す_Mann_Paul Thomas
 ヴェニスに死す_Saneyoshi_Hayao
 ヴェランダにて_Hori_Tatsuo
 ヴェルダン_Nogami_Toyoichiro
@@ -2653,9 +2389,7 @@
 一人ぼっちのプレゼント_Yamakawa_Masao
 一人二役_Edogawa_Ranpo
 一人舞台_Mori_Ogai
-一人舞台_Strindberg_August
 一休さん_Izumino_Seiichi
-一僧_Turgenev_Ivan
 一僧_Ueda_Bin
 一兵卒_Tayama_Katai
 一兵卒と銃_Nanbu_Shutaro
@@ -2712,7 +2446,6 @@
 一条の縄_Miyamoto_Yuriko
 一枚の切符_Edogawa_Ranpo
 一枚絵の女_Kunieda_Shiro
-一枝について_Kim_Chong-han
 一歩前進二歩退却_Dazai_Osamu
 一灯_Dazai_Osamu
 一点鐘_Miyoshi_Tatsuji
@@ -2749,8 +2482,6 @@
 七月の水玉_Kataoka_Yoshio
 七月七日_Kanbara_Ariake
 七福神詣_San'yutei_Encho
-七羽のカラス_Grimm_Jacob Ludwig Carl
-七羽のカラス_Grimm_Wilhelm Carl
 七羽のカラス_Yazaki_Genkuro
 七重文化の都市_Nogami_Toyoichiro
 万の死_Ogawa_Mimei
@@ -2767,8 +2498,6 @@
 三つの「女大学」_Miyamoto_Yuriko
 三つのお人形_Ogawa_Mimei
 三つのかぎ_Ogawa_Mimei
-三つのことば_Grimm_Jacob Ludwig Carl
-三つのことば_Grimm_Wilhelm Carl
 三つのことば_Yazaki_Genkuro
 三つのなぜ_Akutagawa_Ryunosuke
 三つのばあい・未亡人はどう生きたらいいか_Miyamoto_Yuriko
@@ -2792,8 +2521,6 @@
 三人の師_Uemura_Shoen
 三人の百姓_Akita_Ujyaku
 三人の相馬大作_Naoki_Sanjugo
-三人の糸くり女_Grimm_Jacob Ludwig Carl
-三人の糸くり女_Grimm_Wilhelm Carl
 三人の糸くり女_Yazaki_Genkuro
 三人の訪問者_Shimazaki_Toson
 三人兄弟_Kikuchi_Kan
@@ -2839,13 +2566,8 @@
 三月八日は女の日だ_Miyamoto_Yuriko
 三木清を憶う_Toyoshima_Yoshio
 三本の棗_Katayama_Hiroko
-三本の金の髪の毛をもっている鬼_Grimm_Jacob Ludwig Carl
-三本の金の髪の毛をもっている鬼_Grimm_Wilhelm Carl
 三本の金の髪の毛をもっている鬼_Yazaki_Genkuro
-三枚のヘビの葉_Grimm_Jacob Ludwig Carl
-三枚のヘビの葉_Grimm_Wilhelm Carl
 三枚のヘビの葉_Yazaki_Genkuro
-三枚の学生_Doyle_Arthur Conan
 三枚の学生_Okubo_Yu
 三枚続_Izumi_Kyoka
 三次の鵜飼_Nakamura_Kenkichi
@@ -2907,10 +2629,8 @@
 不可解な失恋に就て_Sakaguchi_Ango
 不可説_Mori_Ogai
 不可説_Mori_Rintaro
-不可説_Regnier_Henri de
 不吉の音と学士会院の鐘_Iwamura_Toru
 不周山_Inoue_Kobai
-不周山_Lu Xun_nan
 不器用な天使_Hori_Tatsuo
 不器男句集_Shiba_Fukio
 不器男句集_Yoshioka_Zenjido
@@ -2929,8 +2649,6 @@
 不思議な鳥_Ogawa_Mimei
 不思議な鳥_Tayama_Katai
 不思議な鳥_Tayama_Rokuya
-不思議の国のアリス　ミュージカル版_Carroll_Lewis
-不思議の国のアリス　ミュージカル版_Clarke_Henry Savile
 不思議の国のアリス　ミュージカル版_Okubo_Yu
 不死の薬_Ogawa_Mimei
 不沈軍艦の見本_Unno_Juza
@@ -2942,7 +2660,6 @@
 不良少年とキリスト_Sakaguchi_Ango
 不苦心談_Mori_Ogai
 不連続殺人事件_Sakaguchi_Ango
-且８氏の出発_I_Sang
 世に出るまで_Sakaguchi_Ango
 世の中と女_Akutagawa_Ryunosuke
 世の中のこと_Ogawa_Mimei
@@ -2964,26 +2681,8 @@
 世界人情覗眼鏡_Kishida_Kunio
 世界大戦の後_Makimura_Ko
 世界平和の趨勢_Okuma_Shigenobu
-世界怪談名作集_Andreev_Leonid Nikolaevich
-世界怪談名作集_Bierce_Ambrose
-世界怪談名作集_Crawford_Francis Marion
-世界怪談名作集_Defoe_Daniel
-世界怪談名作集_Dickens_Charles
-世界怪談名作集_Doyle_Arthur Conan
-世界怪談名作集_France_Anatole
-世界怪談名作集_Gautier_Theophile
-世界怪談名作集_Hawthorne_Nathaniel
-世界怪談名作集_Hoffmann_Ernst Theodor Amadeaus
-世界怪談名作集_Kipling_Rudyard
-世界怪談名作集_Lytton_Edward George Earle Bulwer
-世界怪談名作集_MacDonald_George
-世界怪談名作集_Maupassant_Guy De
 世界怪談名作集_Okamoto_Kido
-世界怪談名作集_Pushkin_Aleksandr Sergeevich
-世界怪談名作集_Qu_You
-世界怪談名作集_Stockton_Francis Richard
 世界新秩序の原理_Nishida_Kitaro
-世界漫遊_David_Jakob Julius
 世界漫遊_Mori_Ogai
 世界的_Dazai_Osamu
 世界的文化の母胎_Kishida_Kunio
@@ -3077,7 +2776,6 @@
 九谷焼_Nakaya_Ukichiro
 九龍虫_Uemura_Shoen
 乞はない乞食_Soeda_Azenbo
-乞食_Level_Maurice
 乞食_Tanaka_Sanae
 乞食の名誉_Ito_Noe
 乞食の子_Suzuki_Miekichi
@@ -3094,7 +2792,6 @@
 乾あんず_Katayama_Hiroko
 乾山の陶器_Kitaoji_Rosanjin
 乾杯_Toyoshima_Yoshio
-亀がアキレスに言ったこと_Carroll_Lewis
 亀がアキレスに言ったこと_Ishinami_Kyo
 亀さん_Hayashi_Fumiko
 亀の子を握ったまま_Tanaka_Kotaro
@@ -3110,9 +2807,7 @@
 予審調書_Hirabayashi_Hatsunosuke
 予感_Yamakawa_Masao
 予言_Hisao_Juran
-予言者の家で_Mann_Paul Thomas
 予言者の家で_Saneyoshi_Hayao
-予謀殺人_Freeman_Richard Austin
 予謀殺人_Senoo_Akio
 予選通過作品選評_Miyamoto_Yuriko
 争われない事実_Kobayashi_Takiji
@@ -3139,8 +2834,6 @@
 二つの松川_Hosoi_Yoshizo
 二つの正月_Terada_Torahiko
 二つの死_Hara_Tamiki
-二つの短い話_Hyde_Douglas
-二つの短い話_Kennedy_Patrick
 二つの短い話_Miyamoto_Yuriko
 二つの答_Kishida_Kunio
 二つの絵_Oana_Ryuichi
@@ -3164,7 +2857,6 @@
 二人の子持ちになった労働者のおっ母あに送る_Dada_Kansuke
 二人の弟たちへのたより_Miyamoto_Yuriko
 二人の役人_Miyazawa_Kenji
-二人の母親_Level_Maurice
 二人の母親_Tanaka_Sanae
 二人の男_Shimada_Seijiro
 二人の男と荷車曳き_Kagutsuchi_Midori
@@ -3212,7 +2904,6 @@
 二葉亭四迷の一生_Uchida_Roan
 二葉亭追録_Uchida_Roan
 二通の書翰_Tanaka_Kotaro
-二都物語_Dickens_Charles
 二都物語_Sasaki_Naojiro
 二重人格者_Kosakai_Fuboku
 二重心臓_Yumeno_Kyusaku
@@ -3247,7 +2938,6 @@
 五月祭の朝_Momota_Soji
 五月雨_Higuchi_Ichiyo
 五月雨_Yoshie_Takamatsu
-五本の指_Bertrand_Louis
 五本の指_Ueda_Bin
 五瓣の椿_Yamamoto_Shugoro
 五百五十句_Takahama_Kyoshi
@@ -3255,7 +2945,6 @@
 五色温泉スキー日記_Itakura_Katsunobu
 五色蟹_Okamoto_Kido
 五葉の松_Yokose_Yau
-五通_Pu_Songling
 五通_Tanaka_Kotaro
 五重塔_Koda_Rohan
 五銭のあたま_Ogawa_Mimei
@@ -3272,12 +2961,10 @@
 井伏鱒二によせて_Koyama_Kiyoshi
 井伏鱒二は悪人なるの説_Sato_Haruo
 井戸_Ito_Sachio
-井戸_Jacobs_William Wymark
 井戸_Mori_Ikuo
 井戸の底に埃の溜つた話_Hayama_Yoshiki
 些細なやうで重大な事_Koda_Rohan
 些細な事件_Inoue_Kobai
-些細な事件_Lu Xun_nan
 亜剌比亜人エルアフイ_Inukai_Takeru
 亜米利加_Konno_Dairiki
 亜米利加の思出_Nagai_Kafu
@@ -3329,20 +3016,16 @@
 人体解剖を看るの記_Unno_Juza
 人参_Izumi_Kyoka
 人参_Izumi_Kyotaro
-人口論_Malthus_Thomas Robert
 人口論_Yoshida_Hideo
 人外魔境_Oguri_Mushitaro
 人妻_Nagai_Kafu
 人妻_Nagai_Soukichi
-人工天国_Baudelaire_Charles Pierre
 人工天国_Tominaga_Taro
 人工心臓_Kosakai_Fuboku
 人工衛星へ汲取舟が行く話_Nakaya_Ukichiro
-人形つかい_Andersen_Hans Christian
 人形つかい_Yazaki_Genkuro
 人形と狼_Kagutsuchi_Midori
 人形と狼_Yumeno_Kyusaku
-人形の家_Ibsen_Henrik
 人形の家_Shimamura_Hogetsu
 人形の話_Orikuchi_Shinobu
 人形の起源_Orikuchi_Shinobu
@@ -3407,7 +3090,6 @@
 人間性の深奥に立って_Ogawa_Mimei
 人間性・政治・文学（１）_Miyamoto_Yuriko
 人間悪の創造_Orikuchi_Shinobu
-人間本性論（人性論）_Hume_David
 人間本性論（人性論）_Inoue_Motoshi
 人間椅子_Edogawa_Ranpo
 人間灰_Unno_Juza
@@ -3422,14 +3104,11 @@
 人類の生存競争_Oka_Asajiro
 人類の誇大狂_Oka_Asajiro
 人馬_Kusuyama_Masao
-人馬のにひ妻_Dunsany_Lord
 人馬のにひ妻_Matsumura_Mineko
 人魂の一つの場合_Terada_Torahiko
 人魂火_Hasegawa_Shigure
 人魚_Hino_Ashihei
-人魚のひいさま_Andersen_Hans Christian
 人魚のひいさま_Kusuyama_Masao
-人魚の姫_Andersen_Hans Christian
 人魚の姫_Yazaki_Genkuro
 人魚の祠_Izumi_Kyoka
 人魚の祠_Izumi_Kyotaro
@@ -3566,7 +3245,6 @@
 佐渡が島_Nagatsuka_Takashi
 佐渡が島から_Enami_Bunzo
 佐渡が島のこと_Enami_Bunzo
-佐渡が島を出て_Enami_Bunzo
 佐竹の原へ大仏をこしらえたはなし_Takamura_Koun
 佐藤春夫氏_Akutagawa_Ryunosuke
 佐藤春夫氏の事_Akutagawa_Ryunosuke
@@ -3623,7 +3301,6 @@
 作業機械_Hosoi_Wakizo
 作物の批評_Natsume_Soseki
 作物の用意_Izumi_Kyoka
-作男・ゴーの名誉_Chesterton_Gilbert Keith
 作男・ゴーの名誉_Naoki_Sanjugo
 作画について_Uemura_Shoen
 作者のことば（『現代日本文学選集』第八巻）_Miyamoto_Yuriko
@@ -3642,7 +3319,6 @@
 価_Susukida_Kyukin
 便乗の図絵_Miyamoto_Yuriko
 便乗型の暴力_Sakaguchi_Ango
-促織_Pu_Songling
 促織_Tanaka_Kotaro
 俊寛_Akutagawa_Ryunosuke
 俊寛_Kikuchi_Kan
@@ -3703,7 +3379,6 @@
 個性_Kitaoji_Rosanjin
 個性というもの_Miyamoto_Yuriko
 倒れた花瓶_Tokuda_Shusei
-倩娘_Chen_Xuanyou
 倩娘_Tanaka_Kotaro
 倫敦の一夜_Okamoto_Kido
 倫敦塔_Natsume_Soseki
@@ -3712,7 +3387,6 @@
 偉大なる夢_Edogawa_Ranpo
 偉大なる近代劇場人_Kishida_Kunio
 偉大な医師たち_Minakami_Shigeki
-偉大な医師たち_Sigerist_Henry E.
 偏奇館吟草_Nagai_Kafu
 偏奇館吟草_Nagai_Soukichi
 偏奇館漫録_Nagai_Kafu
@@ -3733,8 +3407,6 @@
 偶感一語_Miyamoto_Yuriko
 偶然の産んだ駄洒落_Kuki_Shuzo
 偶言_Tsuda_Sokichi
-偸桃_Pu_Songling
-偸桃_Tanaka_Kotaro
 偸盗_Akutagawa_Ryunosuke
 偽りのない文化を_Miyamoto_Yuriko
 偽刑事_Kawada_Isao
@@ -3750,7 +3422,6 @@
 備忘録_Terada_Torahiko
 傲慢な眼_Sakaguchi_Ango
 傷だらけの足_Miyamoto_Yuriko
-傷心_Irving_Washington
 傷心_Yoshida_Kinetaro
 傷痕の背景_Toyoshima_Yoshio
 傾く日_Miyamoto_Yuriko
@@ -3768,7 +3439,6 @@
 僕のかきの木_Ogawa_Mimei
 僕の友だち二三人_Akutagawa_Ryunosuke
 僕の国_Niimi_Nankichi
-僕の国_Stevenson_Robert Louis
 僕の孤独癖について_Hagiwara_Sakutaro
 僕の帽子のお話_Arishima_Takeo
 僕の昔_Natsume_Soseki
@@ -3805,7 +3475,6 @@
 充実した文章_Tayama_Rokuya
 兆民居士安くにかある_Kitamura_Tokoku
 先づ脱却すべきは_Kishida_Kunio
-先天性代謝異常_Garrod_Archibald
 先天性代謝異常_Minakami_Shigeki
 先生と父兄の皆さまへ_Izumino_Seiichi
 先生と生徒_Makimoto_Kusuro
@@ -3828,10 +3497,8 @@
 光籃_Izumi_Kyoka
 光線のように_Miyamoto_Yuriko
 兎さんの本屋とリスの先生_Murayama_Kazuko
-兎と亀_Dunsany_Lord
 兎と亀_Kikuchi_Kan
 兎と猫_Inoue_Kobai
-兎と猫_Lu Xun_nan
 兎の耳_Nakaya_Ukichiro
 児童の解放擁護_Ogawa_Mimei
 児童語彙解説_Yanagita_Kunio
@@ -3851,7 +3518,6 @@
 入社の辞_Natsume_Soseki
 入社試験_Sato_Koseki
 入選小説「毒」について_Miyamoto_Yuriko
-入院患者_Doyle_Arthur Conan
 入院患者_Mikami_Otokichi
 全体の一人_Dada_Kansuke
 全体主義_Kunieda_Shiro
@@ -3891,7 +3557,6 @@
 公開状_Kishida_Kunio
 六の宮の姫君_Akutagawa_Ryunosuke
 六三制を活かす道_Nakaya_Ukichiro
-六号室_Chekhov_Anton
 六号室_Senuma_Kayo
 六号記_Kishida_Kunio
 六日月_Iwamoto_Sohaku
@@ -3900,20 +3565,14 @@
 六月十九日_Dazai_Osamu
 六白金星_Oda_Sakunosuke
 六百句_Takahama_Kyoshi
-六羽の白鳥_Grimm_Jacob Ludwig Carl
-六羽の白鳥_Grimm_Wilhelm Carl
 六羽の白鳥_Kusuyama_Masao
 共同の目標_Kishida_Kunio
 共同耕作_Miyamoto_Yuriko
-共産主義者の犯罪_Chesterton_Gilbert Keith
 共産主義者の犯罪_Murasaki_Toshiro
 共産党とモラル_Miyamoto_Yuriko
 共産党公判を傍聴して_Miyamoto_Yuriko
-共産党宣言_Engels_Friedrich
 共産党宣言_Kotoku_Shusui
-共産党宣言_Marx_Karl Heinrich
 共産党宣言_Sakai_Toshihiko
-共産食堂_Kropotkin_Pyotr Alkseevich
 共産食堂_Osugi_Sakae
 共軛回転弾_Unno_Juza
 兵営と文学_Kishida_Kunio
@@ -3930,7 +3589,6 @@
 内村直也君の『秋水嶺』_Kishida_Kunio
 内気な娘とお転婆娘_Ito_Noe
 内田百間氏_Akutagawa_Ryunosuke
-内科_I_Sang
 内蔵允留守_Yamamoto_Shugoro
 内部生命論_Kitamura_Tokoku
 円卓子での話_Makino_Shin'ichi
@@ -3977,7 +3635,6 @@
 冥土行進曲_Yumeno_Kyusaku
 冬_Akutagawa_Ryunosuke
 冬_Hori_Tatsuo
-冬_Rilke_Rainer Maria
 冬ごもり_Nakaya_Ukichiro
 冬のしぶき_Ito_Shinji
 冬のちょう_Ogawa_Mimei
@@ -3990,7 +3647,6 @@
 冬の榛名山_Omachi_Keigetsu
 冬の法隆寺詣で_Masamune_Hakucho
 冬の海_Miyamoto_Yuriko
-冬の王_Land_Hans
 冬の王_Mori_Ogai
 冬の花火_Dazai_Osamu
 冬の蠅_Kajii_Motojiro
@@ -4021,7 +3677,6 @@
 凡人凡語_Umezaki_Haruo
 凡愚姐御考_Hasegawa_Shigure
 凡神的唯心的傾向に就て_Yamaji_Aizan
-処刑の話_Kafka_Franz
 処刑の話_Okubo_Yu
 処女の木とアブ・サルガ_Nogami_Toyoichiro
 処女の純潔を論ず_Kitamura_Tokoku
@@ -4046,7 +3701,6 @@
 出来上った人_Akutagawa_Ryunosuke
 出版屋惣まくり_Nagai_Kafu
 出版屋惣まくり_Nagai_Soukichi
-出版法_I_Sang
 出発_Hara_Tamiki
 出発_Makino_Shin'ichi
 出発_Shimazaki_Toson
@@ -4103,10 +3757,7 @@
 初蛙_Susukida_Kyukin
 初雪_Akita_Shigeru
 初雪_Chikamatsu_Shuko
-初雪_Maupassant_Guy De
 判官三郎の正体_Nomura_Kodo
-判決_Harada_Yoshito
-判決_Kafka_Franz
 別れたる妻に送る手紙_Chikamatsu_Shuko
 別れの辞_Toyoshima_Yoshio
 別れ霜_Higuchi_Ichiyo
@@ -4134,7 +3785,6 @@
 前進のために_Miyamoto_Yuriko
 前進的な勢力の結集_Miyamoto_Yuriko
 剛才人と柔才人と_Akutagawa_Ryunosuke
-剣のうた_Macleod_Fiona
 剣のうた_Matsumura_Mineko
 剣の四君子_Yoshikawa_Eiji
 剣侠_Kunieda_Shiro
@@ -4167,7 +3817,6 @@
 劇道救済の必要_Kishida_Kunio
 劉海石_Tanaka_Kotaro
 劒の教義_Fukunaga_Kiyoshi
-劒の教義_Gandhi_Mahatma
 力餅_Shimazaki_Toson
 加利福尼亜の宝島_Kunieda_Shiro
 加波山_Hattori_Shiso
@@ -4199,7 +3848,6 @@
 動物園_Akutagawa_Ryunosuke
 動物園の一夜_Hirabayashi_Hatsunosuke
 動物愛護デー_Miyamoto_Yuriko
-動物物語　狼の王ロボ_Seton_Ernest Thompson
 動物物語　狼の王ロボ_Susukida_Zan'un
 動物界における善と悪_Oka_Asajiro
 動的芸術_Tayama_Katai
@@ -4285,9 +3933,6 @@
 北陸の民家_Nakaya_Ukichiro
 北風にたこは上がる_Ogawa_Mimei
 医学の歴史_Minakami_Shigeki
-医学の歴史_Neuburger_Max
-医師と旅行鞄の話_Stevenson_Robert Louis
-医師と旅行鞄の話_Sto_Ryokuyo
 医師高間房一氏_Tabata_Shuichiro
 医者と赤ン坊_Nakahara_Chuya
 医術の進歩_Kishida_Kunio
@@ -4300,11 +3945,8 @@
 十三年_Yamakawa_Masao
 十三時_Mori_Ogai
 十三時_Mori_Rintaro
-十三時_Poe_Edgar Allan
 十九の秋_Nagai_Kafu
 十二ヶ月_Takeuchi_Kozo
-十二人兄弟_Grimm_Jacob Ludwig Carl
-十二人兄弟_Grimm_Wilhelm Carl
 十二人兄弟_Yazaki_Genkuro
 十二支考_Minakata_Kumagusu
 十二月の島だより_Izumi_Horo
@@ -4343,7 +3985,6 @@
 十年振_Nagai_Kafu
 十日の菊_Nagai_Kafu
 十日間_Nagatsuka_Takashi
-十時五十分の急行_Level_Maurice
 十時五十分の急行_Tanaka_Sanae
 十月の文芸時評_Miyamoto_Yuriko
 十月の末_Miyazawa_Kenji
@@ -4374,13 +4015,10 @@
 千里の駒後日譚拾遺_Kawada_Setsuzan
 千里の駒後日譚拾遺_Narasaki_Ryou
 千里眼その他_Nakaya_Ukichiro
-千里眼の村_Kingsford_Anna
-千里眼の村_The Creative CAT_nan
 千里駒後日譚_Kawada_Mizuho
 千里駒後日譚_Kawada_Setsuzan
 千里駒後日譚_Narasaki_Ryou
 千鳥_Suzuki_Miekichi
-午前一時に_Baudelaire_Charles Pierre
 午前一時に_Tominaga_Taro
 午後_Miyamoto_Yuriko
 午後_Yosano_Akiko
@@ -4422,7 +4060,6 @@
 南太平洋科学風土記_Unno_Juza
 南島譚_Nakajima_Atsushi
 南嶋を思いて_Shinmura_Izuru
-南方_Tabata_Shuichiro
 南方物語_Ogawa_Mimei
 南方郵信_Nakamura_Chihei
 南極の怪事_Oshikawa_Shunro
@@ -4434,7 +4071,6 @@
 南洲手抄言志録_Saigo_Takamori
 南洲手抄言志録_Sato_Issai
 南洲手抄言志録_Yamada_Seisai
-南洲留魂祠_Omachi_Keigetsu
 南浦紹明墨蹟_Kitaoji_Rosanjin
 南瓜_Akutagawa_Ryunosuke
 南画を描く話_Nakaya_Ukichiro
@@ -4456,16 +4092,13 @@
 博士問題とマードック先生と余_Natsume_Soseki
 博士問題の成行_Natsume_Soseki
 博多にて_Hayashida_Seimei
-博多にて_Koizumi_Yakumo
 博多人形_Takehisa_Yumeji
 博物誌_Kishida_Kunio
-博物誌_Renard_Jules
 博物誌あとがき_Kishida_Kunio
 博物館_Hamada_Seiryo
 卜居_Hori_Tatsuo
 印度の古話_Koda_Rohan
 印度の婦人へ_Fukunaga_Kiyoshi
-印度の婦人へ_Gandhi_Mahatma
 印度の聖人_Matsumoto_Bunzaburo
 印度の詩人_Kunieda_Shiro
 印度更紗_Izumi_Kyoka
@@ -4476,7 +4109,6 @@
 危し‼　潜水艦の秘密_Yamamoto_Shugoro
 危機における理論的意識_Miki_Kiyoshi
 危機を救ふもの_Kishida_Kunio
-即興詩人_Andersen_Hans Christian
 即興詩人_Mori_Ogai
 卵_Yumeno_Kyusaku
 卵塔場の天女_Izumi_Kyoka
@@ -4535,7 +4167,6 @@
 取舵_Izumi_Kyoka
 取返し物語_Okamoto_Kanoko
 受動的抵抗の理論と実行_Fukunaga_Kiyoshi
-受動的抵抗の理論と実行_Gandhi_Mahatma
 受難日_Hagiwara_Sakutaro
 受験生の手記_Kume_Masao
 叙景詩の発生_Orikuchi_Shinobu
@@ -4555,7 +4186,6 @@
 古事記_hieda_are
 古事記物語_Suzuki_Miekichi
 古井戸_Toyoshima_Yoshio
-古井戸のある風景_Kim_Chong-han
 古今集巻之五_Yamamoto_Shugoro
 古代に於ける言語伝承の推移_Orikuchi_Shinobu
 古代エジプトの作品_Takamura_Kotaro
@@ -4580,7 +4210,6 @@
 古城の真昼_Nomura_Kodo
 古寺巡礼_Watsuji_Tetsuro
 古川ロッパ昭和日記_Furukawa_Roppa
-古書の呪い_Chesterton_Gilbert Keith
 古書の呪い_Murasaki_Toshiro
 古木_Toyoshima_Yoshio
 古本屋_Nakahara_Chuya
@@ -4592,7 +4221,6 @@
 古池の句の弁_Masaoka_Shiki
 古狢_Izumi_Kyoka
 古盃_Hagiwara_Sakutaro
-古街_Kanna_Roteki
 古語復活論_Orikuchi_Shinobu
 古都_Sakaguchi_Ango
 古銭の謎_Nomura_Kodo
@@ -4602,7 +4230,6 @@
 可哀想な彼女_Kubota_Mantaro
 可哀相な姉_Watanabe_On
 可愛いポール_Hojo_Tamio
-可愛い女_Chekhov_Anton
 可愛い女_Jinzai_Kiyoshi
 可愛い山_Ishikawa_Kinichi
 可能性の文学_Oda_Sakunosuke
@@ -4618,7 +4245,6 @@
 号外_Kunikida_Doppo
 司馬遷の生年に関する一新説_Kuwabara_Jitsuzo
 各人心宮内の秘宮_Kitamura_Tokoku
-合唱について_Kim_Chong-han
 合図の旗_Miyamoto_Yuriko
 合本三太郎の日記　序_Abe_Jiro
 合本三太郎の日記の後に_Abe_Jiro
@@ -4640,7 +4266,6 @@
 吊籠と月光と_Makino_Shin'ichi
 同じ娘でも_Miyamoto_Yuriko
 同じ星_Dazai_Osamu
-同一事件_Doyle_Arthur Conan
 同一事件_Kato_Asatori
 同一事件_Okubo_Yu
 同居人荷風_Konishi_Shigeya
@@ -4755,7 +4380,6 @@
 哲学はやさしくできないか_Miki_Kiyoshi
 哲学入門_Miki_Kiyoshi
 唄立山心中一曲_Izumi_Kyoka
-唇のねじれた男_Doyle_Arthur Conan
 唇のねじれた男_Okubo_Yu
 唇草_Okamoto_Kanoko
 唐招提寺木彫如来形像_Takamura_Kotaro
@@ -4764,7 +4388,6 @@
 唖の妖女_Tanaka_Kotaro
 唖娘_Tanaka_Kotaro
 唖娘スバー_Miyamoto_Yuriko
-唖娘スバー_Tagore_Rabindranath
 唯心的、凡神的傾向に就て（承前）_Yamaji_Aizan
 唯物史観と現代の意識_Miki_Kiyoshi
 唯物論とファッシズム_Tosaka_Jun
@@ -4785,7 +4408,6 @@
 啓蒙の現代的意味と役割とについて_Tosaka_Jun
 善いことをした喜び_Ogawa_Mimei
 善の研究_Nishida_Kitaro
-善夫孤独_Kim_Chong-han
 善悪両面鼠小僧_Kunieda_Shiro
 善根鈍根_Sasaki_Kuni
 善蔵を思う_Dazai_Osamu
@@ -4842,11 +4464,8 @@
 四年間_Yamamoto_Shugoro
 四日のあやめ_Yamamoto_Shugoro
 四日白魔_Oku_Masuo
-四日白魔_White_Fred M
 四日間_Futabatei_Shimei
-四日間_Garshin_Vsevolod Mikhailvich
 四日闇夜_Oku_Masuo
-四日闇夜_White_Fred M
 四月五日_Hara_Tamiki
 四月号の創作三つ_Hirabayashi_Hatsunosuke
 四月馬鹿_Oda_Sakunosuke
@@ -4860,8 +4479,6 @@
 四谷怪談_Tanaka_Kotaro
 四谷怪談異説_Okamoto_Kido
 四郎と口笛_Makino_Shin'ichi
-四風の街_Chambers_Robert W.
-四風の街_The Creative CAT_nan
 回想_Masamune_Hakucho
 回想録_Takamura_Kotaro
 回覧板への注文_Miyamoto_Yuriko
@@ -4953,7 +4570,6 @@
 土神ときつね_Miyazawa_Kenji
 土神と狐_Miyazawa_Kenji
 土竜_Sasaki_Toshiro
-土色の顔_Doyle_Arthur Conan
 土色の顔_Mikami_Otokichi
 土色の顔_Okubo_Yu
 土足のままの文学_Oda_Sakunosuke
@@ -4967,7 +4583,6 @@
 地を掘る人達に_Momota_Soji
 地上_Shimada_Seijiro
 地上組織_Nakahara_Chuya
-地下生活者の手記_Dostoevskii_Fedor Mikhailovich
 地下生活者の手記_Yonekawa_Masao
 地中魔_Unno_Juza
 地名の研究_Yanagita_Kunio
@@ -5039,7 +4654,6 @@
 埋もれた日本_Watsuji_Tetsuro
 埋もれた漱石伝記資料_Terada_Torahiko
 埋れた幻想_Konno_Dairiki
-城_Kafka_Franz
 城のある町にて_Kajii_Motojiro
 城の石垣_Izumi_Kyoka
 城の石垣_Izumi_Kyotaro
@@ -5078,13 +4692,11 @@
 境界なき差別_Oka_Asajiro
 墓_Akita_Shigeru
 墓_Masaoka_Shiki
-墓_Maupassant_Guy De
 墓が呼んでいる_Tachibana_Sotoo
 墓の上に墓_Tayama_Katai
 墓の上に墓_Tayama_Rokuya
 墓地_Sakurama_Chuyo
 墓地の殺人_Kosakai_Fuboku
-墓地へゆく道_Mann_Paul Thomas
 墓地へゆく道_Saneyoshi_Hayao
 墓地展望亭_Hisao_Juran
 墓場_Nishio_Tadashi
@@ -5175,8 +4787,6 @@
 夕凪_Hara_Tamiki
 夕凪と夕風_Terada_Torahiko
 夕張の宿_Koyama_Kiyoshi
-夕映えのむこうの国_Kingsford_Anna
-夕映えのむこうの国_The Creative CAT_nan
 夕暮の別荘地に歩み入る兵士たち_Momota_Soji
 夕暮の窓より_Ogawa_Mimei
 夕焼けがうすれて_Ogawa_Mimei
@@ -5189,7 +4799,6 @@
 外交の方針_Okuma_Shigenobu
 外務大臣の死_Kosakai_Fuboku
 外国語教育_Kishida_Kunio
-外套_Gogol_Nikolai
 外套_Hirai_Hajime
 外套と青空_Sakaguchi_Ango
 外来の音楽家に感謝したい_Miyamoto_Yuriko
@@ -5208,7 +4817,6 @@
 夜_Takehisa_Yumeji
 夜あるき_Nagai_Kafu
 夜に就て_Tachihara_Michizo
-夜のガスパール　抄_Bertrand_Aloysius
 夜のガスパール　抄_Shono_Ken
 夜の喜び_Ogawa_Mimei
 夜の奇蹟_Makino_Shin'ichi
@@ -5261,14 +4869,12 @@
 夢_Mori_Ogai
 夢_Nakahara_Chuya
 夢_Nanbu_Shutaro
-夢_Rilke_Rainer Maria
 夢_Sakurama_Chuyo
 夢_Soma_Taizo
 夢_Terada_Torahiko
 夢_Toyoshima_Yoshio
 夢_Yoshie_Kogan
 夢_Yoshie_Takamatsu
-夢がたり_Garshin_Vsevolod Mikhailvich
 夢がたり_Jinzai_Kiyoshi
 夢と人生_Hara_Tamiki
 夢と実現の能力_Kishida_Kunio
@@ -5305,7 +4911,6 @@
 大きな蝙蝠傘_Takehisa_Yumeji
 大つごもり_Higuchi_Ichiyo
 大へび小へび_Katayama_Hiroko
-大ヴォローヂャと小ヴォローヂャ_Chekhov_Anton
 大ヴォローヂャと小ヴォローヂャ_Jinzai_Kiyoshi
 大久保湖州_Akutagawa_Ryunosuke
 大井川奥山の話_Kogure_Ritaro
@@ -5433,7 +5038,6 @@
 天守物語_Izumi_Kyoka
 天川恵三郎手記_Amakawa_Keizaburo
 天成の詩人_Sato_Haruo
-天才_Chekhov_Anton
 天才_Jinzai_Kiyoshi
 天才になりそこなった男の話_Sakaguchi_Ango
 天才になりそこなつた男の話_Sakaguchi_Ango
@@ -5501,7 +5105,6 @@
 奇妙な遠眼鏡_Kagutsuchi_Midori
 奇妙な遠眼鏡_Yumeno_Kyusaku
 奇巌城_Kikuchi_Kan
-奇巌城_Leblanc_Maurice
 奇怪な再会_Akutagawa_Ryunosuke
 奇怪な客_Masamune_Hakucho
 奇怪な話_Toyoshima_Yoshio
@@ -5549,7 +5152,6 @@
 女の手帖_Miyamoto_Yuriko
 女の歴史_Miyamoto_Yuriko
 女の決闘_Dazai_Osamu
-女の決闘_Eulenberg_Herbert
 女の決闘_Mori_Ogai
 女の温泉_Tayama_Katai
 女の温泉_Tayama_Rokuya
@@ -5610,7 +5212,6 @@
 女性崇拝_Okamoto_Kanoko
 女性週評_Miyamoto_Yuriko
 女性風俗時評_Kishida_Kunio
-女房ども_Chekhov_Anton
 女房ども_Jinzai_Kiyoshi
 女房文学から隠者文学へ_Orikuchi_Shinobu
 女教員の縊死_Ito_Noe
@@ -5619,7 +5220,6 @@
 女流作家多難_Miyamoto_Yuriko
 女流俳句を味読す_Sugita_Hisajo
 女王_Noguchi_Ujo
-女王スカァアの笑い_Macleod_Fiona
 女王スカァアの笑い_Matsumura_Mineko
 女生徒_Dazai_Osamu
 女百貨店_Yoshiyuki_Eisuke
@@ -5641,7 +5241,6 @@
 好きな髷のことなど_Uemura_Shoen
 好人物_Sasaki_Kuni
 好人物_Toyoshima_Yoshio
-好古小言_Bokujogyoshi_nan
 好古小言_Narushima_Ryuhoku
 好奇心_Oda_Sakunosuke
 好悪の論_Orikuchi_Shinobu
@@ -5690,7 +5289,6 @@
 妙齢_Izumi_Kyoka
 妣が国へ・常世へ_Orikuchi_Shinobu
 妹の死_Naka_Kansuke
-妻_Chekhov_Anton
 妻_Jinzai_Kiyoshi
 妻_Saito_Mokichi
 妻_Yokomitsu_Riichi
@@ -5767,14 +5365,12 @@
 婦人改造の基礎的考察_Yosano_Akiko
 婦人民主クラブについて_Miyamoto_Yuriko
 婦人民主クラブ趣意書_Miyamoto_Yuriko
-婦人解放の悲劇_Goldman_Emma
 婦人解放の悲劇_Ito_Noe
 婦人読者よ通信員になれ_Miyamoto_Yuriko
 婦人雑誌と猫_Yamamoto_Senji
 婦人雑誌の問題_Miyamoto_Yuriko
 婦系図_Izumi_Kyoka
 媒介者_Tokuda_Shusei
-嫁入り支度_Chekhov_Anton
 嫁入り支度_Jinzai_Kiyoshi
 嫁入前の現代女性に是非読んで貰いたい書籍_Miyamoto_Yuriko
 嫁取婿取_Sasaki_Kuni
@@ -5783,12 +5379,9 @@
 嫉みの話_Orikuchi_Shinobu
 嫉妬する夫の手記_Futabatei_Shimei
 嬌娜_Tanaka_Kotaro
-嬰寧_Pu_Songling
 嬰寧_Tanaka_Kotaro
 子うぐいすと母うぐいす_Ogawa_Mimei
 子ざると母ざる_Ogawa_Mimei
-子どもたちが屠殺ごっこをした話_Grimm_Jacob Ludwig Carl
-子どもたちが屠殺ごっこをした話_Grimm_Wilhelm Carl
 子どもたちが屠殺ごっこをした話_Kaneda_Kiichi
 子どものすきな神さま_Niimi_Nankichi
 子どもの世界_Murayama_Toshitaro
@@ -5806,7 +5399,6 @@
 子供のために書く母たち_Miyamoto_Yuriko
 子供の世界_Arishima_Takeo
 子供の世界_Miyamoto_Yuriko
-子供の保護_Goldman_Emma
 子供の保護_Ito_Noe
 子供の床屋_Ogawa_Mimei
 子供の時分の話_Ogawa_Mimei
@@ -5818,7 +5410,6 @@
 子供は虐待に黙従す_Ogawa_Mimei
 子供・子供・子供のモスクワ_Miyamoto_Yuriko
 子供役者の死_Okamoto_Kido
-子守つ子_Chekhov_Anton
 子守つ子_Suzuki_Miekichi
 子猫_Terada_Torahiko
 子良の昇天_Miyahara_Koichiro
@@ -5829,7 +5420,6 @@
 子規居士と余_Takahama_Kyoshi
 子規自筆の根岸地図_Terada_Torahiko
 孔乙己_Inoue_Kobai
-孔乙己_Lu Xun_nan
 孔子_Watsuji_Tetsuro
 孔子とアメリカ_Nakaya_Ukichiro
 孔子と管仲_Kano_Naoki
@@ -5856,7 +5446,6 @@
 季節抄_Morikawa_Yoshinobu
 孤島の鬼_Edogawa_Ranpo
 孤座_Soma_Gyofu
-孤独_Level_Maurice
 孤独_Ran_Ikujiro
 孤独_Tanaka_Sanae
 孤独と法身_Tayama_Katai
@@ -5898,7 +5487,6 @@
 孫_Saito_Mokichi
 孫だち_Masamune_Hakucho
 孫悟空の雲_Miyamoto_Yuriko
-宇宙の始まり_Arrhenius_Svante
 宇宙の始まり_Terada_Torahiko
 宇宙の迷子_Unno_Juza
 宇宙女囚第一号_Unno_Juza
@@ -5929,7 +5517,6 @@
 安重根_Hayashi_Fubo
 安重根_Tani_Joji
 宋慶齢への手紙_Miyamoto_Yuriko
-宋書倭国伝_Shen_Yue
 宗十郎を悼む_Orikuchi_Shinobu
 宗吾霊堂_Omachi_Keigetsu
 宗教と科学についての所感_Kishida_Kunio
@@ -5940,7 +5527,6 @@
 宝に食われる_Miyamoto_Yuriko
 宝塚生い立ちの記_Kobayashi_Ichizo
 宝島_Sasaki_Naojiro
-宝島_Stevenson_Robert Louis
 宝永噴火_Okamoto_Kanoko
 宝石の序曲_Matsumoto_Tai
 宝石商_Ogawa_Mimei
@@ -5973,18 +5559,14 @@
 宵の星_Konno_Dairiki
 家_Hasegawa_Shigure
 家_Shimazaki_Toson
-家じゅうの人たちの言ったこと_Andersen_Hans Christian
 家じゅうの人たちの言ったこと_Yazaki_Genkuro
 家なき子_Kusuyama_Masao
-家なき子_Malot_Hector Henri
-家のあるじとして気になること_Kafka_Franz
 家のあるじとして気になること_Okubo_Yu
 家のめぐり_Wakayama_Bokusui
 家の話_Yanagita_Kunio
 家を持つといふこと_Yanagita_Kunio
 家常茶飯　附・現代思想_Mori_Ogai
 家常茶飯　附・現代思想_Mori_Rintaro
-家常茶飯　附・現代思想_Rilke_Rainer Maria
 家庭と学生_Miyamoto_Yuriko
 家庭の人へ_Terada_Torahiko
 家庭の幸福_Dazai_Osamu
@@ -6000,7 +5582,6 @@
 家族といふもの_Kamei_Katsuichiro
 家畜食に甘んずる多くの人々_Kitaoji_Rosanjin
 家長の心配_Harada_Yoshito
-家長の心配_Kafka_Franz
 家長制度_Miyazawa_Kenji
 家霊_Okamoto_Kanoko
 容貌_Dazai_Osamu
@@ -6031,7 +5612,6 @@
 富岡先生_Kunikida_Doppo
 富嶽の詩神を思ふ_Kitamura_Tokoku
 富嶽百景_Dazai_Osamu
-富籤_Chekhov_Anton
 富籤_Jinzai_Kiyoshi
 富貴発跡司志_Tanaka_Kotaro
 寐顔_Nagai_Kafu
@@ -6057,13 +5637,10 @@
 寝ぼけ_Yumeno_Kyusaku
 寝床〔扉の言葉〕_Taneda_Santoka
 寡婦_Akita_Shigeru
-寡婦_Maupassant_Guy De
-寡婦とその子_Irving_Washington
 寡婦とその子_Yoshida_Kinetaro
 寡婦の除夜_Uchimura_Kanzo
 寧日_Yamaguchi_Yoshimitsu
 寧楽_Naito_Konan
-審判_Kafka_Franz
 寸情風土記_Izumi_Kyoka
 寸感_Sato_Haruo
 寺じまの記_Nagai_Kafu
@@ -6082,10 +5659,8 @@
 対話させる術_Kishida_Kunio
 対酌_Miyazawa_Kenji
 寿阿弥の手紙_Mori_Ogai
-封三娘_Pu_Songling
 封三娘_Tanaka_Kotaro
 封印切漫評_Orikuchi_Shinobu
-射的場と墓地_Baudelaire_Charles Pierre
 射的場と墓地_Tominaga_Taro
 将来の日本_Nakae_Chomin
 将来の日本_Nakae_Tokusuke
@@ -6131,15 +5706,11 @@
 小ざかな干物の味_Kitaoji_Rosanjin
 小ねこはなにを知ったか_Ogawa_Mimei
 小むすめ_Shimizu_Shikin
-小フリイデマン氏_Mann_Paul Thomas
 小フリイデマン氏_Saneyoshi_Hayao
-小人のくつ屋さん_Grimm_Jacob Ludwig Carl
-小人のくつ屋さん_Grimm_Wilhelm Carl
 小人のくつ屋さん_Okubo_Yu
 小伜の釣り_Sato_Koseki
 小作人への告別_Arishima_Takeo
 小倉西高校新聞への回答_Miyamoto_Yuriko
-小公女_Burnett_Frances Eliza Hodgson
 小公女_Kikuchi_Kan
 小刀の味_Takamura_Kotaro
 小利根川の桜_Omachi_Keigetsu
@@ -6152,7 +5723,6 @@
 小坂部姫_Okamoto_Kido
 小壺狩_Susukida_Kyukin
 小夜の中山夜啼石_Okamoto_Kido
-小夜啼鳥_Andersen_Hans Christian
 小夜啼鳥_Kusuyama_Masao
 小学教育の事_Fukuzawa_Yukichi
 小学生のとき与へられた教訓_Okamoto_Kanoko
@@ -6174,7 +5744,6 @@
 小春の狐_Izumi_Kyoka
 小景_Miyamoto_Yuriko
 小曲_Hashimoto_Goro
-小曲二十篇_Kanna_Roteki
 小杉放庵_Kimura_Shohachi
 小杉未醒氏_Akutagawa_Ryunosuke
 小林さんと私のツキアイ_Sakaguchi_Ango
@@ -6191,7 +5760,6 @@
 小泉八雲に就てのノート_Sato_Haruo
 小泉八雲の家庭生活_Hagiwara_Sakutaro
 小泉八雲秘稿画本「妖魔詩話」_Terada_Torahiko
-小波瀾_Chekhov_Anton
 小波瀾_Jinzai_Kiyoshi
 小浅間_Terada_Torahiko
 小照_Dazai_Osamu
@@ -6212,8 +5780,6 @@
 小知恵にとらわれた現代の法律学_Suehiro_Izutaro
 小石川台_Omachi_Keigetsu
 小祝の一家_Miyamoto_Yuriko
-小翠_Pu_Songling
-小翠_Tanaka_Kotaro
 小詩論_Nakahara_Chuya
 小説_Hirayama_Chiyoko
 小説　不如帰　_Tokutomi_Roka
@@ -6273,7 +5839,6 @@
 少年_Hara_Tamiki
 少年_Jinzai_Kiyoshi
 少年_Tanizaki_Jun'ichiro
-少年たち_Chekhov_Anton
 少年たち_Jinzai_Kiyoshi
 少年と海_Kano_Sakujiro
 少年と秋の日_Ogawa_Mimei
@@ -6292,7 +5857,6 @@
 少年文学私見_Toyoshima_Yoshio
 少年時代_Koda_Rohan
 少年連盟_Sato_Koroku
-少数と多数_Goldman_Emma
 少数と多数_Ito_Noe
 尖端人は語る_Hori_Tatsuo
 尚書稽疑_Naito_Konan
@@ -6301,7 +5865,6 @@
 尹主事_Kim_Sa-ryang
 尼_Mori_Ogai
 尼_Mori_Rintaro
-尼_Wied_Gustav
 尼たちへの消息_Hasegawa_Shigure
 尼になった老婆_Tanaka_Kotaro
 尼提_Akutagawa_Ryunosuke
@@ -6519,7 +6082,6 @@
 巴里のキャフェ_Okamoto_Kanoko
 巴里の唄うたい_Okamoto_Kanoko
 巴里の手紙_Hori_Tatsuo
-巴里の手紙_Rilke_Rainer Maria
 巴里の新年_Kishida_Kunio
 巴里の旅窓より_Yosano_Akiko
 巴里の独立祭_Yosano_Akiko
@@ -6576,7 +6138,6 @@
 常識_Tanabe_Ryuji
 常識_Toyoshima_Yoshio
 帽子のない水兵_Tanaka_Kotaro
-帽子箱の話_Stevenson_Robert Louis
 帽子箱の話_Sto_Ryokuyo
 幇間_Tanizaki_Jun'ichiro
 幕が下りて_Kishida_Kunio
@@ -6617,7 +6178,6 @@
 平野義太郎宛書簡_Noro_Eitaro
 平馬と鶯_Hayashi_Fubo
 年ちゃんとハーモニカ_Ogawa_Mimei
-年とったカシワの木のさいごの夢_Andersen_Hans Christian
 年とったカシワの木のさいごの夢_Yazaki_Genkuro
 年の瀬の音_Yamamoto_Shugoro
 年中行事覚書_Yanagita_Kunio
@@ -6635,13 +6195,10 @@
 幸福_Kato_Kazuo
 幸福_Shimazaki_Toson
 幸福が遅く来たなら_Ikuta_Shungetsu
-幸福な一家_Andersen_Hans Christian
 幸福な一家_Yazaki_Genkuro
 幸福な家庭_Inoue_Kobai
-幸福な家庭_Lu Xun_nan
 幸福について_Miyamoto_Yuriko
 幸福に暮らした二人_Ogawa_Mimei
-幸福のうわおいぐつ_Andersen_Hans Christian
 幸福のうわおいぐつ_Kusuyama_Masao
 幸福のために_Miyamoto_Yuriko
 幸福のなかに_Sato_Haruo
@@ -6650,7 +6207,6 @@
 幸福の彼方_Hayashi_Fumiko
 幸福の感覚_Miyamoto_Yuriko
 幸福の鳥_Ogawa_Mimei
-幸福への意志_Mann_Paul Thomas
 幸福への意志_Saneyoshi_Hayao
 幸福への道_Shiraki_Shizu
 幸福を_Konno_Dairiki
@@ -6662,10 +6218,8 @@
 幻影の盾_Natsume_Soseki
 幻影の都市_Murou_Saisei
 幻想_Arishima_Takeo
-幻想_Level_Maurice
 幻想_Miyazawa_Kenji
 幻想_Tanaka_Sanae
-幻滅_Mann_Paul Thomas
 幻滅_Saneyoshi_Hayao
 幻燈_Morikawa_Yoshinobu
 幻聴_Ran_Ikujiro
@@ -6682,7 +6236,6 @@
 幼き頃の想い出_Uemura_Shoen
 幼な子チビコ_Konno_Dairiki
 幼少の思ひ出_Masamune_Hakucho
-幼年_Kim_Chong-han
 幼年時代_Hori_Tatsuo
 幼年時代_Murou_Saisei
 幽霊_Edogawa_Ranpo
@@ -6698,12 +6251,9 @@
 幽霊妻_Osaka_Keikichi
 幽霊屋敷の殺人_Yamamoto_Shugoro
 幽霊島_Oku_Masuo
-幽霊島_White_Fred M
-幽霊滝の伝説_Koizumi_Yakumo
 幽霊滝の伝説_Tanabe_Ryuji
 幽霊船_Ogawa_Mimei
 幽霊船の秘密_Unno_Juza
-幽霊花婿_Irving_Washington
 幽霊花婿_Yoshida_Kinetaro
 幽香嬰女伝_Sato_Haruo
 幾何学と空間_Tosaka_Jun
@@ -6727,7 +6277,6 @@
 序（『日本の青春』）_Miyamoto_Yuriko
 序（『昼夜随筆』）_Miyamoto_Yuriko
 序（『歌声よ、おこれ』）_Miyamoto_Yuriko
-庚娘_Pu_Songling
 庚娘_Tanaka_Kotaro
 府中のけやき_Naka_Kansuke
 座右第一品_Uemura_Shoen
@@ -6760,7 +6309,6 @@
 弔辞（徳田秋声）_Masamune_Hakucho
 引かれていく牛_Ogawa_Mimei
 引越し_Nakahara_Chuya
-弘法大師と景教との関係_Gordon_Elizabeth Anna
 弘法大師と景教との関係_Takakusu_Junjiro
 弘法大師の文芸_Naito_Konan
 弟を葬る_Tokutomi_Soho
@@ -6789,7 +6337,6 @@
 彩虹_Yamamoto_Shugoro
 彫刻家の見たる美人_Ogiwara_Morie
 影_Akutagawa_Ryunosuke
-影_Andersen_Hans Christian
 影_Kusuyama_Masao
 影_Okamoto_Kido
 影_Toyoshima_Yoshio
@@ -6827,7 +6374,6 @@
 待つ_Dazai_Osamu
 待つ者_Toyoshima_Yoshio
 待呆け議会風景_Miyamoto_Yuriko
-待機_Kim_Chong-han
 律子と貞子_Dazai_Osamu
 後の日の童子_Murou_Saisei
 後世_Akutagawa_Ryunosuke
@@ -6835,7 +6381,6 @@
 後光殺人事件_Oguri_Mushitaro
 後庭_Miyamoto_Yuriko
 後日譚_Kishida_Kunio
-後漢書倭伝_Fan_Ye
 後立山は鹿島槍ヶ岳に非ざる乎_Kogure_Ritaro
 後記〔『炉辺夜話集』〕_Sakaguchi_Ango
 後記〔『道鏡』〕_Sakaguchi_Ango
@@ -6863,7 +6408,6 @@
 復活祭_Hisao_Juran
 復讐_Mori_Ogai
 復讐_Mori_Rintaro
-復讐_Regnier_Henri de
 復讐_Toyoshima_Yoshio
 復讐_Yumeno_Kyusaku
 復讐・戦争・自殺_Kitamura_Tokoku
@@ -6881,7 +6425,6 @@
 心から送る拍手_Miyamoto_Yuriko
 心に疼く欲求がある_Miyamoto_Yuriko
 心のゆくところ（一幕）_Matsumura_Mineko
-心のゆくところ（一幕）_Yeats_William Butler
 心のアンテナ_Sasaki_Kuni
 心の仕事を_Hori_Tatsuo
 心の姿の研究_Ishikawa_Takuboku
@@ -6924,7 +6467,6 @@
 心霊研究会の怪_Unno_Juza
 心願の国_Hara_Tamiki
 必要以上のもの_Toyoshima_Yoshio
-忌々しき「死」の大君は_Dante_Alighieri
 忌々しき「死」の大君は_Ueda_Bin
 志士と経済_Hattori_Shiso
 志賀直哉に文学の問題はない_Sakaguchi_Ango
@@ -6955,8 +6497,6 @@
 忠直卿行状記_Kikuchi_Kan
 忠義_Akutagawa_Ryunosuke
 忠義な犬_Kusuyama_Masao
-忠義者のヨハネス_Grimm_Jacob Ludwig Carl
-忠義者のヨハネス_Grimm_Wilhelm Carl
 忠義者のヨハネス_Yazaki_Genkuro
 念仁波念遠入礼帖_Akutagawa_Ryunosuke
 念仏と生活_Kurata_Hyakuzo
@@ -7014,7 +6554,6 @@
 怪夢_Yumeno_Kyusaku
 怪奇人造島_Terashima_Masashi
 怪奇四十面相_Edogawa_Ranpo
-怪奇小説の執筆についての覚書_Lovecraft_Howard Phillips
 怪奇小説の執筆についての覚書_The Creative CAT_nan
 怪星ガン_Unno_Juza
 怪物屋敷_Yanagawa_Shun'yo
@@ -7094,7 +6633,6 @@
 悟浄出世_Nakajima_Atsushi
 悟浄歎異_Nakajima_Atsushi
 悠々荘_Akutagawa_Ryunosuke
-患者兼同居人_Doyle_Arthur Conan
 患者兼同居人_Mikami_Otokichi
 患者兼同居人_Okubo_Yu
 悦しき知識_Fukase_Motohiro
@@ -7102,10 +6640,8 @@
 悦楽（現代訳）_Koda_Rohan
 悦楽（現代訳）_Nakamura_Yoshiharu
 悩みと死の微笑_Kishida_Kunio
-悩みのひととき_Mann_Paul Thomas
 悩みのひととき_Saneyoshi_Hayao
 悪の帝王_Oku_Masuo
-悪の帝王_White_Fred M
 悪の花束_Hisao_Juran
 悪人の娘_Nomura_Kodo
 悪僧_Tanaka_Kotaro
@@ -7145,7 +6681,6 @@
 情景（秋）_Miyamoto_Yuriko
 情智関係論_Nishi_Amane
 情熱_Kitamura_Tokoku
-情状酌量_Level_Maurice
 情状酌量_Tanaka_Sanae
 情鬼_Okura_Teruko
 惑ひ_Ito_Noe
@@ -7182,14 +6717,10 @@
 愚言二十七箇条_Kunieda_Shiro
 愛_Miyamoto_Yuriko
 愛_Okamoto_Kanoko
-愛か_Lee_Kwang-su
 愛する人達_Hayashi_Fumiko
-愛ちやんの夢物語_Carroll_Lewis
 愛ちやんの夢物語_Maruyama_Eikan
 愛と婚姻_Izumi_Kyoka
 愛と平和を理想とする人間生活_Miyamoto_Yuriko
-愛と月の犬_McKenna_Richard Milton
-愛と月の犬_The Creative CAT_nan
 愛と美について_Dazai_Osamu
 愛と認識との出発_Kurata_Hyakuzo
 愛に就ての問題_Ogawa_Mimei
@@ -7230,8 +6761,6 @@
 感想家の生れでるために_Sakaguchi_Ango
 感覚と科学_Terada_Torahiko
 感覚の回生_Ogawa_Mimei
-感覚の殻_Dunbar_Olivia Howard
-感覚の殻_The Creative CAT_nan
 感謝_Hagiwara_Sakutaro
 感謝_Shimokawa_Gitaro
 感謝すべき新東京年中行事_Orikuchi_Shinobu
@@ -7254,7 +6783,6 @@
 懶惰の歌留多_Dazai_Osamu
 懸巣_Murou_Saisei
 懸賞小説に寄せて_Kishida_Kunio
-成仙_Pu_Songling
 成仙_Tanaka_Kotaro
 成学即身実業の説、学生諸氏に告ぐ_Fukuzawa_Yukichi
 成層圏飛行と私のメモ_Unno_Juza
@@ -7290,7 +6818,6 @@
 我輩は何故いつまでもすべてに於て衰えぬか_Okuma_Shigenobu
 我邦感傷主義寸感_Nakahara_Chuya
 我鬼_Sakaguchi_Ango
-或るまどんなに_Baudelaire_Charles Pierre
 或るまどんなに_Tominaga_Taro
 或るハイカーの記_Makino_Shin'ichi
 或る五月の朝の話_Makino_Shin'ichi
@@ -7319,7 +6846,6 @@
 或る男の手記_Toyoshima_Yoshio
 或る画家の祝宴_Miyamoto_Yuriko
 或る秋の紫式部_Okamoto_Kanoko
-或る精神異常者_Level_Maurice
 或る精神異常者_Tanaka_Sanae
 或る素描_Toyoshima_Yoshio
 或る農学生の日誌_Miyazawa_Kenji
@@ -7329,7 +6855,6 @@
 或外国の公園で_Hori_Tatsuo
 或夜_Nagai_Kafu
 或女友達への手紙_Hori_Tatsuo
-或女友達への手紙_Rilke_Rainer Maria
 或恋愛小説_Akutagawa_Ryunosuke
 或教授の退職の辞_Nishida_Kitaro
 或敵打の話_Akutagawa_Ryunosuke
@@ -7407,8 +6932,6 @@
 扉は語らず_Kobune_Katsuji
 手_Imamura_Tsuneo
 手づくりながら_Miyamoto_Yuriko
-手なしむすめ_Grimm_Jacob Ludwig Carl
-手なしむすめ_Grimm_Wilhelm Carl
 手なしむすめ_Yazaki_Genkuro
 手をさし延べよう！_Dada_Kansuke
 手仕事の日本_Yanagi_Muneyoshi
@@ -7420,13 +6943,11 @@
 手品師と蕃山_Susukida_Kyukin
 手巾_Akutagawa_Ryunosuke
 手数将棋_Sekine_Kinjiro
-手早い奴_Chesterton_Gilbert Keith
 手早い奴_Murasaki_Toshiro
 手療法一則_Ogino_Ginko
 手紙 _Hayashida_Seimei
 手紙 _Koizumi_Yakumo
 手紙_Akutagawa_Ryunosuke
-手紙_Chiri_Yukie
 手紙_Hisao_Juran
 手紙_Hori_Tatsuo
 手紙_Natsume_Soseki
@@ -7527,7 +7048,6 @@
 探偵小説を作って貰い度い人々_Kunieda_Shiro
 探偵小説を截る_Sakaguchi_Ango
 探偵小説アルセーヌ・ルパン_Fujinbunkakenkyukai_nan
-探偵小説アルセーヌ・ルパン_Leblanc_Maurice
 探偵小説壇の諸傾向_Hirabayashi_Hatsunosuke
 探偵小説小論_Sato_Haruo
 探偵小説思い出話_Yamamoto_Nogitaro
@@ -7539,7 +7059,6 @@
 探巣遅日_Sato_Koseki
 探検実記　地中の秘密_Emi_Suiin
 探訪深泥池の蓴菜_Kitaoji_Rosanjin
-接吻_Chekhov_Anton
 接吻_Edogawa_Ranpo
 接吻_Jinzai_Kiyoshi
 接吻_Saito_Mokichi
@@ -7554,7 +7073,6 @@
 摩周湖紀行_Hayashi_Fumiko
 撃剣興行_Nagatsuka_Takashi
 撞球室の七人_Hashimoto_Goro
-撥陵遠征隊_Hattori_Shiso
 撫でられた象_Nakahara_Chuya
 播州平野_Miyamoto_Yuriko
 撮影所殺人事件_Sakai_Kashichi
@@ -7618,7 +7136,6 @@
 政談月の鏡_Suzuki_Kozo
 故社員の一言今尚精神_Fukuzawa_Yukichi
 故郷_Inoue_Kobai
-故郷_Lu Xun_nan
 故郷_Sato_Haruo
 故郷_Toyoshima_Yoshio
 故郷〔扉の言葉〕_Taneda_Santoka
@@ -7752,7 +7269,6 @@
 文房具漫談_Tanizaki_Jun'ichiro
 文放古_Akutagawa_Ryunosuke
 文明と病気_Minakami_Shigeki
-文明と病気_Sigerist_Henry E.
 文明史の教訓_Okuma_Shigenobu
 文明史上の一新紀元_Okuma_Shigenobu
 文明国には必ず智識ある高等遊民あり_Uchida_Roan
@@ -7829,7 +7345,6 @@
 断調_Hagiwara_Sakutaro
 断酒片_Makino_Shin'ichi
 断食芸人_Harada_Yoshito
-断食芸人_Kafka_Franz
 斯ういう気持_Miyamoto_Yuriko
 新しいアカデミアを_Miyamoto_Yuriko
 新しいアジアのために_Miyamoto_Yuriko
@@ -7865,7 +7380,6 @@
 新らしき悲しみにうつる時_Kanna_Roteki
 新らしき文学_Sakaguchi_Ango
 新らしき祖先_Soma_Taizo
-新アラビヤ夜話　序_Sto_Ryokuyo
 新カナヅカヒの問題_Sakaguchi_Ango
 新ハムレット_Dazai_Osamu
 新・水滸伝_Yoshikawa_Eiji
@@ -7947,7 +7461,6 @@
 新橋_Kitahara_Hakushu
 新武蔵野の桜_Omachi_Keigetsu
 新派劇と新派俳優_Kishida_Kunio
-新浦島_Irving_Washington
 新浦島_Mori_Ogai
 新浦島_Mori_Rintaro
 新潟の酒_Sakaguchi_Ango
@@ -7989,9 +7502,7 @@
 旅から帰つて_Tayama_Katai
 旅から帰つて_Tayama_Rokuya
 旅だち_Toyoshima_Yoshio
-旅なかま_Andersen_Hans Christian
 旅なかま_Kusuyama_Masao
-旅の仲間_Andersen_Hans Christian
 旅の仲間_Yazaki_Genkuro
 旅の旅の旅_Masaoka_Shiki
 旅の日記_Nagatsuka_Takashi
@@ -8013,7 +7524,6 @@
 旋風_Susukida_Kyukin
 旗岡巡査_Yoshikawa_Eiji
 旗手クリストフ・リルケ抄_Hori_Tatsuo
-旗手クリストフ・リルケ抄_Rilke_Rainer Maria
 旗本移転後の始末_Katsu_Kaishu
 旗本退屈男_Sasaki_Mitsuzo
 既往文化と新文化_Kishida_Kunio
@@ -8047,7 +7557,6 @@
 日本が見えない_Takeuchi_Kozo
 日本その日その日_Ishikawa_Chiyomatsu
 日本その日その日_Ishikawa_Kinichi
-日本その日その日_Morse_Edward Sylvester
 日本における史前時代の歴史研究について_Kita_Sadakichi
 日本に於けるクリップン事件_Tanizaki_Jun'ichiro
 日本に於ける支那学の使命_Tsuda_Sokichi
@@ -8055,8 +7564,6 @@
 日本のこころ_Nakaya_Ukichiro
 日本のやきもの_Kitaoji_Rosanjin
 日本の伝説_Yanagita_Kunio
-日本の全ての方々へ_Gandhi_Mahatma
-日本の全ての方々へ_The Creative CAT_nan
 日本の女_Akutagawa_Ryunosuke
 日本の女形_Orikuchi_Shinobu
 日本の小僧_San'yutei_Encho
@@ -8170,7 +7677,6 @@
 旧聞日本橋_Hasegawa_Shigure
 旧聞日本橋_Mikami_Otokichi
 旧藩情_Fukuzawa_Yukichi
-早すぎる埋葬_Poe_Edgar Allan
 早すぎる埋葬_Sasaki_Naojiro
 早春_Akutagawa_Ryunosuke
 早春_Koyama_Kiyoshi
@@ -8196,7 +7702,6 @@
 明るく・暗く_Makino_Shin'ichi
 明るすぎる月_Nakamura_Kare
 明日_Inoue_Kobai
-明日_Lu Xun_nan
 明日_Toyoshima_Yoshio
 明日の劇壇へ_Kishida_Kunio
 明日の実力の為に_Miyamoto_Yuriko
@@ -8270,8 +7775,6 @@
 星の劇場_Oda_Sakunosuke
 星の女_Suzuki_Miekichi
 星の子_Ogawa_Mimei
-星の銀貨_Grimm_Jacob Ludwig Carl
-星の銀貨_Grimm_Wilhelm Carl
 星の銀貨_Kusuyama_Masao
 星より来れる者_Murou_Saisei
 星女郎_Izumi_Kyoka
@@ -8303,7 +7806,6 @@
 映画芸術_Terada_Torahiko
 映画芸術と映画_Tosaka_Jun
 映画雑感（Ⅰ）_Terada_Torahiko
-映画雑感（Ⅱ）_Terada_Torahiko
 映画雑感（Ⅲ）_Terada_Torahiko
 映画雑感（Ⅳ）_Terada_Torahiko
 映画雑感（Ⅴ）_Terada_Torahiko
@@ -8339,7 +7841,6 @@
 春の山_Hisao_Juran
 春の幻_Toyoshima_Yoshio
 春の心臓_Akutagawa_Ryunosuke
-春の心臓_Yeats_William Butler
 春の手紙_Makino_Shin'ichi
 春の日_Ogawa_Mimei
 春の日のさした往来をぶらぶら一人歩いてゐる_Akutagawa_Ryunosuke
@@ -8360,7 +7861,6 @@
 春の鳥_Kunikida_Doppo
 春はよみがえる_Ogawa_Mimei
 春六題_Terada_Torahiko
-春夜_Musset_Alfred
 春夜_Ueda_Bin
 春夫と旅行できなかつた話_Dazai_Osamu
 春夫偏見_Naoki_Sanjugo
@@ -8438,8 +7938,6 @@
 時計と窓の話_Ogawa_Mimei
 時計のない村_Ogawa_Mimei
 時計屋敷の秘密_Unno_Juza
-時間からの影_Lovecraft_Howard Phillips
-時間からの影_The Creative CAT_nan
 時限爆弾奇譚_Unno_Juza
 晋室の南渡と南方の開発_Kuwabara_Jitsuzo
 晩夏_Hori_Tatsuo
@@ -8471,11 +7969,9 @@
 暗い空_Ogawa_Mimei
 暗い花_Hayashi_Fumiko
 暗い青春_Sakaguchi_Ango
-暗中の接吻_Level_Maurice
 暗中の接吻_Tanaka_Sanae
 暗号の役割_Unno_Juza
 暗号数字_Unno_Juza
-暗号舞踏人の謎_Doyle_Arthur Conan
 暗号舞踏人の謎_Mikami_Otokichi
 暗号音盤事件_Unno_Juza
 暗夜_Higuchi_Ichiyo
@@ -8484,7 +7980,6 @@
 暗黒公使_Yumeno_Kyusaku
 暗黒日記_Kiyosawa_Kiyoshi
 暗黒星_Kuroiwa_Ruiko
-暗黒星_Newcomb_Simon
 暦_Tsuboi_Sakae
 暫く黙せしめよ_Kishida_Kunio
 暮の街_Miyamoto_Yuriko
@@ -8499,7 +7994,6 @@
 曙覧の歌_Masaoka_Shiki
 曠野_Hori_Tatsuo
 曠野_Ogawa_Mimei
-曲れる者_Doyle_Arthur Conan
 曲れる者_Mikami_Otokichi
 曲れる者_Okubo_Yu
 曲亭馬琴_Kunieda_Kanji
@@ -8550,17 +8044,11 @@
 最古日本の女性生活の根柢_Orikuchi_Shinobu
 最小人間の怪_Unno_Juza
 最後の一句_Mori_Ogai
-最後の丘_Kanna_Roteki
-最後の事件_Doyle_Arthur Conan
 最後の事件_Okubo_Yu
 最後の勝利者は誰ぞ_Kitamura_Tokoku
 最後の手紙_Nakamura_Kare
-最後の晩餐_Macleod_Fiona
 最後の晩餐_Matsumura_Mineko
 最後の胡弓弾き_Niimi_Nankichi
-最愛の君_Piper_Henry Beam
-最愛の君_The Creative CAT_nan
-最終の午後_Molnar_Ferenc
 最終の午後_Mori_Ogai
 最終戦争論_Ishiwara_Kanji
 最近の感想_Ito_Noe
@@ -8593,7 +8081,6 @@
 月二夜_Yosano_Akiko
 月令十二態_Izumi_Kyoka
 月光の下_Tanaka_Kotaro
-月原橙一郎_I_Sang
 月夜_Izumi_Kyoka
 月夜_Izumi_Kyotaro
 月夜_Yosano_Akiko
@@ -8635,14 +8122,11 @@
 望郷_Takeuchi_Kozo
 朝_Dazai_Osamu
 朝_Hojo_Tamio
-朝_I_Sang
 朝_Makino_Shin'ichi
 朝_Takehisa_Yumeji
 朝_Tayama_Katai
 朝おき雀_Noguchi_Ujo
 朝に就ての童話的構図_Miyazawa_Kenji
-朝に想い、夜に省みる_Allen_James
-朝に想い、夜に省みる_Allen_Lily L.
 朝に想い、夜に省みる_Okubo_Yu
 朝のヨット_Yamakawa_Masao
 朝の公園_Ogawa_Mimei
@@ -8667,7 +8151,6 @@
 木々の精、谷の精_Sakaguchi_Ango
 木と鳥になった姉妹_Ogawa_Mimei
 木に上った子供_Ogawa_Mimei
-木のウィリアム_Hyde_Douglas
 木のウィリアム_Tateno_Hiromi
 木の上と下の話_Ogawa_Mimei
 木の十字架_Hori_Tatsuo
@@ -8703,7 +8186,6 @@
 木蔭の椽_Miyamoto_Yuriko
 木馬は廻る_Edogawa_Ranpo
 木魂_Yumeno_Kyusaku
-未亡人_Toyoshima_Yoshio
 未亡人と人道問題_Futabatei_Shimei
 未刊童謡_Noguchi_Ujo
 未婚婦人_Konno_Dairiki
@@ -8724,7 +8206,6 @@
 本の未来_Tomita_Michio
 本はどのように消えてゆくのか_Tsuno_Kaitaro
 本命馬_Oku_Masuo
-本命馬_White_Fred M
 本因坊と私_Sekine_Kinjiro
 本因坊秀哉_Nogami_Akira
 本困坊・呉清源十番碁観戦記_Sakaguchi_Ango
@@ -8771,9 +8252,7 @@
 村のストア派_Makino_Shin'ichi
 村の三代_Miyamoto_Yuriko
 村の兄弟_Ogawa_Mimei
-村の吸血鬼_Chesterton_Gilbert Keith
 村の吸血鬼_Murasaki_Toshiro
-村の学校（実話）_Daudet_Alphonse
 村の学校（実話）_Suzuki_Miekichi
 村の成功者_Sasaki_Kuni
 村へ帰った傷兵_Ogawa_Mimei
@@ -8782,10 +8261,7 @@
 村井長庵記名の傘_Kunieda_Shiro
 村住居の秋_Wakayama_Bokusui
 村芝居_Inoue_Kobai
-村芝居_Lu Xun_nan
 杜子春_Akutagawa_Ryunosuke
-杜松の樹_Grimm_Jacob Ludwig Carl
-杜松の樹_Grimm_Wilhelm Carl
 杜松の樹_Nakajima_Koto
 条件反射_Toyoshima_Yoshio
 来り人の地位と職業_Kita_Sadakichi
@@ -8865,7 +8341,6 @@
 松竹座を見て（延若のこと）_Makino_Shin'ichi
 松翠深く蒼浪遥けき逗子より_Izumi_Kyoka
 松虫草_Nagatsuka_Takashi
-板ばさみ_Chirikov_Evgenii
 板ばさみ_Mori_Ogai
 板ばさみ_Mori_Rintaro
 枇杷の花_Nagai_Kafu
@@ -8909,7 +8384,6 @@
 栃の実_Izumi_Kyoka
 栄蔵の死_Miyamoto_Yuriko
 栄螺_Tabata_Shuichiro
-栄養学小史_Carpenter_Kenneth J.
 栄養学小史_Minakami_Shigeki
 栖鳳先生を憶う_Uemura_Shoen
 栗の花_Okamoto_Kido
@@ -8923,10 +8397,8 @@
 校正後に_Akutagawa_Ryunosuke
 校長_Nakahara_Chuya
 校長三代_Dazai_Osamu
-株式仲買人_Doyle_Arthur Conan
 株式仲買人_Mikami_Otokichi
 株式仲買人_Okubo_Yu
-株式仲買店々員_Doyle_Arthur Conan
 株式仲買店々員_Mikami_Otokichi
 株式会社科学研究所の使命 _Nishina_Yoshio
 根子の番楽・金砂の田楽_Orikuchi_Shinobu
@@ -8963,7 +8435,6 @@
 桜_Okamoto_Kanoko
 桜さく島_Takehisa_Yumeji
 桜と狆と愛国心_Sakai_Toshihiko
-桜の園_Chekhov_Anton
 桜の園_Jinzai_Kiyoshi
 桜の実の熟する時_Shimazaki_Toson
 桜の森の満開の下_Sakaguchi_Ango
@@ -9013,15 +8484,12 @@
 棋家の文章など_Miyoshi_Tatsuji
 棚田裁判長の怪死_Tachibana_Sotoo
 棣棠の心_Kishida_Kunio
-森のなかの三人の小人_Grimm_Jacob Ludwig Carl
-森のなかの三人の小人_Grimm_Wilhelm Carl
 森のなかの三人の小人_Yazaki_Genkuro
 森の中の犬ころ_Ogawa_Mimei
 森の声_Susukida_Kyukin
 森の妖姫_Ogawa_Mimei
 森の暗き夜_Ogawa_Mimei
 森の生活――ウォールデン――_Kanki_Saburo
-森の生活――ウォールデン――_Thoreau_Henry David
 森の石松_Yamanaka_Sadao
 森の神_Kagutsuchi_Midori
 森の神_Yumeno_Kyusaku
@@ -9037,7 +8505,6 @@
 棺桶の花嫁_Unno_Juza
 椅子と電車_Hara_Tamiki
 椋のミハイロ_Futabatei_Shimei
-椋のミハイロ_Prus_Bolesław
 椋の実の思出_Niimi_Nankichi
 植物一日一題_Makino_Tomitaro
 植物人間_Ran_Ikujiro
@@ -9051,7 +8518,6 @@
 椎茸の話_Kitaoji_Rosanjin
 椙原品_Mori_Ogai
 検疫と荷物検査_Sugimura_Sojinkan
-椰子の樹_Claudel_Paul
 椰子の樹_Ueda_Bin
 椰子蟹_Miyahara_Koichiro
 椿の花の赤_Toyoshima_Yoshio
@@ -9114,7 +8580,6 @@
 樹氷_Miyoshi_Juro
 樹氷の科学_Nakaya_Ukichiro
 樹蔭雑記_Miyamoto_Yuriko
-樺太脱獄記_Korolenko_Vladimir Galaktionovick
 樺太脱獄記_Mori_Ogai
 樺太脱獄記_Mori_Rintaro
 樺細工の道_Yanagi_Muneyoshi
@@ -9125,13 +8590,11 @@
 橋の上で_Hayashida_Seimei
 橋の上で_Koizumi_Yakumo
 橋の上の自画像_Tominaga_Taro
-橋の下_Boutet_Frederic
 橋の下_Mori_Ogai
 橋の下_Yamamoto_Shugoro
 橋上_Hagiwara_Sakutaro
 橘曙覧_Orikuchi_Shinobu
 橘曙覧評伝_Orikuchi_Shinobu
-橙の種五粒_Doyle_Arthur Conan
 橙の種五粒_Kato_Asatori
 橙の種五粒_Okubo_Yu
 機密の魅惑_Okura_Teruko
@@ -9145,7 +8608,6 @@
 檸檬_Kajii_Motojiro
 檻の中_Haryu_Hajime
 櫛_Ogawa_Mimei
-欝金草売_Bertrand_Louis
 欝金草売_Ueda_Bin
 次が待たれるおくりもの_Miyamoto_Yuriko
 次郎物語_Shimomura_Kojin
@@ -9153,7 +8615,6 @@
 欧米各国　政教日記_Inoue_Enryo
 欧米料理と日本_Kitaoji_Rosanjin
 欲望について_Sakaguchi_Ango
-歌う白骨_Freeman_Richard Austin
 歌う白骨_Senoo_Akio
 歌のいろ／＼_Ishikawa_Takuboku
 歌のない歌_Morikawa_Yoshinobu
@@ -9162,11 +8623,8 @@
 歌の潤い_Ito_Sachio
 歌の話_Orikuchi_Shinobu
 歌へる日まで_Makino_Shin'ichi
-歌よ、ねがふは_Dante_Alighieri
 歌よ、ねがふは_Ueda_Bin
 歌よみに与ふる書_Masaoka_Shiki
-歌をうたう骨_Grimm_Jacob Ludwig Carl
-歌をうたう骨_Grimm_Wilhelm Carl
 歌をうたう骨_Yazaki_Genkuro
 歌声よ、おこれ_Miyamoto_Yuriko
 歌時計_Mizutani_Masaru
@@ -9250,10 +8708,8 @@
 歴史其儘と歴史離れ_Mori_Ogai
 歴史哲学_Miki_Kiyoshi
 歴史的探偵小説の興味_Kosakai_Fuboku
-死_Artsybashev_Mikhail Petrovich
 死_Mori_Ogai
 死_Mori_Rintaro
-死せる魂_Gogol_Nikolai
 死せる魂_Hirai_Hajime
 死と影_Sakaguchi_Ango
 死と愛と孤独_Hara_Tamiki
@@ -9268,9 +8724,7 @@
 死の凱旋兵_Kunimi_Yoshihiro
 死の前後_Toyoshima_Yoshio
 死の土壌_Oku_Masuo
-死の土壌_White_Fred M
 死の川_Oku_Masuo
-死の川_White_Fred M
 死の床_Shimazaki_Toson
 死の復讐_Kunieda_Shiro
 死の快走船_Osaka_Keikichi
@@ -9283,7 +8737,6 @@
 死までを語る_Naoki_Sanjugo
 死んだ千鳥_Yoshikawa_Eiji
 死んだ妹に寄せて_Konno_Dairiki
-死んだ魂_Goldman_Emma
 死んだ魂_Ito_Noe
 死んでいた狒狒_Tanaka_Kotaro
 死人の手_Tanaka_Kotaro
@@ -9296,7 +8749,6 @@
 死処_Yamamoto_Shugoro
 死刑_Kamitsukasa_Shoken
 死刑の前_Kotoku_Shusui
-死刑囚最後の日_Hugo_Victor
 死刑囚最後の日_Toyoshima_Yoshio
 死刑囚最後の日解説_Toyoshima_Yoshio
 死別の翌日_Nakahara_Chuya
@@ -9310,11 +8762,7 @@
 死生に関するいくつかの断想 _Hayashida_Seimei
 死生に関するいくつかの断想 _Koizumi_Yakumo
 死神_Okazaki_Sessei
-死神の名づけ親（第一話）_Grimm_Jacob Ludwig Carl
-死神の名づけ親（第一話）_Grimm_Wilhelm Carl
 死神の名づけ親（第一話）_Kaneda_Kiichi
-死神の名づけ親（第二話）_Grimm_Jacob Ludwig Carl
-死神の名づけ親（第二話）_Grimm_Wilhelm Carl
 死神の名づけ親（第二話）_Kaneda_Kiichi
 死線を越えて_Kagawa_Toyohiko
 死者の書_Orikuchi_Shinobu
@@ -9350,7 +8798,6 @@
 母_Dazai_Osamu
 母_Hasegawa_Shin
 母_Miyamoto_Yuriko
-母_Negri_Ada
 母_Sakaguchi_Ango
 母_Ueda_Bin
 母たち_Jinzai_Kiyoshi
@@ -9367,11 +8814,9 @@
 母の手紙_Nakano_Suzuko
 母の日_Makimoto_Kusuro
 母の死_Naka_Kansuke
-母の話_France_Anatole
 母の話_Kishida_Kunio
 母へ_Nagasawa_Tasuku
 母への追慕_Uemura_Shoen
-母を尋ねて三千里_Amicis_Edmondo De
 母を尋ねて三千里_Nihon Dowa Kenkyukai_nan
 母を恋うる記_Tanizaki_Jun'ichiro
 母を殺した少年_Sakaguchi_Ango
@@ -9454,7 +8899,6 @@
 水害雑録_Ito_Sachio
 水戸観梅_Omachi_Keigetsu
 水族館_Hori_Tatsuo
-水晶の栓_Leblanc_Maurice
 水晶の栓_Shinseinen henshukyoku_nan
 水汲み_Tokutomi_Roka
 水浴び_Nakamura_Kare
@@ -9467,7 +8911,6 @@
 水莽草_Tanaka_Kotaro
 水菓子屋の要吉_Kiuchi_Takane
 水車のある教会_Miyake_Ikusaburo
-水車のある教会_O. Henry_nan
 水車小屋_Makimura_Ko
 水車小屋の日誌_Makino_Shin'ichi
 水郷_Mishima_Sosen
@@ -9485,7 +8928,6 @@
 氷屋ぞめき_Furukawa_Roppa
 氷屋の旗_Ishikawa_Takuboku
 氷島_Hagiwara_Sakutaro
-氷島の漁夫_Loti_Pierre
 氷島の漁夫_Yoshie_Takamatsu
 氷河_Kuroshima_Denji
 氷河期の怪人_Unno_Juza
@@ -9500,7 +8942,6 @@
 永井荷風といふ男_Ikuta_Kizan
 永日小品_Natsume_Soseki
 永遠のみどり_Hara_Tamiki
-永遠の夫_Dostoevskii_Fedor Mikhailovich
 永遠の夫_Jinzai_Kiyoshi
 永遠の感覚_Takamura_Kotaro
 永遠の詩人_Hagiwara_Sakutaro
@@ -9532,10 +8973,8 @@
 池を掘る_Katayama_Hiroko
 池袋の店_Yamanokuchi_Baku
 池袋の怪_Okamoto_Kido
-汪士秀_Pu_Songling
 汪士秀_Tanaka_Kotaro
 決戦川中島　上杉謙信の巻_Sakaguchi_Ango
-決闘_Chekhov_Anton
 決闘_Hagiwara_Sakutaro
 決闘_Jinzai_Kiyoshi
 決闘_Sakaguchi_Ango
@@ -9552,7 +8991,6 @@
 沈め_Nakamura_Kare
 沈丁花_Miyamoto_Yuriko
 沈没男_Unno_Juza
-沈黙_Poe_Edgar Allan
 沈黙_Sasaki_Naojiro
 沈黙の塔_Mori_Ogai
 沈黙の扉_Yoshida_Genjiro
@@ -9618,12 +9056,10 @@
 泉鏡花作『外科室』_Miyazaki_Koshoshi
 泉鏡花先生のこと_Komura_Settai
 法句経_Ogiwara_Unrai
-法句経_Sakushafusho_nan
 法学とは何か_Suehiro_Izutaro
 法律的独立人格の承認_Miyamoto_Yuriko
 法悦クラブ_Nomura_Kodo
 法然行伝_Nakazato_Kaizan
-法王の祈祷_Schwob_Marcel
 法王の祈祷_Ueda_Bin
 法窓夜話_Hozumi_Nobushige
 法窓夜話_Hozumi_Shigeto
@@ -9648,7 +9084,6 @@
 泣きんぼうの話_Ogawa_Mimei
 泣き笑ひ_Makino_Shin'ichi
 泣き虫の小ぐまさん_Murayama_Kazuko
-泣けよ恋人_Dante_Alighieri
 泣けよ恋人_Ueda_Bin
 泣菫氏が近業一篇を読みて_Kanbara_Ariake
 泣菫詩抄_Susukida_Kyukin
@@ -9689,7 +9124,6 @@
 流れ行く歴史の動力_Tsuda_Sokichi
 流儀の定め_Kanze_Sakon Nijuyonsei
 流刑地で_Harada_Yoshito
-流刑地で_Kafka_Franz
 流浪の追憶_Sakaguchi_Ango
 流線間諜_Unno_Juza
 流行作家の死_Nomura_Kodo
@@ -9701,7 +9135,6 @@
 流転_Yamashita_Risaburo
 浅原六郎抄_Makino_Shin'ichi
 浅沼稲次郎の三つの代表的演説_Asanuma_Inejiro
-浅瀬に洗う女_Macleod_Fiona
 浅瀬に洗う女_Matsumura_Mineko
 浅草の喰べもの_Kubota_Mantaro
 浅草むかしばなし_Nagai_Kafu
@@ -9737,7 +9170,6 @@
 浮名_Hagiwara_Sakutaro
 浮標_Miyoshi_Juro
 浮浪_Kasai_Zenzo
-浮浪学生の話_Schwob_Marcel
 浮浪学生の話_Ueda_Bin
 浮舟_Izumi_Kyoka
 浮雲_Futabatei_Shimei
@@ -9810,7 +9242,6 @@
 海苔の茶漬け_Kitaoji_Rosanjin
 海蛍の話_Kanda_Sakyo
 海豚と河豚_Sato_Koseki
-海豹_Macleod_Fiona
 海豹_Matsumura_Mineko
 海豹と雲_Kitahara_Hakushu
 海豹島_Hisao_Juran
@@ -9904,7 +9335,6 @@
 温浴_Sakaguchi_Ango
 測量船_Miyoshi_Tatsuji
 測量船拾遺_Miyoshi_Tatsuji
-港_Baudelaire_Charles Pierre
 港_Tominaga_Taro
 港に沈んだ鉄片の希望_Nakamura_Kare
 港に着いた黒んぼ_Ogawa_Mimei
@@ -9960,10 +9390,7 @@
 滝田哲太郎氏_Akutagawa_Ryunosuke
 滝見の旅_Ito_Sachio
 滝野川貧寒_Masaoka_Iruru
-漁師_Macleod_Fiona
 漁師_Matsumura_Mineko
-漁師とそのおかみさんの話_Grimm_Jacob Ludwig Carl
-漁師とそのおかみさんの話_Grimm_Wilhelm Carl
 漁師とそのおかみさんの話_Yazaki_Genkuro
 漁師の冒険_Miyahara_Koichiro
 漁師の娘_Tokutomi_Roka
@@ -10018,7 +9445,6 @@
 濹東綺譚_Nagai_Kafu
 瀑布_Hayashi_Fumiko
 瀕死の探偵_Azuma_Kenji
-瀕死の探偵_Doyle_Arthur Conan
 瀕死の探偵_Okubo_Yu
 瀞_Sato_Koseki
 瀬戸・美濃瀬戸発掘雑感_Kitaoji_Rosanjin
@@ -10047,7 +9473,6 @@
 火事教育_Terada_Torahiko
 火傷した神様_Tanaka_Kotaro
 火夫_Harada_Yoshito
-火夫_Kafka_Franz
 火山の名について_Terada_Torahiko
 火山の話_Imamura_Akitsune
 火星の芝居_Ishikawa_Takuboku
@@ -10066,11 +9491,8 @@
 灯火_Shimazaki_Toson
 灯火節_Katayama_Hiroko
 灯籠_Dazai_Osamu
-灰かぶり_Grimm_Jacob Ludwig Carl
-灰かぶり_Grimm_Wilhelm Carl
 灰かぶり_Yazaki_Genkuro
 灰だらけ姫_Kusuyama_Masao
-灰だらけ姫_Perrault_Charles
 灰神楽_Edogawa_Ranpo
 灰色の姉と桃色の妹_Ogawa_Mimei
 灰色の巨人_Edogawa_Ranpo
@@ -10139,7 +9561,6 @@
 無題（十）_Miyamoto_Yuriko
 無題（四）_Miyamoto_Yuriko
 無題（故海野十三氏追悼諸家文集）_Nomura_Kodo
-無駄骨_Level_Maurice
 無駄骨_Tanaka_Sanae
 焦土に残る怪_Tanaka_Kotaro
 焦点を合せる_Yumeno_Kyusaku
@@ -10147,7 +9568,6 @@
 焼き林檎を投げる_Kishida_Kunio
 焼跡_Saito_Mokichi
 煉獄_Oku_Masuo
-煉獄_White_Fred M
 煎じ詰めれば_Kiryu_Yuyu
 煎薬_Hasegawa_Shigure
 煙と兄弟_Ogawa_Mimei
@@ -10161,7 +9581,6 @@
 煩悩秘文書_Hayashi_Fubo
 煩悶_Masaoka_Shiki
 煽動性万能_Kishida_Kunio
-熊_Chekhov_Anton
 熊_Jinzai_Kiyoshi
 熊_Kume_Masao
 熊さんの笛_Ogawa_Mimei
@@ -10196,7 +9615,6 @@
 父_Akutagawa_Ryunosuke
 父_Dazai_Osamu
 父_Kaneko_Fumiko
-父_Level_Maurice
 父_Tanaka_Sanae
 父_Yada_Tsuseko
 父_Yokomitsu_Riichi
@@ -10297,7 +9715,6 @@
 特許多腕人間方式_Unno_Juza
 犂氏の友情_Hisao_Juran
 犠牲者_Hirabayashi_Hatsunosuke
-犬_Andreev_Leonid Nikolaevich
 犬_Masaoka_Shiki
 犬_Mori_Ogai
 犬_Mori_Rintaro
@@ -10320,14 +9737,11 @@
 犬の王様_Yumeno_Kyusaku
 犬の生活_Koyama_Kiyoshi
 犬は鎖に繋ぐべからず_Kishida_Kunio
-犬を連れた奥さん_Chekhov_Anton
 犬を連れた奥さん_Jinzai_Kiyoshi
 犬三態_Miyamoto_Yuriko
 犬神_Kosakai_Fuboku
 犬神娘_Kunieda_Shiro
-犬舎_Level_Maurice
 犬舎_Tanaka_Sanae
-犬酸漿_Kingsford_Anna
 犬酸漿_The Creative CAT_nan
 犬養君に就いて_Akutagawa_Ryunosuke
 犯人_Miyamoto_Yuriko
@@ -10337,18 +9751,11 @@
 狂人と鏡_Konno_Dairiki
 狂人は笑う_Yumeno_Kyusaku
 狂人日記_Akita_Shigeru
-狂人日記_Gogol_Nikolai
 狂人日記_Hirai_Hajime
 狂人日記_Inoue_Kobai
-狂人日記_Lu Xun_nan
-狂人日記_Maupassant_Guy De
 狂女_Akita_Shigeru
-狂女_Maupassant_Guy De
 狂女と犬_Kosakai_Fuboku
-狂女の告白_I_Sang
 狂歌師赤猪口兵衛_Yumeno_Kyusaku
-狂気の山脈にて_Lovecraft_Howard Phillips
-狂気の山脈にて_The Creative CAT_nan
 狂童女の恋_Okamoto_Kanoko
 狂言『食道楽』_Kitaoji_Rosanjin
 狂言の神_Dazai_Osamu
@@ -10360,8 +9767,6 @@
 狐_Niimi_Nankichi
 狐_Okamoto_Kanoko
 狐と狸_Tanaka_Kotaro
-狐と猫_Grimm_Jacob Ludwig Carl
-狐と猫_Grimm_Wilhelm Carl
 狐と猫_Kaneda_Kiichi
 狐に化された話_Tsuchida_Kohei
 狐のつかい_Niimi_Nankichi
@@ -10429,7 +9834,6 @@
 猫八_Iwano_Homei
 猫又先生_Nanbu_Shutaro
 猫吉親方_Kusuyama_Masao
-猫吉親方_Perrault_Charles
 猫征伐_Omachi_Keigetsu
 猫性_Toyoshima_Yoshio
 猫捨坂_Toyoshima_Yoshio
@@ -10437,7 +9841,6 @@
 猫町_Hagiwara_Sakutaro
 猫車_Miyamoto_Yuriko
 猿_Akutagawa_Ryunosuke
-猿_Claretie_Jules
 猿_Mori_Ogai
 猿_Mori_Rintaro
 猿かに合戦_Kusuyama_Masao
@@ -10463,7 +9866,6 @@
 獅子舞雑考_Nakayama_Taro
 獏_Sakurama_Chuyo
 獏鸚_Unno_Juza
-玄海灘密航_Kim_Sa-ryang
 玄関の手帖_Hayashi_Fumiko
 玄鶴山房_Akutagawa_Ryunosuke
 玉の輿_Masamune_Hakucho
@@ -10471,7 +9873,6 @@
 玉川の草_Izumi_Kyoka
 玉手御前の恋_Orikuchi_Shinobu
 玉手箱_Oku_Masuo
-玉手箱_White_Fred M
 玉振時計の秘密_Kosakai_Fuboku
 玉盃の曲_Kanna_Roteki
 玉突の賦_Kishida_Kunio
@@ -10484,15 +9885,12 @@
 王さまと靴屋_Niimi_Nankichi
 王さまの感心された話_Ogawa_Mimei
 王冠の重み_Oku_Masuo
-王冠の重み_White_Fred M
-王成_Pu_Songling
 王成_Tanaka_Kotaro
 玩具_Dazai_Osamu
 玩具_Hara_Tamiki
 玩具の汽缶車_Takehisa_Yumeji
 玩具の賦_Nakahara_Chuya
 珈琲店より_Takamura_Kotaro
-珊瑚_Pu_Songling
 珊瑚_Tanaka_Kotaro
 珊瑚集_Nagai_Kafu
 珍しい酒もり_Ogawa_Mimei
@@ -10525,7 +9923,6 @@
 現代日本の思想対立_Tosaka_Jun
 現代日本の演劇_Kishida_Kunio
 現代日本の開化_Natsume_Soseki
-現代科学教育論_Tosaka_Jun
 現代美学の危機と映画理論_Nakai_Masakazu
 現代能書批評_Kitaoji_Rosanjin
 現代若き女性気質集_Okamoto_Kanoko
@@ -10556,7 +9953,6 @@
 琉球史の趨勢_Iha_Fuyu
 琥珀のパイプ_Koga_Saburo
 琥珀揚げ_Kitaoji_Rosanjin
-琴_Macleod_Fiona
 琴_Matsumura_Mineko
 琴のそら音_Natsume_Soseki
 琴の音_Higuchi_Ichiyo
@@ -10594,10 +9990,8 @@
 生きるための恋愛_Miyamoto_Yuriko
 生き烏賊白味噌漬け_Kitaoji_Rosanjin
 生けるものと死せるものと_Hori_Tatsuo
-生けるものと死せるものと_Noailles_Anna de
 生ける人形_Terada_Torahiko
 生ける銃架_Makimura_Ko
-生さぬ児_Level_Maurice
 生さぬ児_Tanaka_Sanae
 生と歌_Nakahara_Chuya
 生と死との記録_Toyoshima_Yoshio
@@ -10606,7 +10000,6 @@
 生みの力_Katagami_Noburu
 生不動_Tachibana_Sotoo
 生体構成物質の動的状態_Minakami_Shigeki
-生体構成物質の動的状態_Schoenheimer_Rudolf
 生前身後の事_Nakazato_Kaizan
 生命拾ひをした話_Sakaguchi_Ango
 生地売り_Izumi_Horo
@@ -10648,7 +10041,6 @@
 産屋物語_Yosano_Akiko
 産褥の記_Yosano_Akiko
 用捨なき観客_Kishida_Kunio
-田七郎_Pu_Songling
 田七郎_Tanaka_Kotaro
 田中君に就いて_Dazai_Osamu
 田丸先生の追憶_Terada_Torahiko
@@ -10673,7 +10065,6 @@
 田端人_Akutagawa_Ryunosuke
 田端日記_Akutagawa_Ryunosuke
 田舎_Mori_Ogai
-田舎_Prevost_Marcel
 田舎からの手紙_Tayama_Katai
 田舎からの手紙_Tayama_Rokuya
 田舎から東京を見る_Kuroshima_Denji
@@ -10687,7 +10078,6 @@
 田螺_Kitaoji_Rosanjin
 田遊び祭りの概念_Orikuchi_Shinobu
 由布院行_Nakaya_Ukichiro
-由緒ある英国庭園にて　咲ける花のふしぎな夢_Crane_Walter
 由緒ある英国庭園にて　咲ける花のふしぎな夢_Okubo_Yu
 由良助の成立_Orikuchi_Shinobu
 由起しげ子よエゴイストになれ_Sakaguchi_Ango
@@ -10709,7 +10099,6 @@
 男女同権_Dazai_Osamu
 男女川と羽左衛門_Dazai_Osamu
 男子の本懐_Hayashida_Seimei
-男子の本懐_Koizumi_Yakumo
 男心とはかうしたもの_Okamoto_Kanoko
 町_Tayama_Katai
 町_Tayama_Rokuya
@@ -10752,7 +10141,6 @@
 異国さかな雑談_Hamada_Seiryo
 異国食餌抄_Okamoto_Kanoko
 異妖編_Okamoto_Kido
-異常ナ可逆反応_I_Sang
 異性に対する感覚を洗練せよ_Okamoto_Kanoko
 異性の何処に魅せられるか_Miyamoto_Yuriko
 異性の友情_Miyamoto_Yuriko
@@ -10802,12 +10190,10 @@
 病院の窓_Nanbu_Shutaro
 病院横町の殺人犯_Mori_Ogai
 病院横町の殺人犯_Mori_Rintaro
-病院横町の殺人犯_Poe_Edgar Allan
 病院風景_Terada_Torahiko
 痍のあと_Nagatsuka_Takashi
 痛みの効用_Nakaya_Ukichiro
 痩身記_Makino_Shin'ichi
-痴人と死と_Hofmannsthal_Hugo von
 痴人と死と_Mori_Ogai
 痴人の復讐_Kosakai_Fuboku
 痴想_Makino_Shin'ichi
@@ -10826,7 +10212,6 @@
 癖_Kitamura_Rokuro
 癩_Shimaki_Kensaku
 癩を病む青年達_Hojo_Tamio
-癩病やみの話_Schwob_Marcel
 癩病やみの話_Ueda_Bin
 癩者_Hojo_Tamio
 癩院記録_Hojo_Tamio
@@ -10847,7 +10232,6 @@
 登山趣味_Masamune_Hakucho
 白_Akutagawa_Ryunosuke
 白_Mori_Ogai
-白_Rilke_Rainer Maria
 白いくま_Ogawa_Mimei
 白いシヤツの群_Tanaka_Kotaro
 白い下地_Izumi_Kyoka
@@ -10874,12 +10258,9 @@
 白くれない_Yumeno_Kyusaku
 白すみれとしいの木_Ogawa_Mimei
 白っぽい洋服_Tanaka_Kotaro
-白ヘビ_Grimm_Jacob Ludwig Carl
-白ヘビ_Grimm_Wilhelm Carl
 白ヘビ_Yazaki_Genkuro
 白井明先生に捧ぐる言葉_Sakaguchi_Ango
 白光_Inoue_Kobai
-白光_Lu Xun_nan
 白南風_Kitahara_Hakushu
 白塔の歌_Toyoshima_Yoshio
 白壁のうち_Ogawa_Mimei
@@ -10917,12 +10298,9 @@
 白血球_Toyoshima_Yoshio
 白金之絵図_Izumi_Kyoka
 白金神経の少女_Ran_Ikujiro
-白銀の失踪_Doyle_Arthur Conan
 白銀の失踪_Mikami_Otokichi
 白銅貨の効用_Sano_Shoichi
 白銅貨の効用_Unno_Juza
-白雪姫_Grimm_Jacob Ludwig Carl
-白雪姫_Grimm_Wilhelm Carl
 白雪姫_Hisao_Juran
 白雪姫_Kikuchi_Kan
 白馬岳_Kogure_Ritaro
@@ -10930,7 +10308,6 @@
 白髪小僧_Yumeno_Kyusaku
 白髪鬼_Edogawa_Ranpo
 白髪鬼_Okamoto_Kido
-白鳥_Mallarme_Stephane
 白鳥_Ueda_Bin
 百万人のそして唯一人の文学_Aono_Suekichi
 百万人の文学_Sakaguchi_Ango
@@ -10944,11 +10321,9 @@
 百喩経_Okamoto_Kanoko
 百姓の夢_Ogawa_Mimei
 百姓の足、坊さんの足_Niimi_Nankichi
-百姓マレイ_Dostoevskii_Fedor Mikhailovich
 百姓マレイ_Jinzai_Kiyoshi
 百姓仁平_Konno_Dairiki
 百姓弥之助の話_Nakazato_Kaizan
-百姓日記_Ishikawa_Sanshiro
 百日紅_Takahama_Kyoshi
 百日紅_Tayama_Katai
 百日紅_Tayama_Rokuya
@@ -10971,11 +10346,8 @@
 盆踊りの話_Orikuchi_Shinobu
 盈虚_Nakajima_Atsushi
 益子の絵土瓶_Yanagi_Muneyoshi
-盗まれた手紙_Poe_Edgar Allan
 盗まれた手紙_Sasaki_Naojiro
 盗まれた手紙の話_Sakaguchi_Ango
-盗聴者_Blackwood_Algernon
-盗聴者_The Creative CAT_nan
 盗難_Edogawa_Ranpo
 盗難_Miyamoto_Yuriko
 盗難_Sato_Koseki
@@ -10993,7 +10365,6 @@
 盲目物語_Tanizaki_Jun'ichiro
 直訴状_Tanaka_Shozo
 相対性原理側面観_Terada_Torahiko
-相対性理論_Einstein_Albert
 相対性理論_Ishiwara_Atsushi
 相川おけさ_Enami_Bunzo
 相当読み応えのあったものは？_Miyamoto_Yuriko
@@ -11011,13 +10382,11 @@
 真剣の強味_Tayama_Katai
 真剣の強味_Tayama_Rokuya
 真劇シリーズ_Oku_Masuo
-真劇シリーズ_White_Fred M
 真吉とお母さん_Ogawa_Mimei
 真坊と和尚さま_Ogawa_Mimei
 真夏の夜の夢_Makino_Shin'ichi
 真夏の夜の夢_Miyamoto_Yuriko
 真夏の夢_Arishima_Takeo
-真夏の夢_Strindberg_August
 真夏の幻影_Toyoshima_Yoshio
 真夏の幻覚_Okamoto_Kanoko
 真夏の日本海_Nakaya_Ukichiro
@@ -11030,7 +10399,6 @@
 真景累ヶ淵_Suzuki_Kozo
 真珠_Sakaguchi_Ango
 真珠の首飾り_Jinzai_Kiyoshi
-真珠の首飾り_Leskov_Nikolai Semyonovich 
 真珠塔の秘密_Koga_Saburo
 真珠夫人_Kikuchi_Kan
 真珠抄_Kitahara_Hakushu
@@ -11043,11 +10411,9 @@
 真鬼偽鬼_Okamoto_Kido
 眠い一日_Makino_Shin'ichi
 眠い町_Ogawa_Mimei
-眠りの精_Andersen_Hans Christian
 眠りの精_Yazaki_Genkuro
 眠り人形_Nomura_Kodo
 眠る森のお姫さま_Kusuyama_Masao
-眠る森のお姫さま_Perrault_Charles
 眠れる人_Hori_Tatsuo
 眺望する_Hagiwara_Sakutaro
 眼_Tokunaga_Sunao
@@ -11107,12 +10473,10 @@
 石上神宮の神宝七枝刀_Kita_Sadakichi
 石亀のこと_Sato_Koseki
 石仏_Hayashida_Seimei
-石仏_Koizumi_Yakumo
 石器時代総論要領_Tsuboi_Shogoro
 石塀幽霊_Osaka_Keikichi
 石川五右衛門の生立_Kamitsukasa_Shoken
 石川啄木と小奴_Noguchi_Ujo
-石工_Bertrand_Louis
 石工_Ueda_Bin
 石段に鉄管_Ogawa_Mimei
 石段上りの街_Hagiwara_Sakutaro
@@ -11147,7 +10511,6 @@
 破戒_Shimazaki_Toson
 破片_Terada_Torahiko
 破片ノ景色――_I_Sang
-破落戸の昇天_Molnar_Ferenc
 破落戸の昇天_Mori_Ogai
 破門_Sakaguchi_Ango
 硝子を破る者_Nakaya_Ukichiro
@@ -11200,9 +10563,7 @@
 祝盃_Kikuchi_Kan
 祝福された星の歌_Makino_Shin'ichi
 神、国王、国家_Fukunaga_Kiyoshi
-神、国王、国家_Gandhi_Mahatma
 神のない子_Murou_Saisei
-神の剣_Mann_Paul Thomas
 神の剣_Saneyoshi_Hayao
 神は弱いものを助けた_Ogawa_Mimei
 神サマを生んだ人々_Sakaguchi_Ango
@@ -11212,7 +10573,6 @@
 神州天馬侠_Yoshikawa_Eiji
 神州纐纈城_Kunieda_Shiro
 神戸_Furukawa_Roppa
-神曲_Dante_Alighieri
 神曲_Yamakawa_Heisaburo
 神棚_Toyoshima_Yoshio
 神楽坂_Yada_Tsuseko
@@ -11227,7 +10587,6 @@
 神社合祀に関する意見_Minakata_Kumagusu
 神神の微笑_Akutagawa_Ryunosuke
 神秘昆虫館_Kunieda_Shiro
-神童_Mann_Paul Thomas
 神童_Saneyoshi_Hayao
 神童でなかつたラムボオの詩_Sakaguchi_Ango
 神童の死_Kitahara_Hakushu
@@ -11253,7 +10612,6 @@
 祭原教授文_Kano_Naoki
 祭日_Mori_Ogai
 祭日_Mori_Rintaro
-祭日_Rilke_Rainer Maria
 祭日ならざる日々_Miyamoto_Yuriko
 祭活字子文_Narushima_Ryuhoku
 祭礼名彙と其分類_Yanagita_Kunio
@@ -11409,7 +10767,6 @@
 秋日記_Hara_Tamiki
 秋旻_Hara_Tamiki
 秋晴れの日_Makino_Shin'ichi
-秋月先生の古稀を祝して_Koizumi_Yakumo
 秋月先生の古稀を祝して_Tanabe_Ryuji
 秋果_Hayashi_Fumiko
 秋毛_Miyamoto_Yuriko
@@ -11435,7 +10792,6 @@
 科学と文学_Terada_Torahiko
 科学と科学の観念_Tosaka_Jun
 科学に志す人へ_Terada_Torahiko
-科学の不思議_Fabre_Jean Henri
 科学の不思議_Ito_Noe
 科学の不思議_Osugi_Sakae
 科学の国際連合_Nakaya_Ukichiro
@@ -11467,11 +10823,9 @@
 秘密_Takehisa_Yumeji
 秘密_Tanizaki_Jun'ichiro
 秘密の代償_Kishida_Kunio
-秘密の庭_Chesterton_Gilbert Keith
 秘密の庭_Naoki_Sanjugo
 秘密の相似_Kosakai_Fuboku
 秘密の風景画_Sasaki_Toshiro
-秘密礼拝式_Blackwood_Algernon
 秘密礼拝式_Mori_Ikuo
 秘魯国に漂著せる日本人_Minakata_Kumagusu
 秦の出発_Toyoshima_Yoshio
@@ -11507,12 +10861,10 @@
 穂高岳屏風岩にて_Hayakawa_Ayuko
 穂高岳槍ヶ岳縦走記_Udono_Masao
 積木の町_Niimi_Nankichi
-積木の町_Stevenson_Robert Louis
 積極な一生_Miyamoto_Yuriko
 穴_Kuroshima_Denji
 穴_Okamoto_Kido
 穴_Ran_Ikujiro
-空とぶトランク_Andersen_Hans Christian
 空とぶトランク_Yazaki_Genkuro
 空にわく金色の雲_Ogawa_Mimei
 空に咲く花_Miyamoto_Yuriko
@@ -11525,10 +10877,8 @@
 空中征服_Kagawa_Toyohiko
 空中漂流一週間_Unno_Juza
 空地利用_Kishida_Kunio
-空家_Level_Maurice
 空家_Miyazaki_Koshoshi
 空家_Tanaka_Sanae
-空家の冒険_Doyle_Arthur Conan
 空家の冒険_Mikami_Otokichi
 空想としての新婚旅行_Masamune_Hakucho
 空想日録_Terada_Torahiko
@@ -11555,11 +10905,9 @@
 突貫紀行_Koda_Rohan
 窃む女_Kuroshima_Denji
 窓_Akutagawa_Ryunosuke
-窓_Baudelaire_Charles Pierre
 窓_Hori_Tatsuo
 窓_Koga_Harue
 窓_Okamoto_Kanoko
-窓_Rilke_Rainer Maria
 窓_Takano_Tsugi
 窓_Tominaga_Taro
 窓からの風景（六月――）_Miyamoto_Yuriko
@@ -11604,7 +10952,6 @@
 童貞_Toyoshima_Yoshio
 童貞記_Hojo_Tamio
 端午節_Inoue_Kobai
-端午節_Lu Xun_nan
 端役_Kishida_Kunio
 端書_Hori_Tatsuo
 競漕_Kume_Masao
@@ -11629,11 +10976,9 @@
 竹青_Dazai_Osamu
 竹青_Tanaka_Kotaro
 竹馬の太郎_Ogawa_Mimei
-笑_Artsybashev_Mikhail Petrovich
 笑_Mori_Ogai
 笑_Mori_Rintaro
 笑い_Terada_Torahiko
-笑いの歌_Blake_William
 笑いの歌_Yoshida_Kinetaro
 笑う唖女_Yumeno_Kyusaku
 笑う悪魔_Nomura_Kodo
@@ -11694,7 +11039,6 @@
 簡潔の美_Uemura_Shoen
 簡略自伝_Sasaki_Toshiro
 簡約医学史_Minakami_Shigeki
-簡約医学史_Osler_William
 簪につけた短冊_Tanaka_Kotaro
 簪を挿した蛇_Nakaya_Ukichiro
 籔のほとり_Makino_Shin'ichi
@@ -11712,13 +11056,11 @@
 粟田口霑笛竹（澤紫ゆかりの咲分）_Jyono_Saigiku
 粟田口霑笛竹（澤紫ゆかりの咲分）_San'yutei_Encho
 粟田口霑笛竹（澤紫ゆかりの咲分）_Suzuki_Kozo
-精_Macleod_Fiona
 精_Matsumura_Mineko
 精神のへど_Hojo_Tamio
 精神病覚え書_Sakaguchi_Ango
 糞尿譚_Hino_Ashihei
 糸くず_Kunikida_Doppo
-糸くず_Maupassant_Guy De
 糸女覚え書_Akutagawa_Ryunosuke
 糸繰沼_Hasegawa_Shigure
 糸車_Terada_Torahiko
@@ -11726,10 +11068,8 @@
 紀州人_Kishida_Kunio
 紀行文家の群れ_Kojima_Usui
 約束_Kagutsuchi_Midori
-約束_Macleod_Fiona
 約束_Matsumura_Mineko
 約束_Yumeno_Kyusaku
-紅い花_Garshin_Vsevolod Mikhailvich
 紅い花_Jinzai_Kiyoshi
 紅すずめ_Ogawa_Mimei
 紅梅_Yosano_Akiko
@@ -11795,12 +11135,10 @@
 経つくゑ_Higuchi_Ichiyo
 経世の学、また講究すべし_Fukuzawa_Yukichi
 経帷子の秘密_Okamoto_Kido
-経済学及び課税の諸原理_Ricardo_David
 経済学及び課税の諸原理_Yoshida_Hideo
 経験派_Oda_Sakunosuke
 結党の焔_Haryu_Hajime
 結婚_Naka_Kansuke
-結婚と恋愛_Goldman_Emma
 結婚と恋愛_Ito_Noe
 結婚に関し、レークジョージ、雑_Miyamoto_Yuriko
 結婚問題に就て考慮する迄_Miyamoto_Yuriko
@@ -11809,15 +11147,11 @@
 結核症_Saito_Mokichi
 結論をいそがないで_Miyamoto_Yuriko
 結集_Miyamoto_Yuriko
-絞首刑_Orwell_George
-絞首刑_The Creative CAT_nan
 絵だけ_Uemura_Shoen
 絵にそへて_Hara_Tamiki
-絵のない絵本_Andersen_Hans Christian
 絵のない絵本_Yazaki_Genkuro
 絵はがき_Hori_Tatsuo
 絵姿_Watanabe_On
-絵姿_Wilde_Oscar
 絵本_Hayashi_Fumiko
 絵本の春_Izumi_Kyoka
 絵画について_Miyoshi_Juro
@@ -11859,7 +11193,6 @@
 綜合大学を迎へて_Aizu_Yaichi
 維新史の資料に就て_Naito_Konan
 綺堂むかし語り_Okamoto_Kido
-緋のエチュード_Doyle_Arthur Conan
 緋のエチュード_Okubo_Yu
 総理大臣が貰つた手紙の話_Sakaguchi_Ango
 総説　西洋音楽史の時代_Okkotsu_Saburo
@@ -11867,7 +11200,6 @@
 緑の種子_Kitahara_Hakushu
 緑の芽_Sasaki_Toshiro
 緑の軍港_Makino_Shin'ichi
-緑色の人_Chesterton_Gilbert Keith
 緑色の人_Murasaki_Toshiro
 緑色の太陽_Takamura_Kotaro
 緑色の時計_Ogawa_Mimei
@@ -11877,10 +11209,7 @@
 緑衣人伝_Tanaka_Kotaro
 緑雨と一葉_Iba_Shinen
 緒方氏を殺した者_Dazai_Osamu
-線に関する覚書１_I_Sang
-線に関する覚書２_I_Sang
 線に関する覚書５_I_Sang
-線に関する覚書６_I_Sang
 線に関する覚書７_I_Sang
 線路_Yumeno_Kyusaku
 線香の火_Nakaya_Ukichiro
@@ -11905,7 +11234,6 @@
 縷紅新草_Izumi_Kyoka
 繊細な美の観賞と云う事について_Miyamoto_Yuriko
 織工_Negishi_Shokichi
-織成_Pu_Songling
 織成_Tanaka_Kotaro
 織田信長_Sakaguchi_Ango
 織田君の死_Dazai_Osamu
@@ -11914,14 +11242,10 @@
 繻珍のズボン_Miyamoto_Yuriko
 罠に掛った人_Koga_Saburo
 罠を跳び越える女_Yada_Tsuseko
-罪と罰_Dostoevskii_Fedor Mikhailovich
 罪と罰_Yonekawa_Masao
 罪と罰（内田不知庵訳）_Kitamura_Tokoku
-罪と覚悟_O. Henry_nan
 罪と覚悟_Okubo_Yu
-罪・苦痛・希望・及び真実の道についての考察_Kafka_Franz
 罪・苦痛・希望・及び真実の道についての考察_Nakajima_Atsushi
-罪人_Artsybashev_Mikhail Petrovich
 罪人_Mori_Ogai
 罪過論_Ishibashi_Ningetsu
 置土産_Kunikida_Doppo
@@ -11929,7 +11253,6 @@
 羅生門_Kusuyama_Masao
 羅生門の後に_Akutagawa_Ryunosuke
 羊羹_Nagai_Kafu
-羊飼いハイタ_Bierce_Ambrose
 美_Takamura_Kotaro
 美しいだけでは間にあはない_Kato_Michio
 美しい家_Yokomitsu_Riichi
@@ -11971,7 +11294,6 @@
 美食七十年の体験_Kitaoji_Rosanjin
 美食多産期の腹構え_Kitaoji_Rosanjin
 群集_Toyoshima_Yoshio
-群集の人_Poe_Edgar Allan
 群集の人_Sakaguchi_Ango
 群集の人_Sasaki_Naojiro
 義人の姿_Tanaka_Kotaro
@@ -11987,7 +11309,6 @@
 翁の発生_Orikuchi_Shinobu
 習書要訣_Kitaoji_Rosanjin
 翔び去る印象_Miyamoto_Yuriko
-翩翩_Pu_Songling
 翩翩_Tanaka_Kotaro
 翳_Hara_Tamiki
 翻訳について_Kishida_Kunio
@@ -12008,9 +11329,7 @@
 老主の一時期_Okamoto_Kanoko
 老人_Mori_Ogai
 老人_Mori_Rintaro
-老人_Rilke_Rainer Maria
 老人と孤独な娘_Koyama_Kiyoshi
-老人と海_Hemingway_Ernest Miller
 老人と海_Ishinami_Kyo
 老人と鳩_Koyama_Kiyoshi
 老人退場説_Yamaura_Kan'ichi
@@ -12022,7 +11341,6 @@
 老嫗面_Sakaguchi_Ango
 老嬢と猫_Level_Maurice
 老嬢と猫_Tanaka_Sanae
-老子化胡経_Kuwabara_Jitsuzo
 老将軍と大学教授_Konno_Dairiki
 老巡査_Yumeno_Kyusaku
 老工夫と電灯_Ogawa_Mimei
@@ -12039,7 +11357,6 @@
 老齢学_Nakaya_Ukichiro
 考えこじき_Ogawa_Mimei
 考古学教室の思ひ出話_Hamada_Seiryo
-考城隍_Pu_Songling
 考城隍_Tanaka_Kotaro
 耕二のこと_Nakahara_Chuya
 耕耘部の時計_Miyazawa_Kenji
@@ -12056,7 +11373,6 @@
 聖ぷりずみすとに与う_Murou_Saisei
 聖アレキセイ寺院の惨劇_Oguri_Mushitaro
 聖アンデルセン_Koyama_Kiyoshi
-聖ニコラウスの夜_Lemonnier_Camille
 聖ニコラウスの夜_Mori_Ogai
 聖ニコラウスの夜_Mori_Rintaro
 聖ロヨラ_Nogami_Toyoichiro
@@ -12101,9 +11417,7 @@
 胎内_Miyoshi_Juro
 胚胎_Miyamoto_Yuriko
 胡堂百話_Nomura_Kodo
-胡弓_Bertrand_Louis
 胡弓_Ueda_Bin
-胡氏_Tanaka_Kotaro
 胡瓜_Kitaoji_Rosanjin
 胡瓜の種_Suzuki_Miekichi
 胸に手を当てて_Konno_Dairiki
@@ -12131,13 +11445,11 @@
 脱線息子_Sasaki_Kuni
 脱退問題是非_Kishida_Kunio
 脳の中の麗人_Unno_Juza
-脳波操縦士_Ran_Ikujiro
 脳細胞日記_Ota_Ken'ichi
 脳髄の進化_Oka_Asajiro
 腐った蜉蝣_Ran_Ikujiro
 腹のへった話_Umezaki_Haruo
 臘梅_Akutagawa_Ryunosuke
-臨時急行列車の紛失_Doyle_Arthur Conan
 臨時急行列車の紛失_Shinseinen henshukyoku_nan
 臨終の田中正造_Kinoshita_Naoe
 臨終まで_Kajii_Hisa
@@ -12196,18 +11508,14 @@
 自画像_Terada_Torahiko
 自覚について_Miyamoto_Yuriko
 自警録_Nitobe_Inazo
-自責_Level_Maurice
 自責_Tanaka_Sanae
-自転車乗りの影_Doyle_Arthur Conan
 自転車乗りの影_Mikami_Otokichi
 自転車乗りの影_Okubo_Yu
-自転車嬢の危難_Doyle_Arthur Conan
 自転車嬢の危難_Mikami_Otokichi
 自転車日記_Natsume_Soseki
 自選　荷風百句_Nagai_Kafu
 興津弥五右衛門の遺書_Mori_Ogai
 興津弥五右衛門の遺書（初稿）_Mori_Ogai
-興行物天使_I_Sang
 舌_Hara_Tamiki
 舌のすさび_Yoshikawa_Eiji
 舌を噛み切った女_Murou_Saisei
@@ -12237,7 +11545,6 @@
 船の破片に残る話_Ogawa_Mimei
 船中八策_Sakamoto_Ryoma
 船医の立場_Kikuchi_Kan
-船旅_Irving_Washington
 船旅_Yoshida_Kinetaro
 船路_Tayama_Katai
 船路_Tayama_Rokuya
@@ -12379,7 +11686,6 @@
 芸術上の心得_Kurata_Hyakuzo
 芸術家と国語_Miyamoto_Yuriko
 芸術家の協力_Kishida_Kunio
-芸術家の告白祈祷_Baudelaire_Charles Pierre
 芸術家の告白祈祷_Tominaga_Taro
 芸術座の『軍人礼讃』_Kishida_Kunio
 芸術的な書と非芸術的な書_Kitaoji_Rosanjin
@@ -12394,8 +11700,6 @@
 若い世代の実際性_Miyamoto_Yuriko
 若い人たちの意志_Miyamoto_Yuriko
 若い作家と蠅_Makino_Shin'ichi
-若い僧侶の話_Stevenson_Robert Louis
-若い僧侶の話_Sto_Ryokuyo
 若い娘の倫理_Miyamoto_Yuriko
 若い婦人のための書棚_Miyamoto_Yuriko
 若い婦人の著書二つ_Miyamoto_Yuriko
@@ -12421,7 +11725,6 @@
 若水の話_Orikuchi_Shinobu
 若狭春鯖のなれずし_Kitaoji_Rosanjin
 若芽_Shimada_Seijiro
-若草物語_Alcott_Louisa May
 若草物語_Mizutani_Masaru
 若菜のうち_Izumi_Kyoka
 若菜の巻など_Hori_Tatsuo
@@ -12462,7 +11765,6 @@
 茶屋知らず物語_Okamoto_Kanoko
 茶漬三略_Yoshikawa_Eiji
 茶番に寄せて_Sakaguchi_Ango
-茶碗の中_Koizumi_Yakumo
 茶碗の中_Tanabe_Ryuji
 茶碗の曲線_Nakaya_Ukichiro
 茶碗蒸し_Kitaoji_Rosanjin
@@ -12509,7 +11811,6 @@
 荒磯の興味_Sato_Sonosuke
 荒蕪地_Inuta_Shigeru
 荒野の冬_Nakaya_Ukichiro
-荒野の呼び声_London_Jack
 荒野の呼び声_Yamamoto_Masaki
 荒雄川のほとり_Sasaki_Toshiro
 荘子_Okamoto_Kanoko
@@ -12564,11 +11865,9 @@
 落日の光景_Tonomura_Shigeru
 落日の荘厳に似る_Yoshikawa_Eiji
 落穂_Ito_Sachio
-落穴と振子_Poe_Edgar Allan
 落穴と振子_Sasaki_Naojiro
 落第_Natsume_Soseki
 落第と退校_Oka_Asajiro
-落葉_Gourmont_Remy de
 落葉_Kimura_Yoshiko
 落葉_Ueda_Bin
 落葉の隣り_Yamamoto_Shugoro
@@ -12602,7 +11901,6 @@
 葦_Yamamoto_Shugoro
 葦は見ていた_Yamamoto_Shugoro
 葦笛（一幕）_Miyamoto_Yuriko
-葬られたる秘密_Koizumi_Yakumo
 葬られたる秘密_Togawa_Meizo
 葬儀記_Akutagawa_Ryunosuke
 葬列_Ishikawa_Takuboku
@@ -12621,7 +11919,6 @@
 蒲生氏郷_Koda_Rohan
 蒸発皿_Terada_Torahiko
 蒼海を望みて思ふ_Yanagita_Kunio
-蒼炎石_Doyle_Arthur Conan
 蒼炎石_Okubo_Yu
 蒼白い月_Tokuda_Shusei
 蒼白き巣窟_Murou_Saisei
@@ -12638,7 +11935,6 @@
 蓮_Toyoshima_Yoshio
 蓮の花開く音を聴く事_Minakata_Kumagusu
 蓮月焼_Hattori_Shiso
-蓮花公主_Pu_Songling
 蓮花公主_Tanaka_Kotaro
 蓮花図_Miyamoto_Yuriko
 蓮香_Tanaka_Kotaro
@@ -12649,7 +11945,6 @@
 蔵の二階_Toyoshima_Yoshio
 蔵書家の話_Naito_Konan
 蕎麦の味と食い方問題_Murai_Masayoshi
-蕎麦の花の頃_Lee_Hyo-seok
 蕎麦餅_Tanaka_Kotaro
 蕗のとうを摘む子供等_Nagasawa_Tasuku
 蕗の薹_Shinmura_Izuru
@@ -12658,19 +11953,16 @@
 薄明_Dazai_Osamu
 薄暮の貌_Iida_Dakotsu
 薄紅梅_Izumi_Kyoka
-薄紗の帳_Mallarme_Stephane
 薄紗の帳_Ueda_Bin
 薊_Yamamoto_Shugoro
 薔薇_Mori_Ogai
 薔薇_Mori_Rintaro
-薔薇_Wied_Gustav
 薔薇と巫女_Ogawa_Mimei
 薔薇の女_Watanabe_On
 薔薇夫人_Edogawa_Ranpo
 薤露行_Natsume_Soseki
 薪能と呪師走の翁_Orikuchi_Shinobu
 薬_Inoue_Kobai
-薬_Lu Xun_nan
 薬前薬後_Okamoto_Kido
 薬売り_Ogawa_Mimei
 薬売りの少年_Ogawa_Mimei
@@ -12732,7 +12024,6 @@
 虫干_Nagai_Kafu
 虫干し_Takano_Tsugi
 虱_Akutagawa_Ryunosuke
-虱とるひと_Rimbaud_Jean Nicolas Arthur
 虱とるひと_Ueda_Bin
 虹_Hara_Tamiki
 虹と感興_Uemura_Shoen
@@ -12880,7 +12171,6 @@
 衢にて_Morikawa_Yoshinobu
 衢路_Morikawa_Yoshinobu
 衣服と婦人の生活_Miyamoto_Yuriko
-衣裳戸棚_Mann_Paul Thomas
 衣裳戸棚_Saneyoshi_Hayao
 衣食住雑感_Kishida_Kunio
 表現_Miyamoto_Yuriko
@@ -12904,7 +12194,6 @@
 裸虫抄_Makino_Shin'ichi
 裸身の女仙_Nomura_Kodo
 褐色の求道_Okamoto_Kanoko
-襟_Dymow_Ossip
 襟_Mori_Ogai
 西南北東_Hara_Tamiki
 西周伝_Enomoto_Takeaki
@@ -12921,8 +12210,6 @@
 西洋の浜焼_Nakaya_Ukichiro
 西洋映画は何故面白いか？_Kishida_Kunio
 西洋画のやうな日本画_Akutagawa_Ryunosuke
-西洋科学は素晴らしい_Smith_Cordwainer
-西洋科学は素晴らしい_The Creative CAT_nan
 西洋美術館めぐり_Yasui_Sotaro
 西洋見学「はしがき」_Nogami_Toyoichiro
 西湖の屍人_Unno_Juza
@@ -12944,10 +12231,8 @@
 西鶴小論_Tayama_Katai
 西鶴小論_Tayama_Rokuya
 覆面の舞踏者_Edogawa_Ranpo
-見えざる人_Chesterton_Gilbert Keith
 見えざる人_Naoki_Sanjugo
 見えざる力_Oku_Masuo
-見えざる力_White_Fred M
 見えざる敵_Unno_Juza
 見つくろい_Miyamoto_Yuriko
 見て過ぎた女_Masamune_Hakucho
@@ -12960,12 +12245,9 @@
 覚海上人天狗になる事_Tanizaki_Jun'ichiro
 親が捨てられる世相_Sakaguchi_Ango
 親ごころ_Akita_Shigeru
-親ごころ_Maupassant_Guy De
 親しく見聞したアイヌの生活_Miyamoto_Yuriko
 親という二字_Dazai_Osamu
 親は眺めて考えている_Kanamori_Tokujiro
-親友たち_Smith_Cordwainer
-親友たち_The Creative CAT_nan
 親友交歓_Dazai_Osamu
 親子_Arishima_Takeo
 親子いっしょに_Miyamoto_Yuriko
@@ -12973,7 +12255,6 @@
 親子一体の教育法_Miyamoto_Yuriko
 親子遠足の感_Omachi_Keigetsu
 親孝行_Makino_Shin'ichi
-親方コブセ_Kim_Sa-ryang
 親木と若木_Ogawa_Mimei
 親父の言葉_Nagasawa_Tasuku
 親馬鹿入堂記_Ozaki_Shiro
@@ -13017,7 +12298,6 @@
 言語の用語例の推移_Orikuchi_Shinobu
 言語は生きている_Nakai_Masakazu
 言語体の文章と浮雲_Koda_Rohan
-計画_Baudelaire_Charles Pierre
 計画_Hiraide_Shu
 計画_Tominaga_Taro
 計略二重戦_Koga_Saburo
@@ -13044,8 +12324,6 @@
 試験管_Terada_Torahiko
 詩_Ishikawa_Takuboku
 詩とはなにか_Yamanokuchi_Baku
-詩とマイクロホン_Orwell_George
-詩とマイクロホン_The Creative CAT_nan
 詩と其の伝統_Nakahara_Chuya
 詩と官能_Terada_Torahiko
 詩と散文との間を行く発想法_Orikuchi_Shinobu
@@ -13101,7 +12379,6 @@
 誤って健康を伝えられた同志たちに_Makimura_Ko
 誤まれる姓名の逆列_Ito_Chyuta
 誤解せられたる生物学_Oka_Asajiro
-誤診_Level_Maurice
 誤診_Tanaka_Sanae
 読むうちに思ったこと_Ogawa_Mimei
 読んだ本_Makino_Shin'ichi
@@ -13121,14 +12398,12 @@
 読者諸氏に_Ito_Noe
 誰_Dazai_Osamu
 誰か_Niimi_Nankichi
-誰か_Stevenson_Robert Louis
 誰が・何時・何処で・何をした_Takehisa_Yumeji
 誰が何故彼を殺したか_Hirabayashi_Hatsunosuke
 誰が罪_Shimizu_Shikin
 誰でもない……自分でもない_Kishida_Kunio
 誰のために_Miyamoto_Yuriko
 誰も知らぬ_Dazai_Osamu
-誰？_Level_Maurice
 誰？_Tanaka_Sanae
 調帯_Nomura_Yoshiya
 調査機関_Nakai_Masakazu
@@ -13140,9 +12415,7 @@
 論語物語_Shimomura_Kojin
 諜報中継局_Unno_Juza
 諜報部_Oku_Masuo
-諜報部_White_Fred M
 諜報部秘話_Oku_Masuo
-諜報部秘話_White_Fred M
 諦めている子供たち_Sakaguchi_Ango
 諦らめアネゴ_Sakaguchi_Ango
 諷刺大学生_Oguma_Hideo
@@ -13153,7 +12426,6 @@
 謀叛論（草稿）_Tokutomi_Roka
 謎の咬傷_Kosakai_Fuboku
 謎の四つ指_Oku_Masuo
-謎の四つ指_White_Fred M
 謎の女_Hirabayashi_Hatsunosuke
 謎の街_Matsumoto_Tai
 謎の頸飾事件_Yamamoto_Shugoro
@@ -13201,8 +12473,6 @@
 豚吉とヒョロ子_Yumeno_Kyusaku
 豚群_Kuroshima_Denji
 豚肉　桃　りんご_Katayama_Hiroko
-象を撃つ_Orwell_George
-象を撃つ_The Creative CAT_nan
 象牙の牌_Watanabe_On
 豪華版_Miyamoto_Yuriko
 貉_Akutagawa_Ryunosuke
@@ -13264,7 +12534,6 @@
 贋紙幣事件_Koga_Saburo
 赤_Terada_Torahiko
 赤いえり巻き_Ogawa_Mimei
-赤いくつ_Andersen_Hans Christian
 赤いくつ_Kusuyama_Masao
 赤いねこ_Okino_Iwasaburo
 赤いろうそくと人魚_Ogawa_Mimei
@@ -13305,12 +12574,7 @@
 赤い鳥居_Tayama_Katai
 赤い鳥居_Tayama_Rokuya
 赤げっと　支那あちこち_Kunieda_Shiro
-赤ずきん_Grimm_Jacob Ludwig Carl
-赤ずきん_Grimm_Wilhelm Carl
 赤ずきん_Yazaki_Genkuro
-赤ずきんちゃん_Grimm_Jacob Ludwig Carl
-赤ずきんちゃん_Grimm_Wilhelm Carl
-赤ずきんちゃん_Kusuyama_Masao
 赤ちやん_Hirayama_Chiyoko
 赤とんぼ_Niimi_Nankichi
 赤とピンクの世界_Katayama_Hiroko
@@ -13323,7 +12587,6 @@
 赤旗事件の回顧_Sakai_Toshihiko
 赤格子九郎右衛門_Kunieda_Shiro
 赤格子九郎右衛門の娘_Kunieda_Shiro
-赤毛連盟_Doyle_Arthur Conan
 赤毛連盟_Okubo_Yu
 赤痢_Ishikawa_Takuboku
 赤穂御崎詠草集_Sakurama_Chuyo
@@ -13373,7 +12636,6 @@
 路傍の雑草_Shimazaki_Toson
 路地_Nagai_Kafu
 踊る一寸法師_Edogawa_Ranpo
-踊る人形_Doyle_Arthur Conan
 踊る人形_Mikami_Otokichi
 踊る人形_Okubo_Yu
 踊る地平線_Tani_Joji
@@ -13389,7 +12651,6 @@
 身上話_Mori_Ogai
 身代り_Tsuchida_Kohei
 身代りの花嫁_Nomura_Kodo
-身体検査_Sologub_Fedor
 身体検査_Yonekawa_Masao
 身体検査日_Kurahashi_Jun'ichiro
 身投げ救助業_Kikuchi_Kan
@@ -13449,14 +12710,12 @@
 辻の立ち咄_Orikuchi_Shinobu
 辻久一著「夜の芸術」_Kishida_Kunio
 辻野久憲君_Hori_Tatsuo
-辻馬車_Molnar_Ferenc
 辻馬車_Mori_Ogai
 迅雷_Tayama_Katai
 迅雷_Tayama_Rokuya
 近世快人伝_Yumeno_Kyusaku
 近代劇論_Kishida_Kunio
 近代医学の興隆_Minakami_Shigeki
-近代医学の興隆_Osler_William
 近代支那の文化生活_Naito_Konan
 近作鉢の会に一言_Kitaoji_Rosanjin
 近時政論考_Kuga_Katsunan
@@ -13499,7 +12758,6 @@
 追憶_Shiraki_Shizu
 追憶の冬夜_Terada_Torahiko
 追憶の医師達_Terada_Torahiko
-追放されて_Chekhov_Anton
 追放されて_Jinzai_Kiyoshi
 退歩主義者_Sakaguchi_Ango
 逃げたい心_Sakaguchi_Ango
@@ -13537,7 +12795,6 @@
 逢状_Yoshii_Isamu
 逢魔の刻_Toyoshima_Yoshio
 連句雑俎_Terada_Torahiko
-連城_Pu_Songling
 連城_Tanaka_Kotaro
 連環記_Koda_Rohan
 連翹の花_Shinmura_Izuru
@@ -13559,7 +12816,6 @@
 遊羽雑感_Omachi_Keigetsu
 運_Akutagawa_Ryunosuke
 運を主義にまかす男_Kishida_Kunio
-運動_I_Sang
 運動_Okuma_Shigenobu
 運動会の風景_Hayama_Yoshiki
 運勢_Haryu_Hajime
@@ -13590,13 +12846,10 @@
 道は次第に狭し_Kitaoji_Rosanjin
 道中記_Taneda_Santoka
 道具と餌と天候_Sato_Koseki
-道化とヸナス_Baudelaire_Charles Pierre
 道化とヸナス_Tominaga_Taro
 道化の華_Dazai_Osamu
 道化役_Toyoshima_Yoshio
 道化玉座_Oku_Masuo
-道化玉座_White_Fred M
-道化者_Mann_Paul Thomas
 道化者_Saneyoshi_Hayao
 道化芝居_Hojo_Tamio
 道学先生の旅_Togawa_Shukotsu
@@ -13607,7 +12860,6 @@
 道標_Miyamoto_Yuriko
 道標_Toyoshima_Yoshio
 道灌山_Miyamoto_Yuriko
-道理の前で_Kafka_Franz
 道理の前で_Okubo_Yu
 道祖問答_Akutagawa_Ryunosuke
 道程_Takamura_Kotaro
@@ -13718,14 +12970,11 @@
 酒虫_Akutagawa_Ryunosuke
 酔っぱらい星_Ogawa_Mimei
 酔ひたる商人_Mizuno_Senko
-酔へ！_Baudelaire_Charles Pierre
 酔へ！_Tominaga_Taro
 酔狂録_Yoshii_Isamu
 酸漿_Hara_Tamiki
-醉ひどれ船_Rimbaud_Jean Nicolas Arthur
 醉ひどれ船_Ueda_Bin
 醍醐の里_Sakaguchi_Ango
-醜い家鴨の子_Andersen_Hans Christian
 醜い家鴨の子_Kikuchi_Kan
 醜婦を呵す_Izumi_Kyoka
 醤油仏_Yoshikawa_Eiji
@@ -13743,7 +12992,6 @@
 野に声なし_Toyoshima_Yoshio
 野に山にかかる虹の橋_Nakai_Masakazu
 野に臥す者_Murou_Saisei
-野のはくちょう_Andersen_Hans Christian
 野のはくちょう_Kusuyama_Masao
 野の哄笑_Soma_Taizo
 野の墓_Iwamoto_Sohaku
@@ -13775,7 +13023,6 @@
 金がきたら_Takeuchi_Kozo
 金が出ずに、なしの産まれた話_Ogawa_Mimei
 金のくびかざり_Ono_Hiroshi
-金の十字架の呪い_Chesterton_Gilbert Keith
 金の十字架の呪い_Naoki_Sanjugo
 金の猫の鬼_Toyoshima_Yoshio
 金の目銀の目_Toyoshima_Yoshio
@@ -13824,7 +13071,6 @@
 針の木のいけにえ_Ishikawa_Kinichi
 針木峠の林道 _Kogure_Ritaro
 針金細工の詩_Sato_Haruo
-釣_ALTENBERG_PETER
 釣_Mori_Ogai
 釣った魚の味_Sato_Koseki
 釣り師の心境_Sakaguchi_Ango
@@ -13839,7 +13085,6 @@
 鈍走記（草稿）_Takeuchi_Kozo
 鈴が通る_Miyoshi_Juro
 鈴木三重吉宛書簡―明治三十九年_Natsume_Soseki
-鈴木主水_Hisao_Juran
 鉄のシャフト_Nomura_Yoshiya
 鉄の処女_Okura_Teruko
 鉄の死_Murou_Saisei
@@ -13850,14 +13095,12 @@
 鉄砲_Sakaguchi_Ango
 鉄窓の歌_Kinoshita_Naoe
 鉄路_Ran_Ikujiro
-鉄道事故_Mann_Paul Thomas
 鉄道事故_Saneyoshi_Hayao
 鉄道模型の夜_EnJoe_Toh
 鉄鉢と魚籃と_Taneda_Santoka
 鉄鎚_Yumeno_Kyusaku
 鉄面皮_Dazai_Osamu
 鉄面皮_Oku_Masuo
-鉄面皮_White_Fred M
 鉛をかじる虫_Terada_Torahiko
 鉛筆のしん_Nakaya_Ukichiro
 鉛筆のシン_Kagutsuchi_Midori
@@ -13897,7 +13140,6 @@
 錦染滝白糸_Izumi_Kyoka
 錦紗_Inuta_Shigeru
 錬金詐欺_Kosakai_Fuboku
-錬金道士_Bertrand_Louis
 錬金道士_Ueda_Bin
 錯覚の拷問室_Sasaki_Toshiro
 錯覚数題_Terada_Torahiko
@@ -13933,7 +13175,6 @@
 鐘に釁る_Terada_Torahiko
 鐘の声_Nagai_Kafu
 鐘ヶ淵_Okamoto_Kido
-鐘塔の悪魔_Poe_Edgar Allan
 鐘塔の悪魔_Sasaki_Naojiro
 鑑定_Akutagawa_Ryunosuke
 鑑定_Izumi_Kyoka
@@ -13941,8 +13182,6 @@
 鑑賞力なくして習字する勿れ_Kitaoji_Rosanjin
 鑢屑_Terada_Torahiko
 長い名_Kusuyama_Masao
-長い部屋_Dunbar_Olivia Howard
-長い部屋_The Creative CAT_nan
 長ぐつの話_Ogawa_Mimei
 長吏名称考_Kita_Sadakichi
 長唄のために_Orikuchi_Shinobu
@@ -13962,8 +13201,6 @@
 長崎小品_Akutagawa_Ryunosuke
 長崎留学_Nakaya_Ukichiro
 長彦と丸彦_Toyoshima_Yoshio
-長歯の鬼婆_Hyde_Douglas
-長歯の鬼婆_Tateno_Hiromi
 長江游記_Akutagawa_Ryunosuke
 長篇作家としてのマクシム・ゴーリキイ_Miyamoto_Yuriko
 長篇小説時評_Sakaguchi_Ango
@@ -14010,8 +13247,6 @@
 闇の書_Kajii_Motojiro
 闇の絵巻_Kajii_Motojiro
 闇への書_Kajii_Motojiro
-闇をさまようもの_Lovecraft_Howard Phillips
-闇をさまようもの_The Creative CAT_nan
 闇中問答_Akutagawa_Ryunosuke
 闇夜の梅_San'yutei_Encho
 闇夜の梅_Suzuki_Kozo
@@ -14025,7 +13260,6 @@
 阪神見聞録_Tanizaki_Jun'ichiro
 防備隊_Kuroshima_Denji
 防寒戸_Nakaya_Ukichiro
-防火栓_Hirschfeld_Georg
 防火栓_Mori_Ogai
 防火栓_Mori_Rintaro
 防雪林_Kobayashi_Takiji
@@ -14034,20 +13268,16 @@
 阿房山賦_Narushima_Ryuhoku
 阿武隈川水源の仙境_Omachi_Keigetsu
 阿片の味_Nanbu_Shutaro
-阿繊_Pu_Songling
 阿繊_Tanaka_Kotaro
 阿芳の怨霊_Tanaka_Kotaro
-阿英_Pu_Songling
 阿英_Tanaka_Kotaro
 阿部一族_Mori_Ogai
 阿部定さんの印象_Sakaguchi_Ango
 阿部定という女_Sakaguchi_Ango
 阿部正雄君のこと_Kishida_Kunio
 阿難と呪術師の娘_Okamoto_Kanoko
-阿霞_Pu_Songling
 阿霞_Tanaka_Kotaro
 阿Ｑ正伝_Inoue_Kobai
-阿Ｑ正伝_Lu Xun_nan
 附「歌へる日まで」_Makino_Shin'ichi
 附記（夜見の巻）_Makino_Shin'ichi
 院展日本画所感_Watsuji_Tetsuro
@@ -14072,7 +13302,6 @@
 陽気な客_Yamamoto_Shugoro
 陽炎座_Izumi_Kyoka
 隅田の春_Aeba_Koson
-隋書倭国伝_Wei_Zheng
 階段_Makino_Shin'ichi
 階段_Unno_Juza
 階級闘争の彼方へ_Yosano_Akiko
@@ -14214,7 +13443,6 @@
 雪_Tsumura_Nobuo
 雪くる前の高原の話_Ogawa_Mimei
 雪たたき_Koda_Rohan
-雪だるま_Andersen_Hans Christian
 雪だるま_Ogawa_Mimei
 雪だるま_Yazaki_Genkuro
 雪だるまの幻想（ラジオ・ドラマ）_Kishida_Kunio
@@ -14239,7 +13467,6 @@
 雪の夜_Oda_Sakunosuke
 雪の夜の怪_Tanaka_Kotaro
 雪の夜の話_Dazai_Osamu
-雪の女王_Andersen_Hans Christian
 雪の女王_Yazaki_Genkuro
 雪の宿り_Jinzai_Kiyoshi
 雪の島_Orikuchi_Shinobu
@@ -14346,7 +13573,6 @@
 霊感！_Yumeno_Kyusaku
 霊気_Toyoshima_Yoshio
 霊訓_Asano_Wasaburo
-霊訓_Moses_William Stainton
 霊魂の話_Orikuchi_Shinobu
 霊魂一元論_Nishi_Amane
 霊魂第十号の秘密_Unno_Juza
@@ -14396,7 +13622,6 @@
 青い服の列_Nishimura_Yokichi
 青い焔_Hojo_Tamio
 青い玉と銀色のふえ_Ogawa_Mimei
-青い眼_Apollinaire_Guillaume
 青い眼_Hori_Tatsuo
 青い眼の人形_Noguchi_Ujo
 青い眼鏡_Nomura_Kodo
@@ -14410,11 +13635,9 @@
 青い風呂敷包_Okura_Teruko
 青き蜜柑_Morikawa_Yoshinobu
 青ひげ_Kusuyama_Masao
-青ひげ_Perrault_Charles
 青べか日記_Yamamoto_Shugoro
 青べか物語_Yamamoto_Shugoro
 青バスの女_Tatsuno_Kyushi
-青君の追跡_Chesterton_Gilbert Keith
 青君の追跡_Murasaki_Toshiro
 青塚ノ説_Bokujogyoshi_nan
 青塚ノ説_Narushima_Ryuhoku
@@ -14422,7 +13645,6 @@
 青年_Hojo_Tamio
 青年_Mori_Ogai
 青年と死_Akutagawa_Ryunosuke
-青年に訴う_Kropotkin_Pyotr Alkseevich
 青年の元気で奮闘する我輩の一日_Okuma_Shigenobu
 青年の夢と憂欝_Kishida_Kunio
 青年の天下_Okuma_Shigenobu
@@ -14449,7 +13671,6 @@
 青水仙、赤水仙_Kaijaku_Ranpei
 青水仙、赤水仙_Yumeno_Kyusaku
 青猫_Hagiwara_Sakutaro
-青玉の十字架_Chesterton_Gilbert Keith
 青玉の十字架_Naoki_Sanjugo
 青田は果なし_Miyamoto_Yuriko
 青白き公園_Makino_Shin'ichi
@@ -14459,7 +13680,6 @@
 青磁の皿_Susukida_Kyukin
 青空のリスタート_Tomita_Michio
 青空同人印象記（大正十五年六月号）_Kajii_Motojiro
-青空文庫の提案_Aozora Bunko_nan
 青空文庫ものがたり_Miyakawa_Fumiko
 青空文庫ものがたり_Noguchi_Eiji
 青竹_Yamamoto_Shugoro
@@ -14493,7 +13713,6 @@
 非情の愛_Toyoshima_Yoshio
 非文学的文士_Nakahara_Chuya
 非暴力_Fukunaga_Kiyoshi
-非暴力_Gandhi_Mahatma
 非論理的性格の悲哀_Hagiwara_Sakutaro
 面_Tomita_Tsuneo
 面会_Oda_Sakunosuke
@@ -14501,7 +13720,6 @@
 面白き二個の広告_Sakai_Toshihiko
 面白味_Nakaya_Ukichiro
 革トランク_Miyazawa_Kenji
-革命の研究_Kropotkin_Pyotr Alkseevich
 革命を待つ心_Ayukawa_Yoshisuke
 革鞄の怪_Izumi_Kyoka
 鞄らしくない鞄_Unno_Juza
@@ -14525,7 +13743,6 @@
 須磨子の死_Tayama_Rokuya
 須磨明石_Nagatsuka_Takashi
 須賀爺_Negishi_Shokichi
-頌歌_Claudel_Paul
 頌歌_Ueda_Bin
 頑執妄排の弊_Kitamura_Tokoku
 頬よせてホノルル_Kataoka_Yoshio
@@ -14535,10 +13752,7 @@
 頭上の響_Kitamura_Shikai
 頭蓋骨の秘密_Kosakai_Fuboku
 頭髪の故事_Inoue_Kobai
-頭髪の故事_Lu Xun_nan
-頸の上のアンナ_Chekhov_Anton
 頸の上のアンナ_Jinzai_Kiyoshi
-頸飾り_Maupassant_Guy De
 頸飾り_Tsuji_Jun
 頼朝の最後_Tanaka_Kotaro
 頼杏坪先生_Nakamura_Kenkichi
@@ -14588,7 +13802,6 @@
 風景_Hori_Tatsuo
 風景_Toyoshima_Yoshio
 風波_Inoue_Kobai
-風波_Lu Xun_nan
 風流_Sakaguchi_Ango
 風流仏_Koda_Rohan
 風流化物屋敷_Yamamoto_Shugoro
@@ -14618,9 +13831,7 @@
 飛鳥山遠足_Omachi_Keigetsu
 食べたり君よ_Furukawa_Roppa
 食べもの_Sato_Koseki
-食品とその混ぜ物処理_Hassall_Arthur Hill
 食品とその混ぜ物処理_Minakami_Shigeki
-食品の混ぜ物処理および調理の毒物（1820）_Accum_Friedrich
 食品の混ぜ物処理および調理の毒物（1820）_Minakami_Shigeki
 食器は料理のきもの_Kitaoji_Rosanjin
 食堂_Mori_Ogai
@@ -14657,17 +13868,14 @@
 養生心得草_Seki_Kan
 養蚕の歌_Makimura_Ko
 餌_Miyamoto_Yuriko
-餓えた人々_Mann_Paul Thomas
 餓えた人々_Saneyoshi_Hayao
 餓鬼阿弥蘇生譚_Orikuchi_Shinobu
-饑餓の饗宴_Rimbaud_Jean Nicolas Arthur
 饑餓の饗宴_Tominaga_Taro
 饑餓陣営_Miyazawa_Kenji
 饒舌_Akutagawa_Ryunosuke
 饗宴_Miyazawa_Kenji
 饗応夫人_Dazai_Osamu
 首が落ちた話_Akutagawa_Ryunosuke
-首なし_Hyde_Douglas
 首なし_Tateno_Hiromi
 首のない騎馬武者_Tanaka_Kotaro
 首を失った蜻蛉_Sasaki_Toshiro
@@ -14706,15 +13914,12 @@
 馬鹿七_Okino_Iwasaburo
 駄パンその他_Furukawa_Roppa
 駄馬と百姓_Ogawa_Mimei
-駅伝馬車_Irving_Washington
 駅伝馬車_Takagaki_Matsuo
 駅夫日記_Shirayanagi_Shuko
-駅馬車_Irving_Washington
 駅馬車_Yoshida_Kinetaro
 駆ける朝_Makino_Shin'ichi
 駆落_Mori_Ogai
 駆落_Mori_Rintaro
-駆落_Rilke_Rainer Maria
 駆逐されんとする文人_Uchida_Roan
 駈落_Sasaki_Toshiro
 駈込み訴え_Dazai_Osamu
@@ -14764,7 +13969,6 @@
 高野聖_Izumi_Kyotaro
 高野豆腐_Kitaoji_Rosanjin
 髪_Oda_Sakunosuke
-髪あかきダフウト_Macleod_Fiona
 髪あかきダフウト_Matsumura_Mineko
 髪の毛_Sasaki_Kuni
 髪の毛と花びら_Kishida_Kunio
@@ -14796,7 +14000,6 @@
 魂の喘ぎ_Okura_Teruko
 魂を刳る美_Kitaoji_Rosanjin
 魅力と親しみと美に優れた良寛の書_Kitaoji_Rosanjin
-魏志倭人伝_Chen_Shou
 魔のひととき_Hara_Tamiki
 魔の退屈_Sakaguchi_Ango
 魔の電柱_Tanaka_Kotaro
@@ -14804,10 +14007,8 @@
 魔像_Ran_Ikujiro
 魔味洗心_Sato_Koseki
 魔女_Oguma_Hideo
-魔女の家で見た夢_Lovecraft_Howard Phillips
 魔女の家で見た夢_The Creative CAT_nan
 魔性の女_Okura_Teruko
-魔法の笛_Browning_Robert
 魔法の笛_Kusuyama_Masao
 魔法人形_Edogawa_Ranpo
 魔法修行者_Koda_Rohan
@@ -14821,7 +14022,6 @@
 魔術師_Edogawa_Ranpo
 魔都_Hisao_Juran
 魚と白鳥_Ogawa_Mimei
-魚と蠅の祝日_Macleod_Fiona
 魚と蠅の祝日_Matsumura_Mineko
 魚の序文_Hayashi_Fumiko
 魚の憂鬱_Susukida_Kyukin
@@ -14836,7 +14036,6 @@
 魚美人_Sato_Sonosuke
 魯山人作陶百影　序_Kitaoji_Rosanjin
 魯山人家蔵百選　序_Kitaoji_Rosanjin
-魯迅さん_Uchiyama_Kanzou
 魯迅の「故郷」や「孤独者」を訳したころ_Sato_Haruo
 鮎の名所_Kitaoji_Rosanjin
 鮎の試食時代_Kitaoji_Rosanjin
@@ -14871,7 +14070,6 @@
 鱗雲_Makino_Shin'ichi
 鱧の皮_Kamitsukasa_Shoken
 鱧・穴子・鰻の茶漬け_Kitaoji_Rosanjin
-鱷_Dostoevskii_Fedor Mikhailovich
 鱷_Mori_Ogai
 鱷_Mori_Rintaro
 鳥をとるやなぎ_Miyazawa_Kenji
@@ -14896,7 +14094,6 @@
 鳴雪自叙伝_Naito_Meisetsu
 鳶と柿と鶏_Toyoshima_Yoshio
 鴉_Mori_Ogai
-鴉_Schmidtbonn_Wilhelm
 鴉と唱歌_Terada_Torahiko
 鴉と正覚坊_Wakayama_Bokusui
 鴉片_Akutagawa_Ryunosuke
@@ -14913,7 +14110,6 @@
 鴎外記念館のこと_Nagai_Kafu
 鴛鴦鏡_Okamoto_Kido
 鴨の喜劇_Inoue_Kobai
-鴨の喜劇_Lu Xun_nan
 鴨川を愛して_Shinmura_Izuru
 鴨猟_Akutagawa_Ryunosuke
 鴨猟_Toyoshima_Yoshio
@@ -14942,13 +14138,11 @@
 鷭狩_Izumi_Kyoka
 鷲_Okamoto_Kido
 鷲_Tanaka_Kotaro
-鷲の巣_Bjornson_Bjornstjerne
 鷲の巣_Miyahara_Koichiro
 鷹とひらめ_Kagutsuchi_Midori
 鷹とひらめ_Yumeno_Kyusaku
 鷹の井戸_Katayama_Hiroko
 鷹の井戸（一幕）_Matsumura_Mineko
-鷹の井戸（一幕）_Yeats_William Butler
 鷹を貰い損なった話_Terada_Torahiko
 鷹狩りと操り芝居と_Orikuchi_Shinobu
 鷺と鴛鴦_Akutagawa_Ryunosuke
@@ -14981,7 +14175,6 @@
 麻を刈る_Izumi_Kyoka
 麻を刈る_Izumi_Kyotaro
 麻畑の一夜_Okamoto_Kido
-麻酔剤_Level_Maurice
 麻酔剤_Tanaka_Sanae
 麻雀を語る_Nanbu_Shutaro
 麻雀インチキ物語_Unno_Juza
@@ -15000,7 +14193,6 @@
 黄色い日日_Umezaki_Haruo
 黄色い晩_Ogawa_Mimei
 黄色い鋼鉄船_Migishi_Kotaro
-黄色な顔_Doyle_Arthur Conan
 黄色な顔_Mikami_Otokichi
 黄英_Tanaka_Kotaro
 黄金の枕_Tanaka_Kotaro
@@ -15012,7 +14204,6 @@
 黄金綺譚_Sato_Haruo
 黄金薔薇_Oku_Masuo
 黄金薔薇_White_Fred M
-黄金虫_Poe_Edgar Allan
 黄金虫_Sasaki_Naojiro
 黄金豹_Edogawa_Ranpo
 黄金風景_Dazai_Osamu
@@ -15045,7 +14236,6 @@
 黒檜_Kitahara_Hakushu
 黒死館殺人事件_Oguri_Mushitaro
 黒点_Toyoshima_Yoshio
-黒猫_Poe_Edgar Allan
 黒猫_Sasaki_Naojiro
 黒猫_Shimaki_Kensaku
 黒猫_Susukida_Kyukin
@@ -15088,7 +14278,6 @@
 鼠小僧次郎吉_Akutagawa_Ryunosuke
 鼠頭魚釣り_Koda_Rohan
 鼻_Akutagawa_Ryunosuke
-鼻_Gogol_Nikolai
 鼻_Hirai_Hajime
 鼻で鱒を釣つた話（実事）_Wakamatsu_Shizuko
 鼻に基く殺人_Kosakai_Fuboku
@@ -15126,7 +14315,6 @@
 Ｏ君の新秋_Akutagawa_Ryunosuke
 Ｐ丘の殺人事件_Matsumoto_Tai
 Ｒ漁場と都の酒場で_Makino_Shin'ichi
-ＲＵＲ_Capek_Karel
 ＲＵＲ_Okubo_Yu
 Ｓの背中_Umezaki_Haruo
 Ｓ・Ｉ生へ_Makino_Shin'ichi
@@ -15141,13 +14329,10 @@
 Ｘ氏の手帳_Hori_Tatsuo
 45回転の夏_Tsuruoka_Yuji
 A LETTER FROM PRISON_Ishikawa_Takuboku
-ANY WHERE OUT OF THE WORLD_Baudelaire_Charles Pierre
 ANY WHERE OUT OF THE WORLD_Tominaga_Taro
-AU MAGASIN DE NOUVEAUTES_I_Sang
 Akutagawa_Ryunosuke+Rashomon
 Alice_Arisugawa,_Erii_Mamahara+臨床犯罪学者・火村英生のフィールドノート__朱色の研究
 An Incident_Arishima_Takeo
-Andreev_Leonid_Nikolaevich+Kesshouki
 Arthur_Conan_Doyle,_Fumiko_Ishida+シャーロック・ホームズの冒険
 Arthur_Conan_Doyle,_Mariko_Fukamachi+シャーロック・ホームズの冒険
 Arthur_Conan_Doyle,_Mariko_Fukamachi+緋色の研究
@@ -15159,16 +14344,9 @@ Arthur_Conan_Doyle,_Shigenobu_Saitō+恐怖の谷
 Arthur_Conan_Doyle,_Yukio_Suzuki+バスカービル家の犬
 Arthur_Conan_Doyle,_Yukio_Suzuki+ホームズの回想
 Arthur_Conan_Doyle,_Yukio_Suzuki+ホームズの生還
-BOITEUX ・ BOITEUSE_I_Sang
 CARTE POSTALE_Hori_Tatsuo
-COLLOQUE MOQUEUR_Tominaga_Taro
-Christopher_Morley+Yureishoten_The_Haunted_Bookshop
-DILEMMA._Sto_Ryokuyo
 Dream Tales_Tanizaki_Jun'ichiro
-E._Phillips_Oppenheim+Irekawatta_Otoko_(The_Great_Impersonation)
-Earl_Biggers+Kumon_no_ran
 Ein Zwei Drei_Hori_Tatsuo
-Elmer_Rice+Saiban
 FARCE に就て_Sakaguchi_Ango
 HUMAN LOST_Dazai_Osamu
 Hajime_Tsukatō+奇蹟審問官アーサー___神の手の不可能殺人
@@ -15194,7 +14372,6 @@ Jirō_Akagawa,_Takashi_Kitami+三毛猫ホームズの降霊会
 John_Dickson_Carr,_Katsuo_Jinka+死が二人をわかつまで
 John_Dickson_Carr,_Teiichi_Hirai+黒死荘殺人事件
 John_Dickson_Carr,_Toshiyasu_Uno+皇帝の嗅ぎ煙草入れ
-John_Falkner+Kumogata_monsho
 Junichiro_Tanizaki+Akuma
 Junichiro_Tanizaki+Atsumono
 Junichiro_Tanizaki+Shisei
@@ -15206,24 +14383,17 @@ Koji_Yanagi+ジョーカー・ゲーム!_Joker_Game
 Koji_Yanagi+ダブル・ジョーカー__Double_Joker
 Koji_Yanagi+パラダイス・ロスト__Paradise_Lost
 Kuni_Sasaki+Horadanshaku_tabimiyage
-LE URINE_I_Sang
 Liber Studiorum_Terada_Torahiko
-Marie_Lowndes+Geshukunin_(The_Lodger)
-Martin_Luther+The_Small_Catechism_of_Martin_Luther
 Me Voilà_Nakahara_Chuya
 Mensura Zoili_Akutagawa_Ryunosuke
-Montgomery,_Lucy_Maud+赤毛のアン_[Akage_no_An]
-Moods cashey_Hattori_Shiso
 Motohiro_Katō+捕まえたもん勝ち！_七夕菊乃の捜査報告書
 Motohiro_Katō+量子人間からの手紙　捕まえたもん勝ち！
 NAKIWARAI を読む_Ishikawa_Takuboku
-NIELS BOHR_Nishina_Yoshio
 Natsuhiko_Kyogoku+狂骨の夢_[ed.__2000]
 Natsuhiko_Kyogoku+魍魎の匣_[ed.__1999]
 Natsuki_Shizuko+Ｗの悲劇
 Ombra di Venezia_Hori_Tatsuo
 Pierre Philosophale_Sakaguchi_Ango
-Raymond_Jones+Kasei_no_kioku_(The_Memory_of_Mars)
 Resignation の説_Mori_Ogai
 Rintarō_Norizuki+ふたたび赤い悪夢
 Rintarō_Norizuki+キングを探せ
@@ -15238,21 +14408,11 @@ Rintarō_Norizuki+法月綸太郎の新冒険
 Rintarō_Norizuki+生首に聞いてみろ__The_Gorgon_s_Look
 Rintarō_Norizuki+雪密室
 Rintarō_Norizuki+頼子のために_[ed.__新装]
-Rosellinia necatrix (R. Hart.) Berlese の子嚢殻の裂開性について_Prillieux_Édouard Ernest
 Rosellinia necatrix (R. Hart.) Berlese の子嚢殻の裂開性について_Takemoto_Shuhei
-Rowling,_J.K.+Harry_Potter__シリーズ全7巻
-Rowling,_J.K.+ハリー・ポッターとアズカバンの囚人_-_Harry_Potter_and_the_Prisoner_of_Azkaban_(ハリー・ポッターシリーズ)
-Rowling,_J.K.+ハリー・ポッターと不死鳥の騎士団_-_Harry_Potter_and_the_Order_of_the_Phoenix_(ハリー・ポッターシリーズ)
-Rowling,_J.K.+ハリー・ポッターと死の秘宝_-_Harry_Potter_and_the_Deathly_Hallows_(ハリー・ポッターシリーズ)
-Rowling,_J.K.+ハリー・ポッターと炎のゴブレット_-_Harry_Potter_and_the_Goblet_of_Fire_(ハリー・ポッターシリーズ)
-Rowling,_J.K.+ハリー・ポッターと秘密の部屋_-_Harry_Potter_and_the_Chamber_of_Secrets_(ハリー・ポッターシリーズ)
-Rowling,_J.K.+ハリー・ポッターと謎のプリンス_-_Harry_Potter_and_the_Half-Blood_Prince_(ハリー・ポッターシリーズ)
-Rowling,_J.K.+ハリー・ポッターと賢者の石_-_Harry_Potter_and_the_Philosopher’s_Stone_(ハリー・ポッターシリーズ)
 Sako_Aizawa+Medium_霊媒探偵城塚翡翠
 Sako_Aizawa+午前零時のサンドリヨン__Cendrillion_of_Midnight
 Saneatsu_Mushanokoji+Omedetaki_Hito
 Saneatsu_Mushanokoji+Yujo
-Schreibe wie du sprichst_Nakaya_Ukichiro
 Seishi_Yokomizo+まぼろしの怪人
 Seishi_Yokomizo+トランプ台上の首
 Seishi_Yokomizo+仮面城
@@ -15282,10 +14442,7 @@ Seishi_Yokomizo+空蝉処女
 Seishi_Yokomizo+芙蓉屋敷の秘密
 Seishi_Yokomizo+花の通り魔
 Sketches for details Shima_Miyamoto_Yuriko
-TZSCHALLAPPOKO_Kikuchi_Kan
 The Affair of Two Watches_Tanizaki_Jun'ichiro
-list_person_all_extended_utf8.csv
-parse_aozora.py
 “MONICO”_Yosano_Hiroshi
 “にんじん”を観て_Kishida_Kunio
 “健全性”の難しさ_Miyamoto_Yuriko
@@ -15298,5 +14455,4 @@ parse_aozora.py
 “能筆ジム”_Sakaguchi_Ango
 “青い顔”_Madokoro_Saori
 □本居士_Honda_Shinji
-▽ノ遊戯――_I_Sang
 ○○獣_Unno_Juza
