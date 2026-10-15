@@ -47,7 +47,7 @@ Folder `Text_lengths_languages` contains lrngths of texts for languages used in 
 | Quechua    | Quechuan                           | 8-10 million   | SOV          | Inconsistent       | Accusative  | Synthetic                  | LL                    | 41 566              |
 | Romanian   | Indo-European, Itali               | 3-5 million    | SVO          | Dependent          | Accusative  | Synthetic                  | RR                    | 729                 |
 | Russian    | Indo-European, East Slavic         | 260 million    | SVO          | Dependent          | Accusative  | Synthetic                  | R                     | 5 837               |
-| Serbian    | Indo-European, South Slavic        | 12 million     | SVO          | Dependent          | Accusative  | Synthetic                  | L                     | 5 609               |
+| Serbian    | Indo-European, South Slavic        | 12 million     | SVO          | Dependent          | Accusative  | Synthetic                  | L                     | 2 866	              |
 | Sinhala    | Indo-European, Indo-Aryan          | 16 million     | SOV          | Dependent          | Accusative  | Synthetic                  | L                     | 15 004              |
 | Spanish    | Indo-European, Romaniannesque      | 460 million    | SVO          | Inconsistent       | Accusative  | Synthetic                  | RR                    | 4 741               |
 | Swahili    | Niger-Congolese, Benue-Congo       | 50-100 million | SVO          | Inconsistent       | Accusative  | Synthetic                  | RR                    | 1 517               |
