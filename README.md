@@ -5,6 +5,7 @@ Repository for paper "A novel taxonomy of languages: A complex systems perspecti
 
 
 Folder `Titles_languages` contains titles of texts for languages used in the paper.
+Folder `Text_lengths_languages` contains lrngths of texts for languages used in the paper.
 
 | Language   | Family group                       | Population     | Word order   | Locus of marking   | Alignment   | Morphological complexity   | Head directionality   | Number of texts     |
 |:-----------|:-----------------------------------|:---------------|:-------------|:-------------------|:------------|:---------------------------|:----------------------|:--------------------|
