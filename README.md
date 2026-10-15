@@ -31,7 +31,7 @@ Folder `Text_lengths_languages` contains lrngths of texts for languages used in 
 | Hindi      | Indo-European, Indo-Iranian        | 341 million    | SOV          | Inconsistent       | Accusative  | Analytic                   | LL                    | 1 043               |
 | Icelandic  | Indo-European, Scandinavian        | 314 000        | SVO          | Dependent          | Accusative  | Synthetic                  | LL                    | 21 356              |
 | Indonesian | Austronesian, Malay                | 43 million     | SVO          | Zero               | Accusative  | Synthetic                  | RR                    | 1 315               |
-| Japanese   | Japanese-Ryukyu                    | 130 million    | SOV	        | Dependent          | Neutral     | Synthetic                  | LL                    | 15 302              |
+| Japanese   | Japanese-Ryukyu                    | 130 million    | SOV	        | Dependent          | Neutral     | Synthetic                  | LL                    | 14 458              |
 | Kabyle     | Afro-Asiatic, the Northern Berber  | -              | SVO          | Dependent          | Neutral     | Synthetic                  | LL                    | 6 447               |
 | Kazakh     | Altai, Kipchak                     | 18 million     | SOV          | Dependent          | Accusative  | Synthetic                  | R                     | 1 462               |
 | Latin      | Indo-European, Latin-Faliscan      | -              | SOV          | Dependent          | Accusative  | Synthetic                  | LL                    | 7 819               |
