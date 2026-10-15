@@ -16,7 +16,7 @@ Folder `Titles_languages` contains titles of texts for languages used in the pap
 | Bengali    | Indo-European, Bengali Assamese    | 230 million    | SOV          | Dependent          | Accusative  | Synthetic                  | R                     | 29 076              |
 | Bulgarian  | Indo-European, South Slavic        | 9 million      | SVO          | Dependent          | Accusative  | Synthetic                  | R                     | 595                 |
 | Chechen    | Nakhsko-Dagestan, Vainakh          | 1.5 million    | SOV          | Dependent          | Ergative    | Synthetic                  | LL                    | 20 152              |
-| Chinese    | Sino-Tibetan                       | 918 million    | SVO          | Dependent          | Neutral     | Isolating                  | LL                    | 8 242               |
+| Chinese    | Sino-Tibetan                       | 918 million    | SVO          | Dependent          | Neutral     | Isolating                  | LL                    | 2 069               |
 | Coptic     | Afro-Asiatic, Egyptian             | -              | SVO          | Dependent          | Accusative  | Analytic                   | LR                    | 1 322               |
 | Czech      | Indo-European, Slavic, West Slavic | 10.7 million   | SVO          | Dependent          | Accusative  | Synthetic                  | RL                    | 2 780               |
 | Dholuo     | Nilo-Saharan, Nilotic              | 4.2 million    | VSO          | Dependent          | Accusative  | Analytic                   | RL                    | 66                  |
