@@ -47,7 +47,7 @@ Folder `Titles_languages` contains titles of texts for languages used in the pap
 | Russian    | Indo-European, East Slavic         | 260 million    | SVO          | Dependent          | Accusative  | Synthetic                  | R                     | 5 837               |
 | Serbian    | Indo-European, South Slavic        | 12 million     | SVO          | Dependent          | Accusative  | Synthetic                  | L                     | 5 609               |
 | Sinhala    | Indo-European, Indo-Aryan          | 16 million     | SOV          | Dependent          | Accusative  | Synthetic                  | L                     | 15 004              |
-| Spanish    | Indo-European, Romaniannesque      | 460 million    | SVO          | Inconsistent       | Accusative  | Synthetic                  | RR                    | 8 522               |
+| Spanish    | Indo-European, Romaniannesque      | 460 million    | SVO          | Inconsistent       | Accusative  | Synthetic                  | RR                    | 4 741               |
 | Swahili    | Niger-Congolese, Benue-Congo       | 50-100 million | SVO          | Inconsistent       | Accusative  | Synthetic                  | RR                    | 1 517               |
 | Swedish    | Indo-European, Scandinavian        | 10 million     | SVO          | Dependent          | Accusative  | Analytic                   | LR                    | 5 078               |
 | Tabasaran  | Northeast Caucasian, Lezgi         | 125 000        | SOV          | Dependent          | Ergative    | Synthetic                  | R                     | 2 337               |
