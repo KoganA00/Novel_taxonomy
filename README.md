@@ -24,7 +24,7 @@ Folder `Text_lengths_languages` contains lrngths of texts for languages used in 
 | Dholuo     | Nilo-Saharan, Nilotic              | 4.2 million    | VSO          | Dependent          | Accusative  | Analytic                   | RL                    | 66                  |
 | Dutch      | Indo-European                      | 24 million     | SOV          | Inconsistent       | Accusative  | Analytic                   | R                     | 5 532               |
 | English    | Indo-European, Germanic            | 375 million    | SVO          | Dependent          | Accusative  | Analytic                   | LR                    | 10 208              |
-| Esperanto  | Constructed language               | -              | Free         | RI                 | Accusative  | Synthetic                  | L                     | 176                 |
+| Esperanto  | Constructed language               | -              | Free         | RI                 | Accusative  | Synthetic                  | L                     | 26                  |
 | Finnish    | Uralic, Finno-Ugri                 | 5.5 million    | SVO          | Inconsistent       | Accusative  | Synthetic                  | LL                    | 1 276               |
 | French     | Indo-European, Italic              | 77 million     | SVO          | Inconsistent       | Accusative  | Synthetic                  | RR                    | 1 407               |
 | German     | Indo-European, Germanic            | 76 million     | SVO          | Dependent          | Accusative  | Analytic                   | R                     | 7 476               |
