@@ -22,7 +22,7 @@ Folder `Text_lengths_languages` contains lrngths of texts for languages used in 
 | Coptic     | Afro-Asiatic, Egyptian             | -              | SVO          | Dependent          | Accusative  | Analytic                   | LR                    | 1 322               |
 | Czech      | Indo-European, Slavic, West Slavic | 10.7 million   | SVO          | Dependent          | Accusative  | Synthetic                  | RL                    | 2 780               |
 | Dholuo     | Nilo-Saharan, Nilotic              | 4.2 million    | VSO          | Dependent          | Accusative  | Analytic                   | RL                    | 66                  |
-| Dutch      | Indo-European                      | 24 million     | SOV          | Inconsistent       | Accusative  | Analytic                   | R                     | 2 387               |
+| Dutch      | Indo-European                      | 24 million     | SOV          | Inconsistent       | Accusative  | Analytic                   | R                     | 5 532               |
 | English    | Indo-European, Germanic            | 375 million    | SVO          | Dependent          | Accusative  | Analytic                   | LR                    | 10 208              |
 | Esperanto  | Constructed language               | -              | Free         | RI                 | Accusative  | Synthetic                  | L                     | 176                 |
 | Finnish    | Uralic, Finno-Ugri                 | 5.5 million    | SVO          | Inconsistent       | Accusative  | Synthetic                  | LL                    | 1 276               |
